@@ -1,0 +1,1695 @@
+[
+  {
+    "doi": "10.1136/bmj.n71",
+    "title": "The PRISMA 2020 statement: an updated guideline for reporting systematic reviews",
+    "year": 2021,
+    "cites": 92316,
+    "authors": [
+      "Matthew J. Page",
+      "Joanne E. McKenzie",
+      "Patrick M. Bossuyt",
+      "Isabelle Boutron",
+      "Tammy Hoffmann"
+    ],
+    "venue": "BMJ",
+    "pdf": "https://www.bmj.com/content/bmj/372/bmj.n71.full.pdf",
+    "openalex_id": "org/W3118615836",
+    "query": "natural language processing materials science literature"
+  },
+  {
+    "doi": "10.1093/nar/gkv007",
+    "title": "limma powers differential expression analyses for RNA-sequencing and microarray studies",
+    "year": 2015,
+    "cites": 42708,
+    "authors": [
+      "Matthew E. Ritchie",
+      "Belinda Phipson",
+      "Di Wu",
+      "Yifang Hu",
+      "Charity W. Law"
+    ],
+    "venue": "Nucleic Acids Research",
+    "pdf": "https://academic.oup.com/nar/article-pdf/43/7/e47/7207289/gkv007.pdf",
+    "openalex_id": "org/W2146512944",
+    "query": "Bayesian optimization materials processing"
+  },
+  {
+    "doi": "10.1038/srep42717",
+    "title": "SwissADME: a free web tool to evaluate pharmacokinetics, drug-likeness and medicinal chemistry friendliness of small molecules",
+    "year": 2017,
+    "cites": 16854,
+    "authors": [
+      "Antoine Daina",
+      "Olivier Michielin",
+      "Vincent Zoete"
+    ],
+    "venue": "Scientific Reports",
+    "pdf": "https://www.nature.com/articles/srep42717.pdf",
+    "openalex_id": "org/W2593436234",
+    "query": "Bayesian optimization materials processing"
+  },
+  {
+    "doi": "10.1186/s13643-021-01626-4",
+    "title": "The PRISMA 2020 statement: an updated guideline for reporting systematic reviews",
+    "year": 2021,
+    "cites": 13365,
+    "authors": [
+      "Matthew J. Page",
+      "Joanne E. McKenzie",
+      "Patrick M. Bossuyt",
+      "Isabelle Boutron",
+      "Tammy Hoffmann"
+    ],
+    "venue": "Systematic Reviews",
+    "pdf": "https://systematicreviewsjournal.biomedcentral.com/track/pdf/10.1186/s13643-021-01626-4",
+    "openalex_id": "org/W3144543375",
+    "query": "natural language processing materials science literature"
+  },
+  {
+    "doi": "10.1136/bmj.g7647",
+    "title": "Preferred reporting items for systematic review and meta-analysis protocols (PRISMA-P) 2015: elaboration and explanation",
+    "year": 2015,
+    "cites": 13100,
+    "authors": [
+      "Larissa Shamseer",
+      "David Moher",
+      "Mike Clarke",
+      "Davina Ghersi",
+      "A. Liberati"
+    ],
+    "venue": "BMJ",
+    "pdf": "https://www.bmj.com/content/bmj/349/bmj.g7647.full.pdf",
+    "openalex_id": "org/W2169205464",
+    "query": "natural language processing materials science literature"
+  },
+  {
+    "doi": "10.1186/s40537-019-0197-0",
+    "title": "A survey on Image Data Augmentation for Deep Learning",
+    "year": 2019,
+    "cites": 12264,
+    "authors": [
+      "Connor Shorten",
+      "Taghi M. Khoshgoftaar"
+    ],
+    "venue": "Journal Of Big Data",
+    "pdf": "https://journalofbigdata.springeropen.com/track/pdf/10.1186/s40537-019-0197-0",
+    "openalex_id": "org/W2954996726",
+    "query": "natural language processing materials science literature"
+  },
+  {
+    "doi": "10.1038/s41586-018-0579-z",
+    "title": "The UK Biobank resource with deep phenotyping and genomic data",
+    "year": 2018,
+    "cites": 9653,
+    "authors": [
+      "Clare Bycroft",
+      "Colin Freeman",
+      "Desislava Petkova",
+      "Gavin Band",
+      "Lloyd T. Elliott"
+    ],
+    "venue": "Nature",
+    "pdf": "https://www.nature.com/articles/s41586-018-0579-z.pdf",
+    "openalex_id": "org/W2895486342",
+    "query": "Bayesian optimization materials processing"
+  },
+  {
+    "doi": "10.1038/s41592-022-01488-1",
+    "title": "ColabFold: making protein folding accessible to all",
+    "year": 2022,
+    "cites": 9546,
+    "authors": [
+      "Milot Mirdita",
+      "Konstantin Sch\u00fctze",
+      "Yoshitaka Moriwaki",
+      "Lim Heo",
+      "Sergey Ovchinnikov"
+    ],
+    "venue": "Nature Methods",
+    "pdf": "https://www.nature.com/articles/s41592-022-01488-1.pdf",
+    "openalex_id": "org/W4281790889",
+    "query": "Bayesian optimization materials processing"
+  },
+  {
+    "doi": "10.1038/s42254-021-00314-5",
+    "title": "Physics-informed machine learning",
+    "year": 2021,
+    "cites": 6362,
+    "authors": [
+      "George Em Karniadakis",
+      "Ioannis G. Kevrekidis",
+      "Lu Lu",
+      "Paris Perdikaris",
+      "Sifan Wang"
+    ],
+    "venue": "Nature Reviews Physics",
+    "pdf": "https://www.osti.gov/servlets/purl/2282016",
+    "openalex_id": "org/W3163993681",
+    "query": "digital twin metal forming manufacturing"
+  },
+  {
+    "doi": "10.1038/s41586-018-0337-2",
+    "title": "Machine learning for molecular and materials science",
+    "year": 2018,
+    "cites": 4459,
+    "authors": [
+      "Keith T. Butler",
+      "Daniel W. Davies",
+      "Hugh Cartwright",
+      "Olexandr Isayev",
+      "Aron Walsh"
+    ],
+    "venue": "Nature",
+    "pdf": "https://researchportal.bath.ac.uk/en/publications/03379e8b-3fe7-4813-9d45-b94c61ad9740",
+    "openalex_id": "org/W2884430236",
+    "query": "graph neural network alloy property prediction"
+  },
+  {
+    "doi": "10.1007/s11042-020-10139-6",
+    "title": "A review on genetic algorithm: past, present, and future",
+    "year": 2020,
+    "cites": 4388,
+    "authors": [
+      "Sourabh Katoch",
+      "Sumit Singh Chauhan",
+      "Vijay Kumar"
+    ],
+    "venue": "Multimedia Tools and Applications",
+    "pdf": "https://link.springer.com/content/pdf/10.1007/s11042-020-10139-6.pdf",
+    "openalex_id": "org/W3094704314",
+    "query": "graph neural network alloy property prediction"
+  },
+  {
+    "doi": "10.1016/j.addr.2016.06.012",
+    "title": "Physical and mechanical properties of PLA, and their functions in widespread applications \u2014 A comprehensive review",
+    "year": 2016,
+    "cites": 3196,
+    "authors": [
+      "Shady Farah",
+      "Daniel G. Anderson",
+      "R\u00f3bert Langer"
+    ],
+    "venue": "Advanced Drug Delivery Reviews",
+    "pdf": "https://ars.els-cdn.com/content/image/1-s2.0-S0169409X16302058-fx1_lrg.jpg",
+    "openalex_id": "org/W2472329501",
+    "query": "deep learning aluminum casting defect"
+  },
+  {
+    "doi": "10.1038/s41467-019-14108-y",
+    "title": "The role of artificial intelligence in achieving the Sustainable Development Goals",
+    "year": 2020,
+    "cites": 2888,
+    "authors": [
+      "Ricardo Vinuesa",
+      "Hossein Azizpour",
+      "Iolanda Leite",
+      "Madeline Balaam",
+      "Virginia Dignum"
+    ],
+    "venue": "Nature Communications",
+    "pdf": "https://www.nature.com/articles/s41467-019-14108-y.pdf",
+    "openalex_id": "org/W3000603264",
+    "query": "physics informed neural network heat transfer"
+  },
+  {
+    "doi": "10.1146/annurev-fluid-010719-060214",
+    "title": "Machine Learning for Fluid Mechanics",
+    "year": 2019,
+    "cites": 2557,
+    "authors": [
+      "Steven L. Brunton",
+      "Bernd R. Noack",
+      "Petros Koumoutsakos"
+    ],
+    "venue": "Annual Review of Fluid Mechanics",
+    "pdf": "https://arxiv.org/pdf/1905.11075",
+    "openalex_id": "org/W2973119841",
+    "query": "physics informed neural network heat transfer"
+  },
+  {
+    "doi": "10.1109/access.2020.2998358",
+    "title": "Digital Twin: Enabling Technologies, Challenges and Open Research",
+    "year": 2020,
+    "cites": 2419,
+    "authors": [
+      "Aidan Fuller",
+      "Zhong Fan",
+      "Charles Day",
+      "Chris Barlow"
+    ],
+    "venue": "IEEE Access",
+    "pdf": "https://ieeexplore.ieee.org/ielx7/6287639/8948470/09103025.pdf",
+    "openalex_id": "org/W2982936646",
+    "query": "digital twin metal forming manufacturing"
+  },
+  {
+    "doi": "10.62906/bs.book.181",
+    "title": "Inorganic Chemistry: Principles of Structure and Reactivity",
+    "year": 2024,
+    "cites": 2395,
+    "authors": [
+      "Haneen Mohammed Abbas Kasar",
+      "Zainab Najib Badr",
+      "Zahraa Sattar Jaber Khnyab",
+      "Adil Saleh Mohammed Jofan"
+    ],
+    "venue": "Bright Sky Publications eBooks",
+    "pdf": "https://www.bspublications.com/book-pdf/1729246550-inorganic-chemistry-principles-of-structure-and-reactivity.pdf",
+    "openalex_id": "org/W4403733501",
+    "query": "machine learning aluminum alloy design"
+  },
+  {
+    "doi": "10.1038/s41524-019-0221-0",
+    "title": "Recent advances and applications of machine learning in solid-state materials science",
+    "year": 2019,
+    "cites": 2366,
+    "authors": [
+      "Jonathan Schmidt",
+      "M\u00e1rio R. G. Marques",
+      "Silvana Botti",
+      "Miguel A. L. Marques"
+    ],
+    "venue": "npj Computational Materials",
+    "pdf": "https://www.nature.com/articles/s41524-019-0221-0.pdf",
+    "openalex_id": "org/W2968923792",
+    "query": "machine learning aluminum alloy design"
+  },
+  {
+    "doi": "10.1038/npjcompumats.2015.10",
+    "title": "The Open Quantum Materials Database (OQMD): assessing the accuracy of DFT formation energies",
+    "year": 2015,
+    "cites": 2322,
+    "authors": [
+      "Scott Kirklin",
+      "James E. Saal",
+      "Bryce Meredig",
+      "Alexander Thompson",
+      "Jeff W. Doak"
+    ],
+    "venue": "npj Computational Materials",
+    "pdf": "https://www.nature.com/articles/npjcompumats201510.pdf",
+    "openalex_id": "org/W2278970271",
+    "query": "machine learning aluminum alloy design"
+  },
+  {
+    "doi": "10.1007/s10915-022-01939-z",
+    "title": "Scientific Machine Learning Through Physics\u2013Informed Neural Networks: Where we are and What\u2019s Next",
+    "year": 2022,
+    "cites": 2225,
+    "authors": [
+      "Salvatore Cuomo",
+      "Vincenzo Schiano Di Cola",
+      "Fabio Giampaolo",
+      "Gianluigi Rozza",
+      "Maziar Raissi"
+    ],
+    "venue": "Journal of Scientific Computing",
+    "pdf": "https://link.springer.com/content/pdf/10.1007/s10915-022-01939-z.pdf",
+    "openalex_id": "org/W4288039037",
+    "query": "physics informed neural network additive manufacturing metal"
+  },
+  {
+    "doi": "10.1016/j.mattod.2017.07.001",
+    "title": "Additive manufacturing: scientific and technological challenges, market uptake and opportunities",
+    "year": 2017,
+    "cites": 2052,
+    "authors": [
+      "Syed A. M. Tofail",
+      "Elias P. Koumoulos",
+      "Amit Bandyopadhyay",
+      "Susmita Bose",
+      "Lisa O\u2019Donoghue"
+    ],
+    "venue": "Materials Today",
+    "pdf": "https://ars.els-cdn.com/content/image/1-s2.0-S1369702117301773-fx1_lrg.jpg",
+    "openalex_id": "org/W2741574707",
+    "query": "digital twin metal forming manufacturing"
+  },
+  {
+    "doi": "10.1016/j.cirp.2016.05.004",
+    "title": "Design for Additive Manufacturing: Trends, opportunities, considerations, and constraints",
+    "year": 2016,
+    "cites": 1909,
+    "authors": [
+      "Mary Kathryn Thompson",
+      "Giovanni Moroni",
+      "Tom Vaneker",
+      "Georges Fadel",
+      "R.I. Campbell"
+    ],
+    "venue": "CIRP Annals",
+    "pdf": "https://www.sciencedirect.com/science/article/pii/S0007850616301913",
+    "openalex_id": "org/W2475009926",
+    "query": "digital twin metal forming manufacturing"
+  },
+  {
+    "doi": "10.1109/comst.2023.3249835",
+    "title": "On the Road to 6G: Visions, Requirements, Key Technologies, and Testbeds",
+    "year": 2023,
+    "cites": 1902,
+    "authors": [
+      "Cheng\u2010Xiang Wang",
+      "Xiaohu You",
+      "Xiqi Gao",
+      "Xiuming Zhu",
+      "Zixin Li"
+    ],
+    "venue": "IEEE Communications Surveys & Tutorials",
+    "pdf": "https://liu.diva-portal.org/smash/get/diva2:1775943/FULLTEXT01",
+    "openalex_id": "org/W4322576964",
+    "query": "digital twin metal forming manufacturing"
+  },
+  {
+    "doi": "10.1007/s10409-021-01148-1",
+    "title": "Physics-informed neural networks (PINNs) for fluid mechanics: a review",
+    "year": 2021,
+    "cites": 1743,
+    "authors": [
+      "Shengze Cai",
+      "Zhiping Mao",
+      "Zhicheng Wang",
+      "Minglang Yin",
+      "George Em Karniadakis"
+    ],
+    "venue": "Acta Mechanica Sinica",
+    "pdf": "https://www.osti.gov/servlets/purl/2282982",
+    "openalex_id": "org/W4220717841",
+    "query": "physics informed neural network heat transfer"
+  },
+  {
+    "doi": "10.1126/sciadv.aav0693",
+    "title": "New tolerance factor to predict the stability of perovskite oxides and halides",
+    "year": 2019,
+    "cites": 1687,
+    "authors": [
+      "Christopher J. Bartel",
+      "Christopher Sutton",
+      "Bryan R. Goldsmith",
+      "Runhai Ouyang",
+      "Charles B. Musgrave"
+    ],
+    "venue": "Science Advances",
+    "pdf": "https://advances.sciencemag.org/content/advances/5/2/eaav0693.full.pdf",
+    "openalex_id": "org/W2785060548",
+    "query": "graph neural network alloy property prediction"
+  },
+  {
+    "doi": "10.1109/access.2020.2970143",
+    "title": "Digital Twin: Values, Challenges and Enablers From a Modeling Perspective",
+    "year": 2020,
+    "cites": 1678,
+    "authors": [
+      "Adil Rasheed",
+      "Omer San",
+      "Trond Kvamsdal"
+    ],
+    "venue": "IEEE Access",
+    "pdf": "https://ieeexplore.ieee.org/ielx7/6287639/8948470/08972429.pdf",
+    "openalex_id": "org/W3003667836",
+    "query": "physics informed neural network additive manufacturing metal"
+  },
+  {
+    "doi": "10.1186/s12951-022-01477-8",
+    "title": "Nanoparticle classification, physicochemical properties, characterization, and applications: a comprehensive review for biologists",
+    "year": 2022,
+    "cites": 1671,
+    "authors": [
+      "Nadeem Joudeh",
+      "Dirk Linke"
+    ],
+    "venue": "Journal of Nanobiotechnology",
+    "pdf": "https://jnanobiotechnology.biomedcentral.com/counter/pdf/10.1186/s12951-022-01477-8",
+    "openalex_id": "org/W4281679590",
+    "query": "machine learning aluminum alloy design"
+  },
+  {
+    "doi": "10.1101/gad.261982.115",
+    "title": "Cancer stem cells in glioblastoma",
+    "year": 2015,
+    "cites": 1639,
+    "authors": [
+      "Justin D. Lathia",
+      "Stephen C. Mack",
+      "Erin E. Mulkearns-Hubert",
+      "Claudia L.L. Valentim",
+      "Jeremy N. Rich"
+    ],
+    "venue": "Genes & Development",
+    "pdf": "http://genesdev.cshlp.org/content/29/12/1203.full.pdf",
+    "openalex_id": "org/W1902577542",
+    "query": "physics informed neural network heat transfer"
+  },
+  {
+    "doi": "10.1016/s0140-6736(22)01540-9",
+    "title": "The 2022 report of the Lancet Countdown on health and climate change: health at the mercy of fossil fuels",
+    "year": 2022,
+    "cites": 1596,
+    "authors": [
+      "Marina Romanello",
+      "Claudia Di Napoli",
+      "Paul Drummond",
+      "Carole Green",
+      "Harry Kennard"
+    ],
+    "venue": "The Lancet",
+    "pdf": "https://research.birmingham.ac.uk/en/publications/d9842a56-01e1-4108-8ee6-eb97d20b9e9d",
+    "openalex_id": "org/W4307402605",
+    "query": "physics informed neural network heat transfer"
+  },
+  {
+    "doi": "10.48550/arxiv.2303.12712",
+    "title": "Sparks of Artificial General Intelligence: Early experiments with GPT-4",
+    "year": 2023,
+    "cites": 1546,
+    "authors": [
+      "S\u00e9bastien Bubeck",
+      "Varun Chandrasekaran",
+      "Ronen Eldan",
+      "Johannes Gehrke",
+      "Eric Horvitz"
+    ],
+    "venue": "arXiv (Cornell University)",
+    "pdf": "https://arxiv.org/pdf/2303.12712",
+    "openalex_id": "org/W4360836968",
+    "query": "physics informed neural network heat transfer"
+  },
+  {
+    "doi": "10.1016/j.clinph.2020.10.003",
+    "title": "Safety and recommendations for TMS use in healthy subjects and patient populations, with updates on training, ethical and regulatory issues: Expert Guidelines",
+    "year": 2020,
+    "cites": 1461,
+    "authors": [
+      "S\u00edmone Rossi",
+      "Andrea Antal",
+      "Sven Bestmann",
+      "Marom Bikson",
+      "Carmen C. Brewer"
+    ],
+    "venue": "Clinical Neurophysiology",
+    "pdf": "https://doi.org/10.1016/j.clinph.2020.10.003",
+    "openalex_id": "org/W3093743108",
+    "query": "physics informed neural network heat transfer"
+  },
+  {
+    "doi": "10.48550/arxiv.2107.03374",
+    "title": "Evaluating Large Language Models Trained on Code",
+    "year": 2021,
+    "cites": 1423,
+    "authors": [
+      "Mark Chen",
+      "Jerry Tworek",
+      "Heewoo Jun",
+      "Qiming Yuan",
+      "Henrique Pond\u00e9 de Oliveira Pinto"
+    ],
+    "venue": "arXiv (Cornell University)",
+    "pdf": "https://arxiv.org/pdf/2107.03374",
+    "openalex_id": "org/W3177813494",
+    "query": "digital twin metal forming manufacturing"
+  },
+  {
+    "doi": "10.1146/annurev-conmatphys-031119-050605",
+    "title": "Superconducting Qubits: Current State of Play",
+    "year": 2019,
+    "cites": 1388,
+    "authors": [
+      "Morten Kjaergaard",
+      "Mollie E. Schwartz",
+      "Jochen Braum\u00fcller",
+      "Philip Krantz",
+      "Joel I.-J. Wang"
+    ],
+    "venue": "Annual Review of Condensed Matter Physic",
+    "pdf": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-conmatphys-031119-050605",
+    "openalex_id": "org/W2947902637",
+    "query": "physics informed neural network additive manufacturing metal"
+  },
+  {
+    "doi": "10.1109/access.2019.2953499",
+    "title": "A Survey on Digital Twin: Definitions, Characteristics, Applications, and Design Implications",
+    "year": 2019,
+    "cites": 1341,
+    "authors": [
+      "Barbara Rita Barricelli",
+      "Elena Casiraghi",
+      "Daniela Fogli"
+    ],
+    "venue": "IEEE Access",
+    "pdf": "https://ieeexplore.ieee.org/ielx7/6287639/8600701/08901113.pdf",
+    "openalex_id": "org/W2988359971",
+    "query": "machine learning aluminum alloy design"
+  },
+  {
+    "doi": "10.1109/access.2020.3010896",
+    "title": "6G and Beyond: The Future of Wireless Communications Systems",
+    "year": 2020,
+    "cites": 1331,
+    "authors": [
+      "Ian F. Akyildiz",
+      "A.C. Kak",
+      "Shuai Nie"
+    ],
+    "venue": "IEEE Access",
+    "pdf": "https://ieeexplore.ieee.org/ielx7/6287639/8948470/09145564.pdf",
+    "openalex_id": "org/W3045086480",
+    "query": "physics informed neural network additive manufacturing metal"
+  },
+  {
+    "doi": "10.3390/s17010130",
+    "title": "Wearable Sensors for Remote Health Monitoring",
+    "year": 2017,
+    "cites": 1324,
+    "authors": [
+      "Sumit Majumder",
+      "Tapas Mondal",
+      "M. Jamal Deen"
+    ],
+    "venue": "Sensors",
+    "pdf": "https://www.mdpi.com/1424-8220/17/1/130/pdf?version=1484195237",
+    "openalex_id": "org/W2573003069",
+    "query": "automated literature mining aluminum alloy"
+  },
+  {
+    "doi": "10.3390/smartcities4010022",
+    "title": "A Review on Electric Vehicles: Technologies and Challenges",
+    "year": 2021,
+    "cites": 1288,
+    "authors": [
+      "Julio A. Sanguesa",
+      "Vicente Torres\u2010Sanz",
+      "Piedad Garrido",
+      "Francisco J. Mart\u00ednez",
+      "Johann M. M\u00e1rquez-Barja"
+    ],
+    "venue": "Smart Cities",
+    "pdf": "https://www.mdpi.com/2624-6511/4/1/22/pdf?version=1615800939",
+    "openalex_id": "org/W3136124754",
+    "query": "machine learning aluminum alloy design"
+  },
+  {
+    "doi": "10.1021/acs.chemrev.0c00084",
+    "title": "Printability and Shape Fidelity of Bioinks in 3D Bioprinting",
+    "year": 2020,
+    "cites": 1228,
+    "authors": [
+      "A. Schwab",
+      "Riccardo Levato",
+      "Matteo D\u2019Este",
+      "Susanna Piluso",
+      "David Eglin"
+    ],
+    "venue": "Chemical Reviews",
+    "pdf": "https://pubs.acs.org/doi/pdf/10.1021/acs.chemrev.0c00084",
+    "openalex_id": "org/W3082213210",
+    "query": "extrusion process optimization artificial intelligence"
+  },
+  {
+    "doi": "10.1002/adma.202103393",
+    "title": "Ten Years of Progress in the Synthesis and Development of MXenes",
+    "year": 2021,
+    "cites": 1192,
+    "authors": [
+      "Michael Naguib",
+      "Michel W. Barsoum",
+      "Yury Gogotsi"
+    ],
+    "venue": "Advanced Materials",
+    "pdf": "https://www.osti.gov/servlets/purl/1981347",
+    "openalex_id": "org/W3193369452",
+    "query": "machine learning aluminum alloy design"
+  },
+  {
+    "doi": "10.1038/s41586-023-06735-9",
+    "title": "Scaling deep learning for materials discovery",
+    "year": 2023,
+    "cites": 1147,
+    "authors": [
+      "Amil Merchant",
+      "Simon Batzner",
+      "Samuel S. Schoenholz",
+      "Muratahan Aykol",
+      "Gowoon Cheon"
+    ],
+    "venue": "Nature",
+    "pdf": "https://www.nature.com/articles/s41586-023-06735-9.pdf",
+    "openalex_id": "org/W4389132751",
+    "query": "graph neural network alloy property prediction"
+  },
+  {
+    "doi": "10.1038/s41578-022-00460-x",
+    "title": "End-to-end design of wearable sensors",
+    "year": 2022,
+    "cites": 1133,
+    "authors": [
+      "H. Ceren Ates",
+      "Peter Q. Nguyen",
+      "Laura Gonzalez\u2010Macia",
+      "Eden Morales\u2010Narv\u00e1ez",
+      "Firat G\u00fcder"
+    ],
+    "venue": "Nature Reviews Materials",
+    "pdf": "https://www.nature.com/articles/s41578-022-00460-x.pdf",
+    "openalex_id": "org/W4286560842",
+    "query": "extrusion process optimization artificial intelligence"
+  },
+  {
+    "doi": "10.1007/s40843-017-9195-8",
+    "title": "Science and technology in high-entropy alloys",
+    "year": 2018,
+    "cites": 1102,
+    "authors": [
+      "Weiran Zhang",
+      "Peter K. Liaw",
+      "Yong Zhang"
+    ],
+    "venue": "Science China Materials",
+    "pdf": "https://link.springer.com/content/pdf/10.1007/s40843-017-9195-8.pdf",
+    "openalex_id": "org/W2782488992",
+    "query": "machine learning aluminum alloy design"
+  },
+  {
+    "doi": "10.3390/machines11070677",
+    "title": "YOLO-v1 to YOLO-v8, the Rise of YOLO and Its Complementary Nature toward Digital Manufacturing and Industrial Defect Detection",
+    "year": 2023,
+    "cites": 1076,
+    "authors": [
+      "Muhammad Hussain"
+    ],
+    "venue": "Machines",
+    "pdf": "https://www.mdpi.com/2075-1702/11/7/677/pdf?version=1687515370",
+    "openalex_id": "org/W4382059335",
+    "query": "convolutional neural network surface defect aluminum"
+  },
+  {
+    "doi": "10.1038/s41524-022-00734-6",
+    "title": "Recent advances and applications of deep learning methods in materials science",
+    "year": 2022,
+    "cites": 1036,
+    "authors": [
+      "Kamal Choudhary",
+      "Brian DeCost",
+      "Chi Chen",
+      "Anubhav Jain",
+      "Francesca Tavazza"
+    ],
+    "venue": "npj Computational Materials",
+    "pdf": "https://www.nature.com/articles/s41524-022-00734-6.pdf",
+    "openalex_id": "org/W3208687975",
+    "query": "physics informed neural network additive manufacturing metal"
+  },
+  {
+    "doi": "10.1038/sdata.2015.9",
+    "title": "Charting the complete elastic properties of inorganic crystalline compounds",
+    "year": 2015,
+    "cites": 1017,
+    "authors": [
+      "Maarten de Jong",
+      "Wei Chen",
+      "Thomas Angsten",
+      "Anubhav Jain",
+      "Randy Notestine"
+    ],
+    "venue": "Scientific Data",
+    "pdf": "https://www.nature.com/articles/sdata20159.pdf",
+    "openalex_id": "org/W1964746686",
+    "query": "machine learning aluminum alloy design"
+  },
+  {
+    "doi": "10.1002/inf2.12028",
+    "title": "Machine learning in materials science",
+    "year": 2019,
+    "cites": 993,
+    "authors": [
+      "Jing Wei",
+      "Xuan Chu",
+      "Xiangyu Sun",
+      "Kun Xu",
+      "Hui\u2010Xiong Deng"
+    ],
+    "venue": "InfoMat",
+    "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/inf2.12028",
+    "openalex_id": "org/W2972418846",
+    "query": "machine learning aluminum alloy design"
+  },
+  {
+    "doi": "10.1038/s43586-021-00015-4",
+    "title": "X-ray computed tomography",
+    "year": 2021,
+    "cites": 987,
+    "authors": [
+      "Philip J. Withers",
+      "Charles A. Bouman",
+      "Simone Carmignato",
+      "Veerle Cnudde",
+      "David A. Grimaldi"
+    ],
+    "venue": "Nature Reviews Methods Primers",
+    "pdf": "https://www.nature.com/articles/s43586-021-00015-4.pdf",
+    "openalex_id": "org/W3046581697",
+    "query": "deep learning aluminum casting defect"
+  },
+  {
+    "doi": "10.1016/j.apenergy.2020.114848",
+    "title": "Technologies and policies to decarbonize global industry: Review and assessment of mitigation drivers through 2070",
+    "year": 2020,
+    "cites": 976,
+    "authors": [
+      "Jeffrey Rissman",
+      "Chris Bataille",
+      "Eric Masanet",
+      "Nate Aden",
+      "William R. Morrow"
+    ],
+    "venue": "Applied Energy",
+    "pdf": "https://doi.org/10.1016/j.apenergy.2020.114848",
+    "openalex_id": "org/W3013534207",
+    "query": "machine learning direct chill casting aluminum"
+  },
+  {
+    "doi": "10.1017/s1431927619000497",
+    "title": "Four-Dimensional Scanning Transmission Electron Microscopy (4D-STEM): From Scanning Nanodiffraction to Ptychography and Beyond",
+    "year": 2019,
+    "cites": 939,
+    "authors": [
+      "Colin Ophus"
+    ],
+    "venue": "Microscopy and Microanalysis",
+    "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A7E922A2C5BFD7FD3F208C537B872B7A/S1431927619000497a.pdf/div-class-title-four-dimensional-scanning-transmission-electron-microscopy-4d-stem-from-scanning-nanodiffraction-to-ptychography-and-beyond-div.pdf",
+    "openalex_id": "org/W2946591934",
+    "query": "convolutional neural network surface defect aluminum"
+  },
+  {
+    "doi": "10.1109/tsipn.2015.2448520",
+    "title": "Joint Optimization of Radio and Computational Resources for Multicell Mobile-Edge Computing",
+    "year": 2015,
+    "cites": 916,
+    "authors": [
+      "Stefania Sardellitti",
+      "Gesualdo Scutari",
+      "Sergio Barbarossa"
+    ],
+    "venue": "IEEE Transactions on Signal and Informat",
+    "pdf": "https://arxiv.org/pdf/1412.8416",
+    "openalex_id": "org/W1904504745",
+    "query": "graph neural network alloy property prediction"
+  },
+  {
+    "doi": "10.1016/j.jallcom.2019.153548",
+    "title": "Materials for hydrogen-based energy storage \u2013 past, recent progress and future outlook",
+    "year": 2019,
+    "cites": 912,
+    "authors": [
+      "Michael Hirscher",
+      "V.A. Yartys",
+      "Marcello Baricco",
+      "Jos\u00e9 M. Bellosta von Colbe",
+      "Didier Blanchard"
+    ],
+    "venue": "Journal of Alloys and Compounds",
+    "pdf": "https://ars.els-cdn.com/content/image/1-s2.0-S0925838819347942-fx1_lrg.jpg",
+    "openalex_id": "org/W2997563649",
+    "query": "alloy design high entropy aluminum machine learning"
+  },
+  {
+    "doi": "10.1016/j.autcon.2022.104440",
+    "title": "Artificial intelligence and smart vision for building and construction 4.0: Machine and deep learning methods and applications",
+    "year": 2022,
+    "cites": 901,
+    "authors": [
+      "Shanaka Kristombu Baduge",
+      "Sadeep Thilakarathna",
+      "Jude Shalitha Perera",
+      "Mehrdad Arashpour",
+      "P. Sharafi"
+    ],
+    "venue": "Automation in Construction",
+    "pdf": "https://ars.els-cdn.com/content/image/1-s2.0-S0926580522003132-ga1_lrg.jpg",
+    "openalex_id": "org/W4283392904",
+    "query": "physics informed neural network additive manufacturing metal"
+  },
+  {
+    "doi": "10.3390/s18072074",
+    "title": "A Review of Emotion Recognition Using Physiological Signals",
+    "year": 2018,
+    "cites": 894,
+    "authors": [
+      "Lin Shu",
+      "Jinyan Xie",
+      "Mingyue Yang",
+      "Ziyi Li",
+      "Zhiyang Li"
+    ],
+    "venue": "Sensors",
+    "pdf": "https://www.mdpi.com/1424-8220/18/7/2074/pdf?version=1530280392",
+    "openalex_id": "org/W2810418809",
+    "query": "extrusion process optimization artificial intelligence"
+  },
+  {
+    "doi": "10.1038/s43586-022-00174-y",
+    "title": "Organoids",
+    "year": 2022,
+    "cites": 889,
+    "authors": [
+      "Zixuan Zhao",
+      "Xinyi Chen",
+      "Anna M. Dowbaj",
+      "Aleksandra Sljukic",
+      "Kaitlin M. Bratlie"
+    ],
+    "venue": "Nature Reviews Methods Primers",
+    "pdf": "https://www.nature.com/articles/s43586-022-00174-y.pdf",
+    "openalex_id": "org/W4311060730",
+    "query": "extrusion process optimization artificial intelligence"
+  },
+  {
+    "doi": "10.1039/d0cs00098a",
+    "title": "QSAR without borders",
+    "year": 2020,
+    "cites": 837,
+    "authors": [
+      "Eugene Muratov",
+      "J\u00fcrgen Bajorath",
+      "Robert P. Sheridan",
+      "Igor V. Tetko",
+      "Dmitry Filimonov"
+    ],
+    "venue": "Chemical Society Reviews",
+    "pdf": "https://pubs.rsc.org/en/content/articlepdf/2020/cs/d0cs00098a",
+    "openalex_id": "org/W3023042104",
+    "query": "graph neural network alloy property prediction"
+  },
+  {
+    "doi": "10.1145/3485128",
+    "title": "Tackling Climate Change with Machine Learning",
+    "year": 2022,
+    "cites": 830,
+    "authors": [
+      "Lynn H. Kaack",
+      "David Rolnick",
+      "Priya L. Donti",
+      "Kelly Kochanski",
+      "Alexandre Lacoste"
+    ],
+    "venue": "OPUS 4 (Zuse Institute Berlin)",
+    "pdf": null,
+    "openalex_id": "org/W4210916416",
+    "query": "physics informed neural network additive manufacturing metal"
+  },
+  {
+    "doi": "10.1016/j.jpowsour.2020.228708",
+    "title": "Lithium-ion batteries \u2013 Current state of the art and anticipated developments",
+    "year": 2020,
+    "cites": 824,
+    "authors": [
+      "Michel Armand",
+      "Peter Axmann",
+      "Dominic Bresser",
+      "Mark Copley",
+      "Kristina Edstr\u00f6m"
+    ],
+    "venue": "Journal of Power Sources",
+    "pdf": "https://publikationen.bibliothek.kit.edu/1000125211",
+    "openalex_id": "org/W3086341487",
+    "query": "extrusion process optimization artificial intelligence"
+  },
+  {
+    "doi": "10.1016/j.compind.2020.103187",
+    "title": "Agri-food 4.0: A survey of the supply chains and technologies for the future agriculture",
+    "year": 2020,
+    "cites": 806,
+    "authors": [
+      "Mario Lezoche",
+      "Jorge E. Hern\u00e1ndez",
+      "M. M. E. Alemany",
+      "Herv\u00e9 Panetto",
+      "Janusz Kacprzyk"
+    ],
+    "venue": "Computers in Industry",
+    "pdf": "https://www.sciencedirect.com/science/article/am/pii/S0166361519307584",
+    "openalex_id": "org/W2995946162",
+    "query": "physics informed neural network additive manufacturing metal"
+  },
+  {
+    "doi": "10.1016/j.addma.2018.06.020",
+    "title": "Invited review article: Strategies and processes for high quality wire arc additive manufacturing",
+    "year": 2018,
+    "cites": 801,
+    "authors": [
+      "Chloe Cunningham",
+      "Joseph M. Flynn",
+      "Alborz Shokrani",
+      "Vimal Dhokia",
+      "Stephen T. Newman"
+    ],
+    "venue": "Additive manufacturing",
+    "pdf": "https://researchportal.bath.ac.uk/en/publications/ee8ece54-f63b-4eb6-b298-f6e7e40edc04",
+    "openalex_id": "org/W2810885441",
+    "query": "machine learning direct chill casting aluminum"
+  },
+  {
+    "doi": "10.1038/s41392-023-01399-3",
+    "title": "Small molecule metabolites: discovery of biomarkers and therapeutic targets",
+    "year": 2023,
+    "cites": 783,
+    "authors": [
+      "Shi Qiu",
+      "Ying Cai",
+      "Hong Yao",
+      "Chunsheng Lin",
+      "Yiqiang Xie"
+    ],
+    "venue": "Signal Transduction and Targeted Therapy",
+    "pdf": "https://www.nature.com/articles/s41392-023-01399-3.pdf",
+    "openalex_id": "org/W4327947056",
+    "query": "machine learning hot tearing susceptibility"
+  },
+  {
+    "doi": "10.1038/s41578-018-0005-z",
+    "title": "Accelerating the discovery of materials for clean energy in the era of smart automation",
+    "year": 2018,
+    "cites": 775,
+    "authors": [
+      "Daniel P. Tabor",
+      "Lo\u0131\u0308c M. Roch",
+      "Semion K. Saikin",
+      "Christoph Kreisbeck",
+      "Dennis Sheberla"
+    ],
+    "venue": "Nature Reviews Materials",
+    "pdf": "https://www.nature.com/articles/s41578-018-0005-z.pdf",
+    "openalex_id": "org/W2799915630",
+    "query": "physics informed neural network additive manufacturing metal"
+  },
+  {
+    "doi": "10.1063/5.0086359",
+    "title": "A step-by-step guide to perform x-ray photoelectron spectroscopy",
+    "year": 2022,
+    "cites": 739,
+    "authors": [
+      "Grzegorz Greczy\u0144ski",
+      "Lars Hultman"
+    ],
+    "venue": "Journal of Applied Physics",
+    "pdf": "https://aip.scitation.org/doi/pdf/10.1063/5.0086359",
+    "openalex_id": "org/W4283740148",
+    "query": "automated literature mining aluminum alloy"
+  },
+  {
+    "doi": "10.1111/jwas.12714",
+    "title": "Achieving sustainable aquaculture: Historical and current perspectives and future needs and challenges",
+    "year": 2020,
+    "cites": 738,
+    "authors": [
+      "Claude E. Boyd",
+      "Louis R. D\u2019Abramo",
+      "Brent D. Glencross",
+      "David C. Huyben",
+      "Lorenzo Mariano Ju\u00e1rez"
+    ],
+    "venue": "Journal of the World Aquaculture Society",
+    "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jwas.12714",
+    "openalex_id": "org/W3037377642",
+    "query": "extrusion process optimization artificial intelligence"
+  },
+  {
+    "doi": "10.1007/s40684-020-00302-7",
+    "title": "Directed Energy Deposition (DED) Process: State of the Art",
+    "year": 2021,
+    "cites": 725,
+    "authors": [
+      "Dong\u2010Gyu Ahn"
+    ],
+    "venue": "International Journal of Precision Engin",
+    "pdf": "https://link.springer.com/content/pdf/10.1007/s40684-020-00302-7.pdf",
+    "openalex_id": "org/W3129323667",
+    "query": "deep learning aluminum casting defect"
+  },
+  {
+    "doi": "10.1007/s10311-022-01499-6",
+    "title": "Circular economy strategies for combating climate change and other environmental issues",
+    "year": 2022,
+    "cites": 724,
+    "authors": [
+      "Mingyu Yang",
+      "Lin Chen",
+      "Jiangjiang Wang",
+      "Goodluck Msigwa",
+      "Ahmed I. Osman"
+    ],
+    "venue": "Environmental Chemistry Letters",
+    "pdf": "https://link.springer.com/content/pdf/10.1007/s10311-022-01499-6.pdf",
+    "openalex_id": "org/W4294733719",
+    "query": "extrusion process optimization artificial intelligence"
+  },
+  {
+    "doi": "10.1109/access.2019.2945545",
+    "title": "Comprehensive Review of Artificial Neural Network Applications to Pattern Recognition",
+    "year": 2019,
+    "cites": 719,
+    "authors": [
+      "Oludare Isaac Abiodun",
+      "Muhammad Ubale Kiru",
+      "Aman Jantan",
+      "Abiodun Esther Omolara",
+      "Kemi Victoria Dada"
+    ],
+    "venue": "IEEE Access",
+    "pdf": "https://ieeexplore.ieee.org/ielx7/6287639/8600701/08859190.pdf",
+    "openalex_id": "org/W2979040987",
+    "query": "physics informed neural network additive manufacturing metal"
+  },
+  {
+    "doi": "10.1109/access.2020.2981745",
+    "title": "Communications in the 6G Era",
+    "year": 2020,
+    "cites": 703,
+    "authors": [
+      "Harish Viswanathan",
+      "Preben Mogensen"
+    ],
+    "venue": "IEEE Access",
+    "pdf": "https://ieeexplore.ieee.org/ielx7/6287639/8948470/09040431.pdf",
+    "openalex_id": "org/W3011067038",
+    "query": "extrusion process optimization artificial intelligence"
+  },
+  {
+    "doi": "10.1021/acs.chemrev.5b00397",
+    "title": "Concentrating Solar Power",
+    "year": 2015,
+    "cites": 692,
+    "authors": [
+      "Lee A. Weinstein",
+      "James Loomis",
+      "Bikram Bhatia",
+      "David M. Bierman",
+      "Evelyn N. Wang"
+    ],
+    "venue": "Chemical Reviews",
+    "pdf": "https://www.osti.gov/servlets/purl/1218846",
+    "openalex_id": "org/W2193214483",
+    "query": "alloy design high entropy aluminum machine learning"
+  },
+  {
+    "doi": "10.1039/d1cs00186h",
+    "title": "Layered double hydroxide-based electrocatalysts for the oxygen evolution reaction: identification and tailoring of active sites, and superaerophobic nanoarray electrode assembly",
+    "year": 2021,
+    "cites": 689,
+    "authors": [
+      "Daojin Zhou",
+      "Pengsong Li",
+      "Xiao Lin",
+      "Adam McKinley",
+      "Yun Kuang"
+    ],
+    "venue": "Chemical Society Reviews",
+    "pdf": "https://pubs.rsc.org/en/content/articlepdf/2021/cs/d1cs00186h",
+    "openalex_id": "org/W3176022823",
+    "query": "alloy design high entropy aluminum machine learning"
+  },
+  {
+    "doi": "10.1038/s41524-023-01000-z",
+    "title": "Small data machine learning in materials science",
+    "year": 2023,
+    "cites": 683,
+    "authors": [
+      "Pengcheng Xu",
+      "Xiaobo Ji",
+      "Minjie Li",
+      "Wencong Lu"
+    ],
+    "venue": "npj Computational Materials",
+    "pdf": "https://www.nature.com/articles/s41524-023-01000-z.pdf",
+    "openalex_id": "org/W4360949780",
+    "query": "automated literature mining aluminum alloy"
+  },
+  {
+    "doi": "10.1139/er-2020-0019",
+    "title": "A review of machine learning applications in wildfire science and management",
+    "year": 2020,
+    "cites": 683,
+    "authors": [
+      "Piyush Jain",
+      "Sean C.P. Coogan",
+      "Sriram Ganapathi Subramanian",
+      "Mark Crowley",
+      "Steve Taylor"
+    ],
+    "venue": "Environmental Reviews",
+    "pdf": "https://arxiv.org/pdf/2003.00646",
+    "openalex_id": "org/W3008626511",
+    "query": "machine learning hot tearing susceptibility"
+  },
+  {
+    "doi": "10.1016/j.egyr.2022.03.016",
+    "title": "Overview of batteries and battery management for electric vehicles",
+    "year": 2022,
+    "cites": 676,
+    "authors": [
+      "Wei Liu",
+      "Tobias Placke",
+      "K. T. Chau"
+    ],
+    "venue": "Energy Reports",
+    "pdf": "https://doi.org/10.1016/j.egyr.2022.03.016",
+    "openalex_id": "org/W4220909851",
+    "query": "convolutional neural network surface defect aluminum"
+  },
+  {
+    "doi": "10.1016/j.matdes.2023.111661",
+    "title": "Multi-material additive manufacturing: A systematic review of design, properties, applications, challenges, and 3D printing of materials and cellular metamaterials",
+    "year": 2023,
+    "cites": 673,
+    "authors": [
+      "Aamer Nazir",
+      "Ozkan Gokcekaya",
+      "Kazi Md Masum Billah",
+      "Onur Ertu\u011frul",
+      "Jingchao Jiang"
+    ],
+    "venue": "Materials & Design",
+    "pdf": "https://ars.els-cdn.com/content/image/1-s2.0-S026412752300076X-ga1_lrg.jpg",
+    "openalex_id": "org/W4318205606",
+    "query": "deep learning aluminum casting defect"
+  },
+  {
+    "doi": "10.1016/j.addma.2020.101538",
+    "title": "Machine learning in additive manufacturing: State-of-the-art and perspectives",
+    "year": 2020,
+    "cites": 671,
+    "authors": [
+      "Chengcheng Wang",
+      "Xipeng Tan",
+      "Shu Beng Tor",
+      "C.S. Lim"
+    ],
+    "venue": "Additive manufacturing",
+    "pdf": "https://dr.ntu.edu.sg/bitstream/10356/143407/2/Machine%20learning%20in%20additive%20manufacturing%20State-of-the-art%20and%20perspectives.pdf",
+    "openalex_id": "org/W3049618663",
+    "query": "machine learning hot tearing susceptibility"
+  },
+  {
+    "doi": "10.1038/s41586-019-1702-5",
+    "title": "Strategies for improving the sustainability of structural metals",
+    "year": 2019,
+    "cites": 669,
+    "authors": [
+      "Dierk Raabe",
+      "Cemal Cem Ta\u015fan",
+      "Elsa Olivetti"
+    ],
+    "venue": "Nature",
+    "pdf": "https://www.nature.com/articles/s41586-019-1702-5.pdf",
+    "openalex_id": "org/W2982912960",
+    "query": "deep learning aluminum casting defect"
+  },
+  {
+    "doi": "10.1016/j.mser.2020.100596",
+    "title": "Additive manufacturing of structural materials",
+    "year": 2021,
+    "cites": 660,
+    "authors": [
+      "Guo Liu",
+      "Xiaofeng Zhang",
+      "Xuliang Chen",
+      "Yunhu He",
+      "Lizi Cheng"
+    ],
+    "venue": "Materials Science and Engineering R Repo",
+    "pdf": "https://doi.org/10.1016/j.mser.2020.100596",
+    "openalex_id": "org/W3145519504",
+    "query": "deep learning aluminum casting defect"
+  },
+  {
+    "doi": "10.3390/s150818666",
+    "title": "Fibre Optic Sensors for Structural Health Monitoring of Aircraft Composite Structures: Recent Advances and Applications",
+    "year": 2015,
+    "cites": 655,
+    "authors": [
+      "Raffaella Di Sante"
+    ],
+    "venue": "Sensors",
+    "pdf": "https://www.mdpi.com/1424-8220/15/8/18666/pdf?version=1438601189",
+    "openalex_id": "org/W1498930080",
+    "query": "convolutional neural network surface defect aluminum"
+  },
+  {
+    "doi": "10.1039/d0mh01451f",
+    "title": "Artificial intelligence and machine learning in design of mechanical materials",
+    "year": 2020,
+    "cites": 639,
+    "authors": [
+      "Kai Guo",
+      "Zhenze Yang",
+      "Chi\u2010Hua Yu",
+      "Markus J. Buehler"
+    ],
+    "venue": "Materials Horizons",
+    "pdf": "https://pubs.rsc.org/en/content/articlepdf/2021/mh/d0mh01451f",
+    "openalex_id": "org/W3113317199",
+    "query": "convolutional neural network surface defect aluminum"
+  },
+  {
+    "doi": "10.1021/acsnano.8b06511",
+    "title": "Carbon Nanotubes and Related Nanomaterials: Critical Advances and Challenges for Synthesis toward Mainstream Commercial Applications",
+    "year": 2018,
+    "cites": 567,
+    "authors": [
+      "Rahul Rao",
+      "Cary L. Pint",
+      "Ahmad E. Islam",
+      "Robert S. Weatherup",
+      "Stephan Hofmann"
+    ],
+    "venue": "ACS Nano",
+    "pdf": "https://doi.org/10.1021/acsnano.8b06511",
+    "openalex_id": "org/W2903561922",
+    "query": "convolutional neural network surface defect aluminum"
+  },
+  {
+    "doi": "10.1038/s41467-024-45563-x",
+    "title": "Structured information extraction from scientific text with large language models",
+    "year": 2024,
+    "cites": 549,
+    "authors": [
+      "John Dagdelen",
+      "Alexander Dunn",
+      "Sang\u2010Hoon Lee",
+      "Nicholas Walker",
+      "Andrew Rosen"
+    ],
+    "venue": "Nature Communications",
+    "pdf": "https://www.nature.com/articles/s41467-024-45563-x.pdf",
+    "openalex_id": "org/W4391836235",
+    "query": "MatBERT materials science natural language processing"
+  },
+  {
+    "doi": "10.1038/s41524-019-0173-4",
+    "title": "New frontiers for the materials genome initiative",
+    "year": 2019,
+    "cites": 536,
+    "authors": [
+      "Juan Pablo",
+      "Nicholas E. Jackson",
+      "Michael A. Webb",
+      "Long\u2010Qing Chen",
+      "Joel E. Moore"
+    ],
+    "venue": "npj Computational Materials",
+    "pdf": "https://www.nature.com/articles/s41524-019-0173-4.pdf",
+    "openalex_id": "org/W2929465105",
+    "query": "automated literature mining aluminum alloy"
+  },
+  {
+    "doi": "10.1021/acs.chemrev.2c00644",
+    "title": "Enzymes\u2019 Power for Plastics Degradation",
+    "year": 2023,
+    "cites": 529,
+    "authors": [
+      "Vincent Tournier",
+      "Sophie Duquesne",
+      "Fr\u00e9d\u00e9rique Guillamot",
+      "Henri Cramail",
+      "Daniel Taton"
+    ],
+    "venue": "Chemical Reviews",
+    "pdf": "https://hal.science/hal-04150645/document",
+    "openalex_id": "org/W4324130041",
+    "query": "deep learning aluminum casting defect"
+  },
+  {
+    "doi": "10.1177/1687814020913761",
+    "title": "Non-destructive testing and evaluation of composite materials/structures: A state-of-the-art review",
+    "year": 2020,
+    "cites": 526,
+    "authors": [
+      "Bing Wang",
+      "Shuncong Zhong",
+      "Tung-Lik Lee",
+      "Kevin S Fancey",
+      "Jiawei Mi"
+    ],
+    "venue": "Advances in Mechanical Engineering",
+    "pdf": "https://journals.sagepub.com/doi/pdf/10.1177/1687814020913761",
+    "openalex_id": "org/W3016094611",
+    "query": "deep learning aluminum casting defect"
+  },
+  {
+    "doi": "10.1016/j.jcp.2016.10.070",
+    "title": "A review of predictive nonlinear theories for multiscale modeling of heterogeneous materials",
+    "year": 2016,
+    "cites": 487,
+    "authors": [
+      "Karel Matou\u0161",
+      "M.G.D. Geers",
+      "V.G. Kouznetsova",
+      "Andrew Gillman"
+    ],
+    "venue": "Journal of Computational Physics",
+    "pdf": "https://research.tue.nl/en/publications/7f514a53-92cc-481a-bfc0-ac1c975ed0cb",
+    "openalex_id": "org/W2547853451",
+    "query": "deep learning aluminum casting defect"
+  },
+  {
+    "doi": "10.1007/s10853-017-1978-5",
+    "title": "Understanding and mitigating hydrogen embrittlement of steels: a review of experimental, modelling and design progress from atomistic to continuum",
+    "year": 2018,
+    "cites": 471,
+    "authors": [
+      "Olga Barrera",
+      "David Bomba\u010d",
+      "Yi\u2010Sheng Chen",
+      "Thomas D. Daff",
+      "E.I. Galindo-Nava"
+    ],
+    "venue": "Journal of Materials Science",
+    "pdf": "https://link.springer.com/content/pdf/10.1007%2Fs10853-017-1978-5.pdf",
+    "openalex_id": "org/W2785624757",
+    "query": "machine learning hot tearing susceptibility"
+  },
+  {
+    "doi": "10.1016/j.addma.2021.102155",
+    "title": "A review of Laser Powder Bed Fusion Additive Manufacturing of aluminium alloys: Microstructure and properties",
+    "year": 2021,
+    "cites": 469,
+    "authors": [
+      "Hiren R. Kotadia",
+      "Gregory J. Gibbons",
+      "A. Das",
+      "Philip D. Howes"
+    ],
+    "venue": "Additive manufacturing",
+    "pdf": "https://www.sciencedirect.com/science/article/pii/S2214860421003195",
+    "openalex_id": "org/W3179423466",
+    "query": "machine learning direct chill casting aluminum"
+  },
+  {
+    "doi": "10.3866/pku.whxb202108017",
+    "title": "Recent Progress on Two-Dimensional Materials",
+    "year": 2021,
+    "cites": 457,
+    "authors": [
+      "Cheng Chang",
+      "Wei Chen",
+      "Ye Chen",
+      "Yonghua Chen",
+      "Yu Chen"
+    ],
+    "venue": "Acta Physico-Chimica Sinica",
+    "pdf": "http://www.whxb.pku.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=36639",
+    "openalex_id": "org/W3207283791",
+    "query": "machine learning hot tearing susceptibility"
+  },
+  {
+    "doi": "10.1016/j.lanmic.2024.07.010",
+    "title": "Antimicrobial resistance: a concise update",
+    "year": 2024,
+    "cites": 445,
+    "authors": [
+      "Charlotte Shan Ho",
+      "Carlos T H Wong",
+      "Thet Tun Aung",
+      "Rajamani Lakshminarayanan",
+      "Jodhbir S. Mehta"
+    ],
+    "venue": "The Lancet Microbe",
+    "pdf": "https://www.thelancet.com/pdfs/journals/lanmic/PIIS2666-5247(24)00200-3.pdf",
+    "openalex_id": "org/W4402655854",
+    "query": "machine learning hot tearing susceptibility"
+  },
+  {
+    "doi": "10.1016/j.rser.2021.110759",
+    "title": "Climate change and industrial F-gases: A critical and systematic review of developments, sociotechnical systems and policy options for reducing synthetic greenhouse gas emissions",
+    "year": 2021,
+    "cites": 440,
+    "authors": [
+      "Benjamin K. Sovacool",
+      "Steve Griffiths",
+      "Jinsoo Kim",
+      "Morgan Bazilian"
+    ],
+    "venue": "Renewable and Sustainable Energy Reviews",
+    "pdf": "https://pure.au.dk/ws/files/267309491/Climate_change_and_industrial_F_gases.pdf",
+    "openalex_id": "org/W3132315939",
+    "query": "machine learning direct chill casting aluminum"
+  },
+  {
+    "doi": "10.1007/s41116-019-0021-0",
+    "title": "The multi-scale nature of the solar wind",
+    "year": 2019,
+    "cites": 406,
+    "authors": [
+      "Daniel Verscharen",
+      "K. G. Klein",
+      "B. A. Maruca"
+    ],
+    "venue": "Living Reviews in Solar Physics",
+    "pdf": "https://link.springer.com/content/pdf/10.1007/s41116-019-0021-0.pdf",
+    "openalex_id": "org/W2942087474",
+    "query": "machine learning hot tearing susceptibility"
+  },
+  {
+    "doi": "10.1088/1361-6463/ab1b04",
+    "title": "The 2019 surface acoustic waves roadmap",
+    "year": 2019,
+    "cites": 392,
+    "authors": [
+      "Per Delsing",
+      "A. N. Cleland",
+      "Martin J. A. Schuetz",
+      "Johannes Kn\u00f6rzer",
+      "G. Giedke"
+    ],
+    "venue": "Journal of Physics D Applied Physics",
+    "pdf": "https://iopscience.iop.org/article/10.1088/1361-6463/ab1b04/pdf",
+    "openalex_id": "org/W2945721920",
+    "query": "machine learning hot tearing susceptibility"
+  },
+  {
+    "doi": "10.1016/j.pmatsci.2021.100795",
+    "title": "Emerging metallic systems for additive manufacturing: In-situ alloying and multi-metal processing in laser powder bed fusion",
+    "year": 2021,
+    "cites": 309,
+    "authors": [
+      "Swee Leong Sing",
+      "Sheng Huang",
+      "Guo Dong Goh",
+      "Guo Liang Goh",
+      "Cher Fu Tey"
+    ],
+    "venue": "Progress in Materials Science",
+    "pdf": "https://www.sciencedirect.com/science/article/pii/S0079642521000190",
+    "openalex_id": "org/W3136900496",
+    "query": "machine learning hot tearing susceptibility"
+  },
+  {
+    "doi": "10.3133/mcs2023",
+    "title": "Mineral commodity summaries 2023",
+    "year": 2023,
+    "cites": 308,
+    "authors": [
+      "U.S. Geological Survey"
+    ],
+    "venue": "?",
+    "pdf": "https://pubs.usgs.gov/periodicals/mcs2023/mcs2023.pdf",
+    "openalex_id": "org/W4318619700",
+    "query": "machine learning direct chill casting aluminum"
+  },
+  {
+    "doi": "10.1038/s41699-021-00231-2",
+    "title": "2D boron nitride nanosheets for polymer composite materials",
+    "year": 2021,
+    "cites": 303,
+    "authors": [
+      "Md Golam Rasul",
+      "Alper K\u0131z\u0131lta\u015f",
+      "Babak Arfaei",
+      "Reza Shahbazian\u2010Yassar"
+    ],
+    "venue": "npj 2D Materials and Applications",
+    "pdf": "https://www.nature.com/articles/s41699-021-00231-2.pdf",
+    "openalex_id": "org/W3163639760",
+    "query": "machine learning direct chill casting aluminum"
+  },
+  {
+    "doi": "10.1007/s11356-024-34584-0",
+    "title": "Comprehensive review of industrial wastewater treatment techniques",
+    "year": 2024,
+    "cites": 236,
+    "authors": [
+      "Shoma Kato",
+      "Yasuki Kansha"
+    ],
+    "venue": "Environmental Science and Pollution Rese",
+    "pdf": "https://link.springer.com/content/pdf/10.1007/s11356-024-34584-0.pdf",
+    "openalex_id": "org/W4401404274",
+    "query": "machine learning direct chill casting aluminum"
+  },
+  {
+    "doi": "10.1002/adfm.202213455",
+    "title": "Phase Change Materials for Life Science Applications",
+    "year": 2023,
+    "cites": 204,
+    "authors": [
+      "Mina Zare",
+      "Kirsi S. Mikkonen"
+    ],
+    "venue": "Advanced Functional Materials",
+    "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adfm.202213455",
+    "openalex_id": "org/W4319791614",
+    "query": "machine learning direct chill casting aluminum"
+  },
+  {
+    "doi": "10.1039/d4sc03921a",
+    "title": "A review of large language models and autonomous agents in chemistry",
+    "year": 2024,
+    "cites": 185,
+    "authors": [
+      "Mayk Caldas Ramos",
+      "Christopher J. Collison",
+      "Andrew Dickson White"
+    ],
+    "venue": "Chemical Science",
+    "pdf": "https://doi.org/10.1039/d4sc03921a",
+    "openalex_id": "org/W4405185373",
+    "query": "MatBERT materials science natural language processing"
+  },
+  {
+    "doi": "10.1038/s41524-023-01003-w",
+    "title": "A general-purpose material property data extraction pipeline from large polymer corpora using natural language processing",
+    "year": 2023,
+    "cites": 124,
+    "authors": [
+      "Pranav Shetty",
+      "Arunkumar Chitteth Rajan",
+      "Chris Kuenneth",
+      "Sonakshi Gupta",
+      "Lakshmi Prerana Panchumarti"
+    ],
+    "venue": "npj Computational Materials",
+    "pdf": "https://www.nature.com/articles/s41524-023-01003-w.pdf",
+    "openalex_id": "org/W4362640271",
+    "query": "MatBERT materials science natural language processing"
+  },
+  {
+    "doi": "10.1016/j.rineng.2024.102566",
+    "title": "Recycling aluminium for sustainable development: A review of different processing technologies in green manufacturing",
+    "year": 2024,
+    "cites": 117,
+    "authors": [
+      "Sami Al-Alimi",
+      "Nur Kamilah Yusuf",
+      "Atef M. Ghaleb",
+      "Mohd Amri Lajis",
+      "Shazarel Shamsudin"
+    ],
+    "venue": "Results in Engineering",
+    "pdf": "https://doi.org/10.1016/j.rineng.2024.102566",
+    "openalex_id": "org/W4400614945",
+    "query": "machine learning direct chill casting aluminum"
+  },
+  {
+    "doi": "10.1038/s41597-024-03039-z",
+    "title": "MatKG: An autonomously generated knowledge graph in Material Science",
+    "year": 2024,
+    "cites": 65,
+    "authors": [
+      "Vineeth Venugopal",
+      "Elsa Olivetti"
+    ],
+    "venue": "Scientific Data",
+    "pdf": "https://www.nature.com/articles/s41597-024-03039-z.pdf",
+    "openalex_id": "org/W4391897357",
+    "query": "MatBERT materials science natural language processing"
+  },
+  {
+    "doi": "10.1038/s43246-024-00449-9",
+    "title": "Accelerating materials language processing with large language models",
+    "year": 2024,
+    "cites": 64,
+    "authors": [
+      "Jaewoong Choi",
+      "Byungju Lee"
+    ],
+    "venue": "Communications Materials",
+    "pdf": "https://www.nature.com/articles/s43246-024-00449-9.pdf",
+    "openalex_id": "org/W4391846075",
+    "query": "MatBERT materials science natural language processing"
+  },
+  {
+    "doi": "10.1038/s41597-022-01321-6",
+    "title": "Text-mined dataset of gold nanoparticle synthesis procedures, morphologies, and size entities",
+    "year": 2022,
+    "cites": 57,
+    "authors": [
+      "Kevin Cruse",
+      "Amalie Trewartha",
+      "Sang\u2010Hoon Lee",
+      "Zheren Wang",
+      "Haoyan Huo"
+    ],
+    "venue": "Scientific Data",
+    "pdf": "https://www.nature.com/articles/s41597-022-01321-6.pdf",
+    "openalex_id": "org/W4281559792",
+    "query": "MatBERT materials science natural language processing"
+  },
+  {
+    "doi": "10.1021/acs.jcim.2c01259",
+    "title": "OpticalBERT and OpticalTable-SQA: Text- and Table-Based Language Models for the Optical-Materials Domain",
+    "year": 2023,
+    "cites": 44,
+    "authors": [
+      "Jiuyang Zhao",
+      "Shu Huang",
+      "Jacqueline M. Cole"
+    ],
+    "venue": "Journal of Chemical Information and Mode",
+    "pdf": "https://doi.org/10.1021/acs.jcim.2c01259",
+    "openalex_id": "org/W4327913228",
+    "query": "MatBERT materials science natural language processing"
+  },
+  {
+    "doi": "10.1039/d2sc04322j",
+    "title": "BatteryDataExtractor: battery-aware text-mining software embedded with BERT models",
+    "year": 2022,
+    "cites": 41,
+    "authors": [
+      "Shu Huang",
+      "Jacqueline M. Cole"
+    ],
+    "venue": "Chemical Science",
+    "pdf": "https://pubs.rsc.org/en/content/articlepdf/2022/sc/d2sc04322j",
+    "openalex_id": "org/W4296836559",
+    "query": "MatBERT materials science natural language processing"
+  },
+  {
+    "doi": "10.1038/s41524-024-01231-8",
+    "title": "Leveraging language representation for materials exploration and discovery",
+    "year": 2024,
+    "cites": 35,
+    "authors": [
+      "Jiaxing Qu",
+      "Yuxuan Richard Xie",
+      "Kamil Ciesielski",
+      "Claire E. Porter",
+      "Eric S. Toberer"
+    ],
+    "venue": "npj Computational Materials",
+    "pdf": "https://www.nature.com/articles/s41524-024-01231-8.pdf",
+    "openalex_id": "org/W4393038846",
+    "query": "MatBERT materials science natural language processing"
+  },
+  {
+    "doi": "10.1016/j.patter.2023.100803",
+    "title": "Accurate, interpretable predictions of materials properties within transformer language models",
+    "year": 2023,
+    "cites": 34,
+    "authors": [
+      "Vadim Korolev",
+      "Pavel Protsenko"
+    ],
+    "venue": "Patterns",
+    "pdf": "http://www.cell.com/article/S2666389923001587/pdf",
+    "openalex_id": "org/W4385484300",
+    "query": "MatBERT materials science natural language processing"
+  }
+]

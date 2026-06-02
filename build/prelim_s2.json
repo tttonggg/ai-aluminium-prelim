@@ -1,0 +1,688 @@
+[
+  {
+    "title": "Machine Learning-Assisted High-Donor-Number Electrolyte Additive Screening toward Construction of Dendrite-Free Aqueous Zinc-Ion Batteries.",
+    "year": 2025,
+    "venue": "ACS Nano",
+    "authors": [
+      "Haoran Luo",
+      "Q. Gou",
+      "Y. Zheng",
+      "Kaixin Wang"
+    ],
+    "citations": 74,
+    "abstract": "The utilization of electrolyte additives has been regarded as an efficient strategy to construct dendrite-free aqueous zinc-ion batteries (AZIBs). However, the blurry screening criteria and time-consuming experimental tests inevitably restrict the application prospect of the electrolyte additive strategy. With the rise of artificial intelligence technology, machine learning (ML) provides an avenue",
+    "arxiv_id": null,
+    "doi": "10.1021/acsnano.4c13312",
+    "s2_id": "9d02665ff7d402a3ec83106b44ba094b8955669b",
+    "pdf": "",
+    "al_score": 1
+  },
+  {
+    "title": "Quantitative Topic Analysis of Materials Science Literature Using Natural Language Processing.",
+    "year": 2023,
+    "venue": "ACS Applied Materials and Interfaces",
+    "authors": [
+      "Jaewoong Choi",
+      "Byungju Lee"
+    ],
+    "citations": 22,
+    "abstract": "Materials science research has garnered extensive attention from industry, society, policy, and academia. However, understanding the research landscape and extracting strategic insights are challenging due to the increasing diversity and volume of publications. This study proposes a natural language processing-based protocol for extracting text-encoded topics from a large volume of scientific lite",
+    "arxiv_id": null,
+    "doi": "10.1021/acsami.3c12301",
+    "s2_id": "14d1fd2634add4c1d28e05423073c66ec27e0ac5",
+    "pdf": "",
+    "al_score": 1
+  },
+  {
+    "title": "Warm and hot deformation behaviors and hot workability of an Aluminum-Magnesium alloy using artificial neural network",
+    "year": 2023,
+    "venue": "Materials Today Communications",
+    "authors": [
+      "N. N. Moghadam",
+      "S. Serajzadeh"
+    ],
+    "citations": 17,
+    "abstract": "",
+    "arxiv_id": null,
+    "doi": "10.1016/j.mtcomm.2023.105986",
+    "s2_id": "ddcb2e2e964ed699405f8121f64472746d8682aa",
+    "pdf": "",
+    "al_score": 1
+  },
+  {
+    "title": "Optimization of flow stress model and 3D-processing map for spray-formed aluminum alloy 7055 based on GA-BP Artificial Neural Network",
+    "year": 2025,
+    "venue": "Journal of Alloys and Compounds",
+    "authors": [
+      "Xiaomin Lin",
+      "Xiaodong Wu",
+      "Lingfei Cao",
+      "Min Bai"
+    ],
+    "citations": 16,
+    "abstract": "",
+    "arxiv_id": null,
+    "doi": "10.1016/j.jallcom.2025.179743",
+    "s2_id": "cc603a838c6ddbfb3a0bbefb3a2892c7b753ab56",
+    "pdf": "",
+    "al_score": 1
+  },
+  {
+    "title": "Automated Porosity Characterization for Aluminum Die Casting Materials Using X-ray Radiography, Synthetic X-ray Data Augmentation by Simulation, and Machine Learning",
+    "year": 2024,
+    "venue": "Italian National Conference on Sensors",
+    "authors": [
+      "Stefan Bosse",
+      "D. Lehmhus",
+      "Sanjeev Kumar"
+    ],
+    "citations": 12,
+    "abstract": "Detection and characterization of hidden defects, impurities, and damages in homogeneous materials like aluminum die casting materials, as well as composite materials like Fiber\u2013Metal Laminates (FML), is still a challenge. This work discusses methods and challenges in data-driven modeling of automated damage and defect detectors using measured X-ray single- and multi-projection images. Three main ",
+    "arxiv_id": null,
+    "doi": "10.3390/s24092933",
+    "s2_id": "7e54dba1214b2850d57d55e22fa879a35f0f4e82",
+    "pdf": "https://doi.org/10.3390/s24092933",
+    "al_score": 2
+  },
+  {
+    "title": "A joint diffusion/collision model for crystal growth in pure liquid metals",
+    "year": 2024,
+    "venue": "Nature Communications",
+    "authors": [
+      "Hua Men"
+    ],
+    "citations": 10,
+    "abstract": "The kinetics of atomic attachments at the liquid/solid interface is one of the foundations of solidification theory, and to date one of the long-standing questions remains: whether or not the growth is thermal activated in pure liquid metals. Using molecular dynamics simulations and machine learning, I have demonstrated that a considerable fraction of liquid atoms at the interfaces of Al(111), (11",
+    "arxiv_id": null,
+    "doi": "10.1038/s41467-024-50182-7",
+    "s2_id": "c4b9187f0df97acf702e8dadee3a6a447c6fb26e",
+    "pdf": "https://doi.org/10.1038/s41467-024-50182-7",
+    "al_score": 1
+  },
+  {
+    "title": "Industrial Application of Deep Neural Network for Aluminum Casting Defect Detection in Case of Unbalanced Dataset",
+    "year": 2022,
+    "venue": "Advances in Science and Technology Research Journal",
+    "authors": [
+      "M. Awtoniuk",
+      "D. Majerek",
+      "A. Myziak",
+      "Cyprian Gajda"
+    ],
+    "citations": 9,
+    "abstract": "We have developed a deep neural network for casting defect detection. The approach is original because it assumes the use of data related to the casting manufacturing process, i.e. measurement signals from the casting machine, rather than data describing the finished casting, e.g. images. The defects are related to the production of car engine heads made of silumin. In the current research we focu",
+    "arxiv_id": null,
+    "doi": "10.12913/22998624/154963",
+    "s2_id": "fb19892f6a465d81d0aa8af94f3a50a56293dc50",
+    "pdf": "http://www.astrj.com/pdf-154963-82855?filename=Industrial Application of.pdf",
+    "al_score": 2
+  },
+  {
+    "title": "Automated Defect Detection through Flaw Grading in Non-Destructive Testing Digital X-ray Radiography",
+    "year": 2024,
+    "venue": "Networked Digital Technologies",
+    "authors": [
+      "Bata Hena",
+      "Gabriel Ramos",
+      "C. Ibarra-Castanedo",
+      "X. Maldague"
+    ],
+    "citations": 7,
+    "abstract": "Process automation utilizes specialized technology and equipment to automate and enhance production processes, leading to higher manufacturing efficiency, higher productivity, and cost savings. The aluminum die casting industry has significantly gained from the implementation of process automation solutions in manufacturing, serving safety-critical sectors such as automotive and aerospace industri",
+    "arxiv_id": null,
+    "doi": "10.3390/ndt2040023",
+    "s2_id": "e6df989fb1a1c64fef0684704e1248cf0117ed4d",
+    "pdf": "https://doi.org/10.3390/ndt2040023",
+    "al_score": 2
+  },
+  {
+    "title": "Numerical Simulation and Machine Learning Prediction of the Direct Chill Casting Process of Large-Scale Aluminum Ingots",
+    "year": 2024,
+    "venue": "Materials",
+    "authors": [
+      "Guanhua Guo",
+      "Ting Yao",
+      "Wensheng Liu",
+      "Sai Tang"
+    ],
+    "citations": 7,
+    "abstract": "The large-scale ingot of the 7xxx-series aluminum alloys fabricated by direct chill (DC) casting often suffers from foundry defects such as cracks and cold shut due to the formidable challenges in the precise controlling of casting parameters. In this manuscript, by using the integrated computational method combining numerical simulations with machine learning, we systematically estimated the evol",
+    "arxiv_id": null,
+    "doi": "10.3390/ma17061409",
+    "s2_id": "1be84697c285106b13894aeb774a37e6378be62d",
+    "pdf": "https://www.mdpi.com/1996-1944/17/6/1409/pdf?version=1710868451",
+    "al_score": 2
+  },
+  {
+    "title": "Experimental, FEA, and machine learning studies on wear behavior of LM13 aluminum hybrid composites reinforced with zircon and graphite",
+    "year": 2025,
+    "venue": "Proceedings of the Institution of mechanical engineers. Part J, journal of engineering tribology",
+    "authors": [
+      "Ravitej Yellampalli Prakash",
+      "Bommishetty Venkata Naga Ramakumar",
+      "K. R.",
+      "S.S. Patil"
+    ],
+    "citations": 6,
+    "abstract": "\n This paper examines applied load and zircon reinforcement influence on LM13 alloy composites\u2019 wear behavior. LM13 was reinforced with 3\u2005wt.% graphite with 3, 6, 9, and 12 weight percent of zircon utilizing a stir casting technique with a chill end to achieve unidirectional solidification. Wear tests were conducted on specimen's chill end using a pin-on-disc apparatus under loads of 30\u2005N, to 70\u2005N",
+    "arxiv_id": null,
+    "doi": "10.1177/13506501251367549",
+    "s2_id": "a5ea3e0b8ef867a33e572697142c7f190cf75a61",
+    "pdf": "",
+    "al_score": 2
+  },
+  {
+    "title": "Question Answering models for information extraction from perovskite materials science literature",
+    "year": 2024,
+    "venue": "Communications Materials",
+    "authors": [
+      "Matilda Sipil\u00e4",
+      "Farrokh Mehryary",
+      "Sampo Pyysalo",
+      "Filip Ginter"
+    ],
+    "citations": 6,
+    "abstract": "Scientific text is a promising source of data in materials science, with ongoing research into utilising textual data for materials discovery. In this study, we developed and tested a Question Answering (QA) approach to extract material-property relationships from scientific publications. QA performance was evaluated for information extraction of perovskite bandgaps based on a human query. We obse",
+    "arxiv_id": "2405.15290",
+    "doi": "10.1038/s43246-025-00979-w",
+    "s2_id": "b934c00898d9b7e5a02f768c4b68498cdacc8ea8",
+    "pdf": "",
+    "al_score": 1
+  },
+  {
+    "title": "Bifunctional Flexible Eutectogel: Zinc Cell Dendrite Inhibition and Machine Learning-Assisted Parkinson's Disease Monitoring.",
+    "year": 2025,
+    "venue": "Small",
+    "authors": [
+      "Xiaohan Hu",
+      "Yinan Zhao",
+      "Siyue Qiu",
+      "Jialiang Nie"
+    ],
+    "citations": 5,
+    "abstract": "",
+    "arxiv_id": null,
+    "doi": "10.1002/smll.202508361",
+    "s2_id": "34f6a35c59e26508010b3545252f556215e2aba6",
+    "pdf": "",
+    "al_score": 1
+  },
+  {
+    "title": "Study on Stress\u2013Strain and Hot Tearing of Liquid Film Between Single Grains of High-Silicon Aluminum Alloy",
+    "year": 2024,
+    "venue": "International Journal of Metals",
+    "authors": [
+      "Zhujie Zhou",
+      "Xiaogang Fang",
+      "Zhili Ma",
+      "Kaixuan Zhang"
+    ],
+    "citations": 5,
+    "abstract": "",
+    "arxiv_id": null,
+    "doi": "10.1007/s40962-024-01379-5",
+    "s2_id": "4c61326abdf03591c2e45a0296b7424e59380dad",
+    "pdf": "",
+    "al_score": 1
+  },
+  {
+    "title": "Research on the Influence of Casting Process on Hot tearing Tendency of 7050 Aluminum Alloy",
+    "year": 2024,
+    "venue": "International Journal of Metals",
+    "authors": [
+      "Huaqi Shi",
+      "Liang Bai",
+      "Xinlong Zhang",
+      "Danyang Wang"
+    ],
+    "citations": 4,
+    "abstract": "",
+    "arxiv_id": null,
+    "doi": "10.1007/s40962-024-01501-7",
+    "s2_id": "741fbc51cbafb20706a48e4f61e875ff1de18b79",
+    "pdf": "",
+    "al_score": 2
+  },
+  {
+    "title": "Effect of Superheat on Hot Tearing Susceptibility in Re-melted 6061 Aluminum Alloy",
+    "year": 2024,
+    "venue": "International Journal of Metals",
+    "authors": [
+      "A. Akhyar",
+      "Zulfadhli",
+      "N. Ali",
+      "Arhami"
+    ],
+    "citations": 4,
+    "abstract": "",
+    "arxiv_id": null,
+    "doi": "10.1007/s40962-024-01498-z",
+    "s2_id": "ee05191ce2123ce5aa4e62d320a9c73ce4a1baac",
+    "pdf": "",
+    "al_score": 1
+  },
+  {
+    "title": "Automated Detection of hidden Damages and Impurities in Aluminum Die Casting Materials and Fibre-Metal Laminates using Low-quality X-ray Radiography, Synthetic X-ray Data Augmentation by Simulation, and Machine Learning",
+    "year": 2023,
+    "venue": "arXiv.org",
+    "authors": [
+      "Stefan Bosse",
+      "D. Lehmhus"
+    ],
+    "citations": 4,
+    "abstract": "Detection and characterization of hidden defects, impurities, and damages in layered composites like Fibre laminates, e.g., Fibre Metal Laminates (FML), as well as in monolithic materials, e.g., aluminum die casting materials, is still a challenge. This work discusses methods and challenges in data-driven modeling of automated damage and defect detectors using X-ray single- and multi-projection (C",
+    "arxiv_id": "2311.12041",
+    "doi": "10.48550/arXiv.2311.12041",
+    "s2_id": "d8923620cec9851db1a924e60f4d323f4aff06e9",
+    "pdf": "",
+    "al_score": 2
+  },
+  {
+    "title": "From Tokens to Materials: Leveraging Language Models for Scientific Discovery",
+    "year": 2024,
+    "venue": "arXiv.org",
+    "authors": [
+      "Yuwei Wan",
+      "Tong Xie",
+      "Na Wu",
+      "Wenjie Zhang"
+    ],
+    "citations": 3,
+    "abstract": "Exploring the predictive capabilities of language models in material science is an ongoing interest. This study investigates the application of language model embeddings to enhance material property prediction in materials science. By evaluating various contextual embedding methods and pre-trained models, including Bidirectional Encoder Representations from Transformers (BERT) and Generative Pre-t",
+    "arxiv_id": "2410.16165",
+    "doi": "10.48550/arXiv.2410.16165",
+    "s2_id": "2324ba29cb890d2ba3ace7fcd5cf44dca57bb303",
+    "pdf": "",
+    "al_score": 1
+  },
+  {
+    "title": "Role of Iron Content in Hot Tearing Susceptibility of Recycled Aluminum Alloy 6061",
+    "year": 2025,
+    "venue": "Metallurgical and Materials Transactions B",
+    "authors": [
+      "Jianyue Zhang",
+      "Buwei Chen",
+      "Gabriel Garcia",
+      "Chia-Yu Chang"
+    ],
+    "citations": 2,
+    "abstract": "",
+    "arxiv_id": null,
+    "doi": "10.1007/s11663-025-03922-z",
+    "s2_id": "f39baa42c9303684e0d8e923e6b7909205055711",
+    "pdf": "",
+    "al_score": 1
+  },
+  {
+    "title": "Scalable Autoregressive Deep Surrogates for Dendritic Microstructure Dynamics",
+    "year": 2025,
+    "venue": "",
+    "authors": [
+      "Kaihua Ji",
+      "Luning Sun",
+      "Shusen Liu",
+      "F. Zhou"
+    ],
+    "citations": 2,
+    "abstract": "Microstructural pattern formation, such as dendrite growth, occurs widely in materials and energy systems, significantly influencing material properties and functional performance. While the phase-field method has emerged as a powerful computational tool for modeling microstructure dynamics, its high computational cost limits its integration into practical materials design workflows. Here, we intr",
+    "arxiv_id": "2511.03884",
+    "doi": null,
+    "s2_id": "c0b3418430493c3fb643574b6c0e39361bc7bdd5",
+    "pdf": "",
+    "al_score": 2
+  },
+  {
+    "title": "Machine Learning-Assisted Process Prediction of Horizontal Continuous Casting for Copper Tubular Billets",
+    "year": 2025,
+    "venue": "Journal of materials engineering and performance (Print)",
+    "authors": [
+      "Jin-song Liu",
+      "Hai Long",
+      "Da-yong Chen",
+      "Hong-wu Song"
+    ],
+    "citations": 2,
+    "abstract": "",
+    "arxiv_id": null,
+    "doi": "10.1007/s11665-025-11028-5",
+    "s2_id": "e51c69bb9615aa4ebfff9b6b95dc18e42452058f",
+    "pdf": "",
+    "al_score": 2
+  },
+  {
+    "title": "Modeling of Flow Stress of As-Rolled 7075 Aluminum Alloy during Hot Deformation by Artificial Neural Network and Application",
+    "year": 2022,
+    "venue": "Journal of materials engineering and performance (Print)",
+    "authors": [
+      "Hongbin Yang",
+      "M. Li",
+      "Hengyong Bu",
+      "Xin Lu"
+    ],
+    "citations": 2,
+    "abstract": "",
+    "arxiv_id": null,
+    "doi": "10.1007/s11665-022-07474-0",
+    "s2_id": "4b9ee14ab7a0893c346673cda83901ae92ba84b7",
+    "pdf": "",
+    "al_score": 1
+  },
+  {
+    "title": "Evolution of Dendritic Patterns During Directional Solidification of Ni-Base Alloys: Towards Hexagonally Ordered, Close-Packed Dendrite Arrays",
+    "year": 2026,
+    "venue": "Metallurgical and Materials Transactions. A",
+    "authors": [
+      "H. Dong"
+    ],
+    "citations": 1,
+    "abstract": "",
+    "arxiv_id": null,
+    "doi": "10.1007/s11661-025-08072-0",
+    "s2_id": "85ae9d9f699156957b1d3fe8f61d2341081915e4",
+    "pdf": "",
+    "al_score": 1
+  },
+  {
+    "title": "Optimization of Hot Stamping Parameters for Aluminum Alloy Crash Beams Using Neural Networks and Genetic Algorithms",
+    "year": 2025,
+    "venue": "Metals",
+    "authors": [
+      "R. Qu",
+      "Zhiqiang Zhang",
+      "M. Ren",
+      "Hongjie Jia"
+    ],
+    "citations": 1,
+    "abstract": "The hot stamping process of aluminum alloys involves multiple parameters, including blank holder force, stamping speed, die temperature, and friction coefficient. Traditional methods often fail to capture the nonlinear interactions among these parameters. This study proposes an optimization framework that integrates BP neural networks with genetic algorithms (GA), while six bio-inspired algorithms",
+    "arxiv_id": null,
+    "doi": "10.3390/met15091047",
+    "s2_id": "f4c8e73162e25ff5821f91f0775faddefcfb3ecd",
+    "pdf": "",
+    "al_score": 1
+  },
+  {
+    "title": "Machine learning-based study of dynamic shrinkage behavior during solidification of castings",
+    "year": 2025,
+    "venue": "Acta Physica Sinica",
+    "authors": [
+      "Zhang Tong",
+      "\u7530\u5e05",
+      "\u5b59\u65ed\u5189",
+      "\u674e\u65e5"
+    ],
+    "citations": 1,
+    "abstract": "Shrinkage cavities and porosity are the main defects generated during the solidification process of castings. The cause of these defects is the contraction of the alloy during solidification, with the last regions to solidify not receiving effective compensation from liquid metal, resulting in cavitation defects. Shrinkage cavities and porosity significantly reduce the mechanical properties of cas",
+    "arxiv_id": null,
+    "doi": "10.7498/aps.74.20241581",
+    "s2_id": "8f995295ec1cb00bb6f5224d3daf7d0928329804",
+    "pdf": "",
+    "al_score": 2
+  },
+  {
+    "title": "Quality prediction of semi-solid die casting of aluminum alloy in terms of machine learning",
+    "year": 2024,
+    "venue": "Advanced Manufacturing",
+    "authors": [
+      "Zhiyuan Wang",
+      "Xiaogang Hu",
+      "Gan Li",
+      "Zhen Xu"
+    ],
+    "citations": 1,
+    "abstract": ": Semi-solid die casting of aluminum alloy has been successfully employed to manufacture high-performance components with precise net shapes. However, the quality of these components is highly susceptible to variations in both environmental conditions and process parameters, leading to a narrow process window that restricts its widespread application in engineering. In this study, a machine learni",
+    "arxiv_id": null,
+    "doi": "10.55092/am20240015",
+    "s2_id": "47e28670f4babe2b50cb656812489033620a10db",
+    "pdf": "https://doi.org/10.55092/am20240015",
+    "al_score": 2
+  },
+  {
+    "title": "Recognition and classification of surface defects of aluminum castings based on machine vision",
+    "year": 2021,
+    "venue": "2021 International Conference on Machine Learning and Intelligent Systems Engineering (MLISE)",
+    "authors": [
+      "Jing Lin",
+      "Ke Wen",
+      "Yongyue Liu",
+      "Xuechang Zhang"
+    ],
+    "citations": 1,
+    "abstract": "In order to improve the efficiency of surface defect detection of casting parts in industrial production, machine vision method was used to automatically identify and classify the surface defects of castings. Image processing technology is used to preprocess the collected sample image, enhance the image information and segment the defect area. The geometric features, shape features and gray featur",
+    "arxiv_id": null,
+    "doi": "10.1109/MLISE54096.2021.00010",
+    "s2_id": "03e6ecd6092c0d2b8da1fa5e948512ea41dc817c",
+    "pdf": "",
+    "al_score": 2
+  },
+  {
+    "title": "Composition-Aware SDAS Prediction in Recycled Aluminum Alloys via Physics-Informed Machine Learning Guided by Analytical Solidification Physics",
+    "year": 2026,
+    "venue": "Machines",
+    "authors": [
+      "Hamed Rezvanpour",
+      "A. Vergnano",
+      "Paolo Veronesi",
+      "F. Leali"
+    ],
+    "citations": 0,
+    "abstract": "The mechanical performance of secondary aluminum alloys depends on Secondary Dendrite Arm Spacing (SDAS). Commercial casting simulations accurately predict local thermal history but typically neglect the influence of compositional variability on SDAS by using fixed material constants. This study introduces a physics-informed machine learning framework to bridge macroscopic process simulation and m",
+    "arxiv_id": null,
+    "doi": "10.3390/machines14030311",
+    "s2_id": "7b1a52ccb1f6dbedb84b9e6b69f6ecc2d194d203",
+    "pdf": "",
+    "al_score": 3
+  },
+  {
+    "title": "Machine Learning Prediction and Experimental Validation of Externally Solidified Crystal Formation in Aluminum Die Casting Process",
+    "year": 2026,
+    "venue": "Integrating Materials and Manufacturing Innovation",
+    "authors": [
+      "Buwei Chen",
+      "Jianyue Zhang",
+      "Zhaoliang Yuan",
+      "G. Garcia"
+    ],
+    "citations": 0,
+    "abstract": "",
+    "arxiv_id": null,
+    "doi": "10.1007/s40192-026-00463-4",
+    "s2_id": "c0fad64781524702c2b35495bb1d350246f08a14",
+    "pdf": "",
+    "al_score": 2
+  },
+  {
+    "title": "Surface Defect Classification in Aluminum Die-Cast Gas Meter Lids Using Machine Vision System and Deep Learning Techniques",
+    "year": 2025,
+    "venue": "Conference on Computability in Europe",
+    "authors": [
+      "O. Ayorinde",
+      "Wuyang Qian",
+      "Suhao Chen",
+      "D. Jensen"
+    ],
+    "citations": 0,
+    "abstract": "\n This paper presents the development of an automated quality control system in high-pressure die casting using machine vision and deep learning (DL) techniques. The system detects and classifies surface defects on aluminum die-cast parts (gas meter lids) by analyzing images captured in a real production environment, aiming to replace inconsistent manual inspection with a reliable, automated solut",
+    "arxiv_id": null,
+    "doi": "10.1115/detc2025-163956",
+    "s2_id": "a879ec6c77befef6bf55d49d46b98c9a48f6b6d8",
+    "pdf": "",
+    "al_score": 3
+  },
+  {
+    "title": "Digital Transformation: Challenges About Iot and Ai in High Pressure Die Casting (HPDC)",
+    "year": 2025,
+    "venue": "International Symposium on Applied Computational Intelligence and Informatics",
+    "authors": [
+      "Patricia D. M. Plentz",
+      "Thaynara M. M. Ribeiro",
+      "Heinz F. C. Rahmig",
+      "R. F. Bulc\u00e3o-Neto"
+    ],
+    "citations": 0,
+    "abstract": "This study explores and systematically reviews advancements in applying artificial intelligence (AI) and Internet of Things (IoT) technologies to the high-pressure die casting (HPDC) process. Widely utilized in aluminum automotive part production, HPDC presents significant challenges, including defect reduction, process optimization, and predictive maintenance. The primary objective of this resear",
+    "arxiv_id": null,
+    "doi": "10.1109/SACI66288.2025.11030098",
+    "s2_id": "0b12e98939bab7a0dfe62ff2b54eb52792db2e18",
+    "pdf": "",
+    "al_score": 2
+  },
+  {
+    "title": "Effect of Grain Refinement on Hot Tearing Tendency of A206 Aluminum Alloy",
+    "year": 2025,
+    "venue": "JOM",
+    "authors": [
+      "Mohamad reza Nasresfahani",
+      "Behzad Niroumand"
+    ],
+    "citations": 0,
+    "abstract": "",
+    "arxiv_id": null,
+    "doi": "10.1007/s11837-025-07703-6",
+    "s2_id": "f42214ea3e9c156513fbaf974cdae7fc40e4f31f",
+    "pdf": "",
+    "al_score": 1
+  },
+  {
+    "title": "Prediction of Dendrite Growth Velocity in Undercooled Binary Alloys Based on Transfer Learning and Molecular Dynamics Simulation",
+    "year": 2025,
+    "venue": "Crystals",
+    "authors": [
+      "Jia Wei",
+      "Mingyu Zhang",
+      "Shuai Li",
+      "Shu Li"
+    ],
+    "citations": 0,
+    "abstract": "The growth velocity of the crystal\u2013melt interface during solidification is one of the important parameters that determine the crystal growth morphology. However, both experimental investigations and theoretical calculations are time-consuming and labor-intensive. Moreover, machine learning (ML)-based methods are severely limited by the limited amount of available experimental data. In this work, t",
+    "arxiv_id": null,
+    "doi": "10.3390/cryst15050484",
+    "s2_id": "432c3daa2ef553e8d90eb232346ffe2b55451023",
+    "pdf": "",
+    "al_score": 1
+  },
+  {
+    "title": "Effect of Electromagnetic Field on an Aluminum Billet in the Rotary Casting Machine",
+    "year": 2025,
+    "venue": "Elektrichestvo",
+    "authors": [
+      "V. Timofeev",
+      "Maksim Hatsayuk",
+      "S. Belyaev",
+      "Artyom Nurmetov"
+    ],
+    "citations": 0,
+    "abstract": "",
+    "arxiv_id": null,
+    "doi": "10.24160/0013-5380-2025-10-46-55",
+    "s2_id": "594581ab8a78bc6fe71eb3598372cda245cda1b4",
+    "pdf": "",
+    "al_score": 3
+  },
+  {
+    "title": "Machine learning methods for predicting the properties of new cast aluminum alloys",
+    "year": 2025,
+    "venue": "Metallurgist",
+    "authors": [
+      "N. Letyagin",
+      "E. S. Sheina",
+      "A. N. Mikhaylov"
+    ],
+    "citations": 0,
+    "abstract": "",
+    "arxiv_id": null,
+    "doi": "10.1007/s11015-025-02025-z",
+    "s2_id": "724b866d79694bc5ffecc86b38f1943add4b5cd0",
+    "pdf": "",
+    "al_score": 2
+  },
+  {
+    "title": "Optimizing extrusion processing of Al-Mg-Si alloys by machine learning",
+    "year": 2024,
+    "venue": "I-ESA Workshops",
+    "authors": [
+      "Wolfram Walenta",
+      "J. A. \u00d6sterreicher",
+      "D. \u017divanovi\u0107",
+      "Stefan Maimone"
+    ],
+    "citations": 0,
+    "abstract": "",
+    "arxiv_id": null,
+    "doi": null,
+    "s2_id": "54bbde5fb700e810648fcae4cef1741d4b4de22f",
+    "pdf": "",
+    "al_score": 2
+  },
+  {
+    "title": "PENGUJIAN ALGORITMA YOLO UNTUK DETEKSI CACAT PADA PRODUK HASIL ALUMUNIUM CASTING PADA INDUSTRI OTOMOTIF",
+    "year": 2024,
+    "venue": "JTT (Jurnal Teknologi Terapan)",
+    "authors": [
+      "Noval Lilansa",
+      "Rizqi Aji Pratama",
+      "Richard Tanadi",
+      "Renold Nindi Kara Natasasmita"
+    ],
+    "citations": 0,
+    "abstract": "This research addresses the challenges faced by one of the automotive parts manufacturing plants in Indonesia, in detecting leaks in car components manufactured through aluminum die casting. Existing manual monitoring methods are time-consuming, prone to human error, and pose risks to product quality and operational safety. To overcome these challenges, this research proposes the application of ma",
+    "arxiv_id": null,
+    "doi": "10.31884/jtt.v10i2.664",
+    "s2_id": "ef67ea298452c4d5c71601253107e68ea0b4121d",
+    "pdf": "https://doi.org/10.31884/jtt.v10i2.664",
+    "al_score": 2
+  },
+  {
+    "title": "A comparative study of hot tensile deformation behavior of 6016 aluminum alloy under LSTM neural network and Arrhenius model",
+    "year": 2024,
+    "venue": "Materials Research Express",
+    "authors": [
+      "Huijun Zhao",
+      "Jie Wu",
+      "Haibin He",
+      "Xiang Li"
+    ],
+    "citations": 0,
+    "abstract": "The isothermal tensile test of 6016-T6 aluminum alloy was carried out on Gleeble-3500 at the temperature range of 400 \u00b0C\u2013550 \u00b0C and the strain rate range of 0.01\u201310 s\u22121. The results show that the thermal deformation mechanism of 6016-T6 is dynamic recovery and dynamic recrystallization. In this paper, the phenomenological Arrhenius constitutive model and the data-driven WOA-LSTM constitutive model",
+    "arxiv_id": null,
+    "doi": "10.1088/2053-1591/ad8104",
+    "s2_id": "efea274b9c2172c5082b54d218d20053c55d96cd",
+    "pdf": "https://doi.org/10.1088/2053-1591/ad8104",
+    "al_score": 1
+  },
+  {
+    "title": "ASaRE-Net: automatic information extraction from Al-Si alloy materials science literature for corpus construction",
+    "year": 2024,
+    "venue": "Journal of Materials Science",
+    "authors": [
+      "Yingli Liu",
+      "Shaojie Wen",
+      "Jiancheng Yin",
+      "Haihe Zhou"
+    ],
+    "citations": 0,
+    "abstract": "",
+    "arxiv_id": null,
+    "doi": "10.1007/s10853-024-10074-z",
+    "s2_id": "7e4803e19d1e546f64400fb760ba4fed34a28bf8",
+    "pdf": "",
+    "al_score": 1
+  },
+  {
+    "title": "Optimization of Wear Behavior in Reinforced Nano-Aluminum Alloys with Metal Matrix Composites via Stir Casting and Machine Learning Techniques",
+    "year": 2024,
+    "venue": "Social Science Research Network",
+    "authors": [
+      "Jagannath Kadam",
+      "S. Mani Naidu",
+      "Rajeev Kudari",
+      "A. Gaikwad"
+    ],
+    "citations": 0,
+    "abstract": "",
+    "arxiv_id": null,
+    "doi": "10.2139/ssrn.5065587",
+    "s2_id": "8a9ce324ce6a8c9bfcf17869641b2d768306d6c6",
+    "pdf": "",
+    "al_score": 2
+  }
+]

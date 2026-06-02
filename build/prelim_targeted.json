@@ -1,0 +1,1323 @@
+{
+  "die_extrusion_ml": [],
+  "hot_extrusion_ann": [
+    {
+      "id": "0907.0611v1",
+      "title": "A process planning system with feature based neural network search strategy for aluminum extrusion die manufacturing",
+      "published": "2009-07-03",
+      "authors": [
+        "S. Butdee",
+        "Chaiwat Noomtong",
+        "Serge Tichkiewitch"
+      ],
+      "summary": "Aluminum extrusion die manufacturing is a critical task for productive improvement and increasing potential of competition in aluminum extrusion industry. It causes to meet the efficiency not only consistent quality but also time and production cost reduction. Die manufacturing consists first of die design and process planning in order to make a die for extruding the customer's requirement products. The efficiency of die design and process planning are based on the knowledge and experience of die design and die manufacturer experts. This knowledge has been formulated into a computer system called the knowledge-based system. It can be reused to support a new die design and process planning. Such knowledge can be extracted directly from die geometry which is composed of die features. These features are stored in die feature library to be prepared for producing a new die manufacturing. Die geometry is defined according to the characteristics of the profile so we can reuse die features from the previous similar profile design cases. This paper presents the CaseXpert Process Planning System for die manufacturing based on feature based neural network technique. Die manufacturing cases in the case library would be retrieved with searching and learning method by neural network for reusing or revising it to build a die design and process planning when a new case is similar with the previous die manufacturing cases. The results of the system are dies design and machining process. The system has been successfully tested, it has been proved that the system can reduce planning time and respond high consistent plans.",
+      "cats": [
+        "cs.NE"
+      ],
+      "al_score": 2
+    }
+  ],
+  "dc_casting_ml": [],
+  "dendrite_ml": [
+    {
+      "id": "2106.07490v1",
+      "title": "Drawing Inspiration from Biological Dendrites to Empower Artificial Neural Networks",
+      "published": "2021-06-14",
+      "authors": [
+        "Spyridon Chavlis",
+        "Panayiota Poirazi"
+      ],
+      "summary": "This article highlights specific features of biological neurons and their dendritic trees, whose adoption may help advance artificial neural networks used in various machine learning applications. Advancements could take the form of increased computational capabilities and/or reduced power consumption. Proposed features include dendritic anatomy, dendritic nonlinearities, and compartmentalized plasticity rules, all of which shape learning and information processing in biological networks. We discuss the computational benefits provided by these features in biological neurons and suggest ways to adopt them in artificial neurons in order to exploit the respective benefits in machine learning.",
+      "cats": [
+        "q-bio.NC"
+      ],
+      "al_score": 1
+    },
+    {
+      "id": "2103.03274v2",
+      "title": "Do biological constraints impair dendritic computation?",
+      "published": "2021-03-04",
+      "authors": [
+        "Ilenna Simone Jones",
+        "Konrad Paul Kording"
+      ],
+      "summary": "Computations on the dendritic trees of neurons have important constraints. Voltage dependent conductances in dendrites are not similar to arbitrary direct-current generation, they are the basis for dendritic nonlinearities and they do not allow converting positive currents into negative currents. While it has been speculated that the dendritic tree of a neuron can be seen as a multi-layer neural network and it has been shown that such an architecture could be computationally strong, we do not know if that computational strength is preserved under these biological constraints. Here we simulate models of dendritic computation with and without these constraints. We find that dendritic model performance on interesting machine learning tasks is not hurt by these constraints but may benefit from them. Our results suggest that single real dendritic trees may be able to learn a surprisingly broad range of tasks.",
+      "cats": [
+        "q-bio.NC"
+      ],
+      "al_score": 1
+    },
+    {
+      "id": "2406.14025v5",
+      "title": "Observation of dendrite formation at Li metal-electrolyte interface: A machine-learning enhanced constant potential framework",
+      "published": "2024-06-20",
+      "authors": [
+        "Taiping Hu",
+        "Haichao Huang",
+        "Guobing Zhou",
+        "Xinyan Wang",
+        "Jiaxin Zhu",
+        "Zheng Cheng",
+        "Fangjia Fu",
+        "Xiaoxu Wang",
+        "Fuzhi Dai",
+        "Kuang Yu",
+        "Shenzhen Xu"
+      ],
+      "summary": "Uncontrollable dendrites growth during electrochemical cycles leads to low Coulombic efficiency and critical safety issues in Li metal batteries. Hence, a comprehensive understanding of the dendrite formation mechanism is essential for further enhancing the performance of Li metal batteries. Machine learning accelerated molecular dynamics (MD) simulations can provide atomic-scale resolution for various key processes at an ab-initio level accuracy. However, traditional MD simulation tools hardly capture Li electrochemical depositions, due to lack of an electrochemical constant potential (ConstP) condition. In this work, we propose a ConstP approach that combines a machine learning force field with the charge equilibration method to reveal the dynamic process of dendrites nucleation at Li metal anode surfaces. Our simulations show that inhomogeneous Li depositions, following Li aggregations in amorphous inorganic components of solid electrolyte interphases, can initiate dendrites nucleation. Our study provides microscopic insights for Li dendrites formations in Li metal anodes. More importantly, we present an efficient and accurate simulation method for modeling realistic ConstP conditions, which holds considerable potential for broader applications in modeling complex electrochemical interfaces.",
+      "cats": [
+        "cond-mat.mtrl-sci"
+      ],
+      "al_score": 1
+    },
+    {
+      "id": "2009.01269v1",
+      "title": "Can Single Neurons Solve MNIST? The Computational Power of Biological Dendritic Trees",
+      "published": "2020-09-02",
+      "authors": [
+        "Ilenna Simone Jones",
+        "Konrad Paul Kording"
+      ],
+      "summary": "Physiological experiments have highlighted how the dendrites of biological neurons can nonlinearly process distributed synaptic inputs. This is in stark contrast to units in artificial neural networks that are generally linear apart from an output nonlinearity. If dendritic trees can be nonlinear, biological neurons may have far more computational power than their artificial counterparts. Here we use a simple model where the dendrite is implemented as a sequence of thresholded linear units. We find that such dendrites can readily solve machine learning problems, such as MNIST or CIFAR-10, and that they benefit from having the same input onto several branches of the dendritic tree. This dendrite model is a special case of sparse network. This work suggests that popular neuron models may severely underestimate the computational power enabled by the biological fact of nonlinear dendrites and multiple synapses per pair of neurons. The next generation of artificial neural networks may significantly benefit from these biologically inspired dendritic architectures.",
+      "cats": [
+        "q-bio.NC"
+      ],
+      "al_score": 1
+    },
+    {
+      "id": "2311.12861v1",
+      "title": "A versatile circuit for emulating active biological dendrites applied to sound localisation and neuron imitation",
+      "published": "2023-10-25",
+      "authors": [
+        "Daniel John Mannion"
+      ],
+      "summary": "Sophisticated machine learning struggles to transition onto battery-operated devices due to the high-power consumption of neural networks. Researchers have turned to neuromorphic engineering, inspired by biological neural networks, for more efficient solutions. While previous research focused on artificial neurons and synapses, an essential component has been overlooked: dendrites. Dendrites transmit inputs from synapses to the neuron's soma, applying both passive and active transformations. However, neuromorphic circuits replace these sophisticated computational channels with metallic interconnects. In this study, we introduce a versatile circuit that emulates a segment of a dendrite which exhibits gain, introduces delays, and performs integration. We show how sound localisation - a biological example of dendritic computation - is not possible with the existing passive dendrite circuits but can be achieved using this proposed circuit. We also find that dendrites can form bursting neurons. This significant discovery suggests the potential to fabricate neural networks solely comprised of dendrite circuits.",
+      "cats": [
+        "cs.NE",
+        "cs.AI",
+        "cs.ET",
+        "eess.AS"
+      ],
+      "al_score": 1
+    },
+    {
+      "id": "2306.11950v2",
+      "title": "Mitigating Communication Costs in Neural Networks: The Role of Dendritic Nonlinearity",
+      "published": "2023-06-21",
+      "authors": [
+        "Xundong Wu",
+        "Pengfei Zhao",
+        "Zilin Yu",
+        "Lei Ma",
+        "Ka-Wa Yip",
+        "Huajin Tang",
+        "Gang Pan",
+        "Poirazi Panayiota",
+        "Tiejun Huang"
+      ],
+      "summary": "Our understanding of biological neuronal networks has profoundly influenced the development of artificial neural networks (ANNs). However, neurons utilized in ANNs differ considerably from their biological counterparts, primarily due to the absence of complex dendritic trees with local nonlinearities. Early studies have suggested that dendritic nonlinearities could substantially improve the learning capabilities of neural network models. In this study, we systematically examined the role of nonlinear dendrites within neural networks. Utilizing machine-learning methodologies, we assessed how dendritic nonlinearities influence neural network performance. Our findings demonstrate that dendritic nonlinearities do not substantially affect learning capacity; rather, their primary benefit lies in enabling network capacity expansion while minimizing communication costs through effective localized feature aggregation. This research provides critical insights with significant implications for designing future neural network accelerators aimed at reducing communication overhead during neural network training and inference.",
+      "cats": [
+        "cs.NE",
+        "cs.LG",
+        "q-bio.NC"
+      ],
+      "al_score": 1
+    },
+    {
+      "id": "2412.06355v2",
+      "title": "Scalable Dendritic Modeling Advances Expressive and Robust Deep Spiking Neural Networks",
+      "published": "2024-12-09",
+      "authors": [
+        "Yifan Huang",
+        "Wei Fang",
+        "Zhengyu Ma",
+        "Guoqi Li",
+        "Yonghong Tian"
+      ],
+      "summary": "Dendritic computation endows biological neurons with rich nonlinear integration and high representational capacity, yet it is largely missing in existing deep spiking neural networks (SNNs). Although detailed multi-compartment models can capture dendritic computations, their high computational cost and limited flexibility make them impractical for deep learning. To combine the advantages of dendritic computation and deep network architectures for a powerful, flexible and efficient computational model, we propose the dendritic spiking neuron (DendSN). DendSN explicitly models dendritic morphology and nonlinear integration in a streamlined design, leading to substantially higher expressivity than point neurons and wide compatibility with modern deep SNN architectures. Leveraging the efficient formulation and high-performance Triton kernels, dendritic SNNs (DendSNNs) can be efficiently trained and easily scaled to deeper networks. Experiments show that DendSNNs consistently outperform conventional SNNs on classification tasks. Furthermore, inspired by dendritic modulation and synaptic clustering, we introduce the dendritic branch gating (DBG) algorithm for task-incremental learning, which effectively reduces inter-task interference. Additional evaluations show that DendSNNs exhibit superior robustness to noise and adversarial attacks, along with improved generalization in few-shot learning scenarios. Our work firstly demonstrates the possibility of training deep SNNs with multiple nonlinear dendritic branches, and comprehensively analyzes the impact of dendrite computation on representation learning across various machine learning settings, thereby offering a fresh perspective on advancing SNN design.",
+      "cats": [
+        "cs.NE"
+      ],
+      "al_score": 1
+    },
+    {
+      "id": "2503.00836v1",
+      "title": "Insights into dendritic growth mechanisms in batteries: A combined machine learning and computational study",
+      "published": "2025-03-02",
+      "authors": [
+        "Zirui Zhao",
+        "Junchao Xia",
+        "Si Wu",
+        "Xiaoke Wang",
+        "Guanping Xu",
+        "Yinghao Zhu",
+        "Jing Sun",
+        "Hai-Feng Li"
+      ],
+      "summary": "In recent years, researchers have increasingly sought batteries as an efficient and cost-effective solution for energy storage and supply, owing to their high energy density, low cost, and environmental resilience. However, the issue of dendrite growth has emerged as a significant obstacle in battery development. Excessive dendrite growth during charging and discharging processes can lead to battery short-circuiting, degradation of electrochemical performance, reduced cycle life, and abnormal exothermic events. Consequently, understanding the dendrite growth process has become a key challenge for researchers. In this study, we investigated dendrite growth mechanisms in batteries using a combined machine learning approach, specifically a two-dimensional artificial convolutional neural network (CNN) model, along with computational methods. We developed two distinct computer models to predict dendrite growth in batteries. The CNN-1 model employs standard convolutional neural network techniques for dendritic growth prediction, while CNN-2 integrates additional physical parameters to enhance model robustness. Our results demonstrate that CNN-2 significantly enhances prediction accuracy, offering deeper insights into the impact of physical factors on dendritic growth. This improved model effectively captures the dynamic nature of dendrite formation, exhibiting high accuracy and sensitivity. These findings contribute to the advancement of safer and more reliable energy storage systems.",
+      "cats": [
+        "physics.comp-ph",
+        "cs.LG"
+      ],
+      "al_score": 1
+    }
+  ],
+  "grain_ml_al": [],
+  "hot_tearing": [],
+  "phase_field_ml": [
+    {
+      "id": "2508.20216v1",
+      "title": "Reverse Designing Ferroelectric Capacitors with Machine Learning-based Compact Modeling",
+      "published": "2025-08-27",
+      "authors": [
+        "Diego Ferrer",
+        "Jack Hutchins",
+        "Revanth Koduru",
+        "Sumeet Kumar Gupta",
+        "Admedullah Aziz"
+      ],
+      "summary": "Machine learning-based compact models provide a rapid and efficient approach for estimating device behavior across multiple input parameter variations. In this study, we introduce two reverse-design algorithms that utilize these compact models to identify device parameters corresponding to desired electrical characteristics. The algorithms effectively determine parameter sets, such as layer thicknesses, required to achieve specific device performance criteria. Significantly, the proposed methods are uniquely enabled by machine learning-based compact modeling; alternative computationally intensive approaches, such as phase-field modeling, would impose impractical time constraints for iterative design processes. Our comparative analysis demonstrates a substantial reduction in computation time when employing machine learning-based compact models compared to traditional phase-field methods, underscoring a clear and substantial efficiency advantage. Additionally, the accuracy and computational efficiency of both reverse-design algorithms are evaluated and compared, highlighting the practical advantages of machine learning-based compact modeling approaches.",
+      "cats": [
+        "cs.ET"
+      ],
+      "al_score": 0
+    },
+    {
+      "id": "1806.00503v4",
+      "title": "Machine learning materials physics: Surrogate optimization and multi-fidelity algorithms predict precipitate morphology in an alternative to phase field dynamics",
+      "published": "2018-06-01",
+      "authors": [
+        "Gregory Teichert",
+        "Krishna Garikipati"
+      ],
+      "summary": "Machine learning has been effective at detecting patterns and predicting the response of systems that behave free of natural laws. Examples include learning crowd dynamics, recommender systems and autonomous mobility. There also have been applications to the search for new materials that bear relations to big data classification problems. However, when it comes to physical systems governed by conservation laws, the role of machine learning has been more limited. Here, we present our recent work in exploring the role of machine learning methods in discovering, or aiding, the search for physics. Specifically, we focus on using machine learning algorithms to represent high-dimensional free energy surfaces with the goal of identifying precipitate morphologies in alloy systems. Traditionally, this problem has been approached by combining phase field models, which impose first-order dynamics, with elasticity, to traverse a free energy landscape in search of minima. Equilibrium precipitate morphologies occur at these minima. Here, we exploit the machine learning methods to represent high-dimensional data, combined with surrogate optimization, sensitivity analysis and multifidelity modelling as an alternate framework to explore phenomena controlled by energy extremization. This combination of data-driven methods offers an alternative to the imposition of first-order dynamics via phase field methods, and represents one approach to machine learning materials physics.",
+      "cats": [
+        "physics.comp-ph"
+      ],
+      "al_score": 0
+    },
+    {
+      "id": "2305.00938v1",
+      "title": "Accelerating microstructure modelling via machine learning: a new method combining Autoencoder and ConvLSTM",
+      "published": "2023-05-01",
+      "authors": [
+        "Owais Ahmad",
+        "Naveen Kumar",
+        "Rajdip Mukherjee",
+        "Somnath Bhowmick"
+      ],
+      "summary": "Phase-field modeling is an elegant and versatile computation tool to predict microstructure evolution in materials in the mesoscale regime. However, these simulations require rigorous numerical solutions of differential equations, which are accurate but computationally expensive. To overcome this difficulty, we combine two popular machine learning techniques, autoencoder and convolutional long short-term memory (ConvLSTM), to accelerate the study of microstructural evolution without compromising the resolution of the microstructural representation. After training with phase-field generated microstructures of ten known compositions, the model can accurately predict the microstructure for the future nth frames based on previous m frames for an unknown composition. Replacing n phase-field steps with machine-learned microstructures can significantly accelerate the in silico study of microstructure evolution.",
+      "cats": [
+        "cond-mat.mtrl-sci"
+      ],
+      "al_score": 0
+    },
+    {
+      "id": "2302.08991v1",
+      "title": "Bridging scales with Machine Learning: From first principles statistical mechanics to continuum phase field computations to study order disorder transitions in LixCoO2",
+      "published": "2023-02-17",
+      "authors": [
+        "G. H. Teichert",
+        "S. Das",
+        "M. Faghih Shojaei",
+        "J. Holber",
+        "T. Mueller",
+        "L. Hung",
+        "V. Gavini",
+        "K. Garikipati"
+      ],
+      "summary": "LixTMO2 (TM=Ni, Co, Mn) forms an important family of cathode materials for Li-ion batteries, whose performance is strongly governed by Li composition-dependent crystal structure and phase stability. Here, we use LixCoO2 (LCO) as a model system to benchmark a machine learning-enabled framework for bridging scales in materials physics. We focus on two scales: (a) assemblies of thousands of atoms described by density functional theory-informed statistical mechanics, and (b) continuum phase field models to study the dynamics of order-disorder transitions in LCO. Central to the scale bridging is the rigorous, quantitatively accurate, representation of the free energy density and chemical potentials of this material system by coarsegraining formation energies for specific atomic configurations. We develop active learning workflows to train recently developed integrable deep neural networks for such high-dimensional free energy density and chemical potential functions. The resulting, first principles-informed, machine learning-enabled, phase-field computations allow us to study LCO cathodes' phase evolution in terms of temperature, morphology, charge cycling and particle size.",
+      "cats": [
+        "cs.CE"
+      ],
+      "al_score": 0
+    },
+    {
+      "id": "2603.09693v1",
+      "title": "Physics-informed neural operator for predictive parametric phase-field modelling",
+      "published": "2026-03-10",
+      "authors": [
+        "Nanxi Chen",
+        "Airong Chen",
+        "Rujin Ma"
+      ],
+      "summary": "Predicting the microstructural and morphological evolution of materials through phase-field modelling is computationally intensive, particularly for high-throughput parametric studies. While neural operators such as the Fourier neural operator (FNO) show promise in accelerating the solution of parametric partial differential equations (PDEs), the lack of explicit physical constraints, may limit generalisation and long-term accuracy for complex phase-field dynamics. Here, we develop a physics-informed neural operator framework to learn parametric phase-field PDEs, namely PF-PINO. By embedding the residuals of phase-field governing equations into the data-fidelity loss function, our framework effectively enforces physical constraints during training. We validate PF-PINO against benchmark phase-field problems, including electrochemical corrosion, dendritic crystal solidification, and spinodal decomposition. Our results demonstrate that PF-PINO significantly outperforms conventional FNO in accuracy, generalisation capability, and long-term stability. This work provides a robust and efficient computational tool for phase-field modelling and highlights the potential of physics-informed neural operators to advance scientific machine learning for complex interfacial evolution problems.",
+      "cats": [
+        "cs.LG",
+        "cond-mat.mtrl-sci",
+        "physics.comp-ph"
+      ],
+      "al_score": 0
+    },
+    {
+      "id": "2506.21815v1",
+      "title": "Laser Scan Path Design for Controlled Microstructure in Additive Manufacturing with Integrated Reduced-Order Phase-Field Modeling and Deep Reinforcement Learning",
+      "published": "2025-04-12",
+      "authors": [
+        "Augustine Twumasi",
+        "Prokash Chandra Roy",
+        "Zixun Li",
+        "Soumya Shouvik Bhattacharjee",
+        "Zhengtao Gan"
+      ],
+      "summary": "Laser powder bed fusion (L-PBF) is a widely recognized additive manufacturing technology for producing intricate metal components with exceptional accuracy. A key challenge in L-PBF is the formation of complex microstructures affecting product quality. We propose a physics-guided, machine-learning approach to optimize scan paths for desired microstructure outcomes, such as equiaxed grains. We utilized a phase-field method (PFM) to model crystalline grain structure evolution. To reduce computational costs, we trained a surrogate machine learning model, a 3D U-Net convolutional neural network, using single-track phase-field simulations with various laser powers to predict crystalline grain orientations based on initial microstructure and thermal history. We investigated three scanning strategies across various hatch spacings within a square domain, achieving a two-orders-of-magnitude speedup using the surrogate model. To reduce trial and error in designing laser scan toolpaths, we used deep reinforcement learning (DRL) to generate optimized scan paths for target microstructure. Results from three cases demonstrate the DRL approach's effectiveness. We integrated the surrogate 3D U-Net model into our DRL environment to accelerate the reinforcement learning training process. The reward function minimizes both aspect ratio and grain volume of the predicted microstructure from the agent's scan path. The reinforcement learning algorithm was benchmarked against conventional zigzag approach for smaller and larger domains, showing machine learning methods' potential to enhance microstructure control and computational efficiency in L-PBF optimization.",
+      "cats": [
+        "cs.CE",
+        "cs.LG",
+        "math.OC"
+      ],
+      "al_score": 0
+    },
+    {
+      "id": "2502.09025v1",
+      "title": "Physics-based Machine Learning for Computational Fracture Mechanics",
+      "published": "2025-02-13",
+      "authors": [
+        "Fadi Aldakheel",
+        "Elsayed S. Elsayed",
+        "Yousef Heider",
+        "Oliver Weeger"
+      ],
+      "summary": "This study introduces a physics-based machine learning framework for modeling both brittle and ductile fractures. Unlike physics-informed neural networks, which solve partial differential equations by embedding physical laws as soft constraints in loss functions and enforcing boundary conditions via collocation points, our framework integrates physical principles, such as the governing equations and constraints, directly into the neural network architecture. This approach eliminates the dependency on problem-specific retraining for new boundary value problems, ensuring adaptability and consistency. By embedding constitutive behavior into the network's foundational design, our method represents a significant step toward unifying material modeling with machine learning for computational fracture mechanics. Specifically, a feedforward neural network is designed to embed physical laws within its architecture, ensuring thermodynamic consistency. Building on this foundation, synthetic datasets generated from finite element-based phase-field simulations are employed to train the proposed framework, focusing on capturing the homogeneous responses of brittle and ductile fractures. Detailed analyses are performed on the stored elastic energy and the dissipated work due to plasticity and fracture, demonstrating the capability of the framework to predict essential fracture features. The proposed physics-based machine learning framework overcomes the shortcomings of classical machine learning models, which rely heavily on large datasets and lack guarantees of physical principles. By leveraging its physics-integrated design, the physics-based machine learning framework demonstrates exceptional performance in predicting key properties of brittle and ductile fractures with limited training data.",
+      "cats": [
+        "math.NA"
+      ],
+      "al_score": 0
+    },
+    {
+      "id": "2405.06119v2",
+      "title": "Gradient Flow Based Phase-Field Modeling Using Separable Neural Networks",
+      "published": "2024-05-09",
+      "authors": [
+        "Revanth Mattey",
+        "Susanta Ghosh"
+      ],
+      "summary": "The $L^2$ gradient flow of the Ginzburg-Landau free energy functional leads to the Allen Cahn equation that is widely used for modeling phase separation. Machine learning methods for solving the Allen-Cahn equation in its strong form suffer from inaccuracies in collocation techniques, errors in computing higher-order spatial derivatives through automatic differentiation, and the large system size required by the space-time approach. To overcome these limitations, we propose a separable neural network-based approximation of the phase field in a minimizing movement scheme to solve the aforementioned gradient flow problem. At each time step, the separable neural network is used to approximate the phase field in space through a low-rank tensor decomposition thereby accelerating the derivative calculations. The minimizing movement scheme naturally allows for the use of Gauss quadrature technique to compute the functional. A `$tanh$' transformation is applied on the neural network-predicted phase field to strictly bounds the solutions within the values of the two phases. For this transformation, a theoretical guarantee for energy stability of the minimizing movement scheme is established. Our results suggest that bounding the solution through this transformation is the key to effectively model sharp interfaces through separable neural network. The proposed method outperforms the state-of-the-art machine learning methods for phase separation problems and is an order of magnitude faster than the finite element method.",
+      "cats": [
+        "cs.LG",
+        "math.NA"
+      ],
+      "al_score": 0
+    }
+  ],
+  "homogenization_al": [
+    {
+      "id": "0803.0655v1",
+      "title": "Giant room temperature piezoresistance in a metal/silicon hybrid",
+      "published": "2008-03-05",
+      "authors": [
+        "A. C. H. Rowe",
+        "A. Donoso-Barrera",
+        "Ch. Renner",
+        "S. Arscott"
+      ],
+      "summary": "Metal/semiconductor hybrids are artificially created structures presenting novel properties not exhibited by either of the component materials alone. Here we present a giant piezoresistance effect in a hybrid formed from silicon and aluminum. The maximum piezoresistive gage factor (GF) of 843, measured at room temperature, compares with a GF of -93 measured in the bulk homogeneous silicon. This piezoresistance boost is not due to the silicon/aluminum interface, but results from a stress induced anisotropy in the silicon conductivity that acts to switch current away from the highly conductive aluminum for uniaxial tensile strains. Its magnitude is shown, via the calculation of hybrid resistivity weighting functions, to depend only on the geometrical arrangement of the component parts of the hybrid.",
+      "cats": [
+        "cond-mat.mtrl-sci"
+      ],
+      "al_score": 1
+    },
+    {
+      "id": "2004.05683v3",
+      "title": "Fabrication process and failure analysis for robust quantum dots in silicon",
+      "published": "2020-04-12",
+      "authors": [
+        "J. P. Dodson",
+        "Nathan Holman",
+        "Brandur Thorgrimsson",
+        "Samuel F. Neyens",
+        "E. R. MacQuarrie",
+        "Thomas McJunkin",
+        "Ryan H. Foote",
+        "L. F. Edge",
+        "S. N. Coppersmith",
+        "M. A. Eriksson"
+      ],
+      "summary": "We present an improved fabrication process for overlapping aluminum gate quantum dot devices on Si/SiGe heterostructures that incorporates low-temperature inter-gate oxidation, thermal annealing of gate oxide, on-chip electrostatic discharge (ESD) protection, and an optimized interconnect process for thermal budget considerations. This process reduces gate-to-gate leakage, damage from ESD, dewetting of aluminum, and formation of undesired alloys in device interconnects. Additionally, cross-sectional scanning transmission electron microscopy (STEM) images elucidate gate electrode morphology in the active region as device geometry is varied. We show that overlapping aluminum gate layers homogeneously conform to the topology beneath them, independent of gate geometry, and identify critical dimensions in the gate geometry where pattern transfer becomes non-ideal, causing device failure.",
+      "cats": [
+        "physics.app-ph",
+        "cond-mat.mes-hall",
+        "quant-ph"
+      ],
+      "al_score": 1
+    },
+    {
+      "id": "1810.07965v2",
+      "title": "Optimal plasmonic multipole resonances of a sphere in lossy media",
+      "published": "2018-10-18",
+      "authors": [
+        "Sven Nordebo",
+        "Gerhard Kristensson",
+        "Mohammad Mirmoosa",
+        "Sergei Tretyakov"
+      ],
+      "summary": "Fundamental upper bounds are given for the plasmonic multipole absorption and scattering of a rotationally invariant dielectric sphere embedded in a lossy surrounding medium. A specialized Mie theory is developed for this purpose and when combined with the corresponding generalized optical theorem, an optimization problem is obtained which is explicitly solved by straightforward analysis. In particular, the absorption cross section is a concave quadratic form in the related Mie (scattering) parameters and the convex scattering cross section can be maximized by using a Lagrange multiplier constraining the absorption to be non-negative. For the homogeneous sphere, the Weierstrass preparation theorem is used to establish the existence and the uniqueness of the plasmonic singularities and explicit asymptotic expressions are given for the dipole and the quadrupole. It is shown that the optimal passive material for multipole absorption and scattering of a small homogeneous dielectric sphere embedded in a dispersive medium is given approximately as the complex conjugate and the real part of the corresponding pole positions, respectively. Numerical examples are given to illustrate the theory, including a comparison with the plasmonic dipole and quadrupole resonances obtained in gold, silver and aluminum nanospheres based on some specific Brendel-Bormann (BB) dielectric models for these metals. % of gold, silver and aluminum. Based on these BB-models, it is interesting to note that the metal spheres can be tuned to optimal absorption at a particular size at a particular frequency.",
+      "cats": [
+        "physics.optics"
+      ],
+      "al_score": 1
+    },
+    {
+      "id": "1910.00395v1",
+      "title": "Spatial beam self-cleaning in multimode lanthanum aluminum silicate glass fiber",
+      "published": "2019-10-01",
+      "authors": [
+        "Romain Gu\u00e9nard",
+        "Katarzyna Krupa",
+        "Alessandro Tonello",
+        "Marc Fabert",
+        "Jean Louis Auguste",
+        "Georges Humbert",
+        "St\u00e9phanie Leparmentier",
+        "Jean-Ren\u00e9 Ducl\u00e8re",
+        "S\u00e9bastien Chenu",
+        "Ga\u00eblle Delaizir",
+        "Guy Millot",
+        "Daniele Modotto",
+        "Stefan Wabnitz",
+        "Vincent Couderc"
+      ],
+      "summary": "We demonstrated that spatial Kerr beam self-cleaning can be obtained in a highly multimode multicomponent optical fiber based on lanthanum aluminum silicate oxide glasses (SiO2-Al2O3-La2O3), which was made by using the modified powder in tube technology (MIPT). We show how such fabrication method can provide interesting potentialities to design doped multimode optical fibers with homogeneous and quasi-parabolic refractive-index core profile for nonlinear optics applications.",
+      "cats": [
+        "physics.optics"
+      ],
+      "al_score": 1
+    },
+    {
+      "id": "2412.05316v1",
+      "title": "The effect of cerium doping and rate of crystallization on the microstructure of the Al2O3/YAG eutectic composite",
+      "published": "2024-12-02",
+      "authors": [
+        "L. O. Hryn",
+        "Yu. V. Siryk",
+        "V. V. Baranov",
+        "O. M. Vovk",
+        "S. V. Naydenov",
+        "S. V. Nizhankovsky"
+      ],
+      "summary": "Eutectics of Sapphire/Yttrium-Aluminum garnet and Ce-doped Sapphire/Yttrium-Aluminum garnet (Ce up to 1 at.%) with a Chinese script microstructure were obtained by the method of horizontal directional crystallization in a carbon-containing reducing atmosphere based on argon gas. The effects of the pooling rate and Ce-dopant concentration on the microstructure of the eutectic were studied by the modified chord method. The deviation of the dependence of the characteristic eutectic distance on the pooling rate from the Jackson-Hunt model has been established. A change in the pathway for restructuring the structure of the doped eutectic at a certain critical pooling rate was revealed, which may indicate that the development of morphological instability of the crystallization front is carried out as a two-stage process. The conditions for obtaining doped eutectic of high homogeneity have been established. It was shown that increasing cerium ion concentration causes an increase in the structure parameters and its value deviation. Intensive formation of the third phase occurred when the limit of cerium ion concentration was exceeded.",
+      "cats": [
+        "cond-mat.mtrl-sci",
+        "physics.optics"
+      ],
+      "al_score": 1
+    },
+    {
+      "id": "0709.1564v2",
+      "title": "Ab-initio self-energy corrections in systems with metallic screening",
+      "published": "2007-09-11",
+      "authors": [
+        "Marco Cazzaniga",
+        "Nicola Manini",
+        "Luca Guido Molinari",
+        "Giovanni Onida"
+      ],
+      "summary": "The calculation of self-energy corrections to the electron bands of a metal requires the evaluation of the intraband contribution to the polarizability in the small-q limit. When neglected, as in standard GW codes for semiconductors and insulators, a spurious gap opens at the Fermi energy. Systematic methods to include intraband contributions to the polarizability exist, but require a computationally intensive Fermi-surface integration. We propose a numerically cheap and stable method, based on a fit of the power expansion of the polarizability in the small-q region. We test it on the homogeneous electron gas and on real metals such as sodium and aluminum.",
+      "cats": [
+        "cond-mat.mtrl-sci"
+      ],
+      "al_score": 1
+    },
+    {
+      "id": "2106.05158v2",
+      "title": "Verification of asymptotic homogenization method developed for periodic architected materials in strain gradient continuum",
+      "published": "2021-06-09",
+      "authors": [
+        "Hua Yang",
+        "Bilen Emek Abali",
+        "Wolfgang H. M\u00fcller",
+        "Salma Barboura",
+        "Jia Li"
+      ],
+      "summary": "Strain gradient theory is an accurate model for capturing the size effect and localization phenomena. However, the challenge in identification of corresponding constitutive parameters limits the practical application of the theory. We present and utilize asymptotic homogenization herein. All parameters in rank four, five, and six tensors are determined with the demonstrated computational approach. Examples for epoxy carbon fiber composite, metal matrix composite, and aluminum foam illustrate the effectiveness and versatility of the proposed method. The influences of volume fraction of matrix, the stack of RVEs, and the varying unit cell lengths on the identified parameters are investigated. The homogenization computational tool is applicable to a wide class materials and makes use of open-source codes in FEniCS. We make all of the codes publicly available in order to encourage a transparent scientific exchange.",
+      "cats": [
+        "cs.CE"
+      ],
+      "al_score": 2
+    },
+    {
+      "id": "2508.05422v1",
+      "title": "Look-Up Table-Correction for Beam Hardening-Induced Signal of Clinical Dark-Field Chest Radiographs",
+      "published": "2025-08-07",
+      "authors": [
+        "Maximilian E. Lochschmidt",
+        "Theresa Urban",
+        "Lennard Kaster",
+        "Rafael Schick",
+        "Thomas Koehler",
+        "Daniela Pfeiffer",
+        "Franz Pfeiffer"
+      ],
+      "summary": "Background: Material structures at the micrometer scale cause ultra-small-angle X-ray scattering, e.g., seen in lung tissue or plastic foams. In grating-based X-ray imaging, this causes a reduction of the fringe visibility, forming a dark-field signal. Polychromatic beam hardening also changes visibility, adding a false dark-field signal due to attenuation, even in homogeneous, non-scattering materials. Purpose: The objective of this study is to develop a fast, simple, and robust method to correct dark-field signals and bony structures present due to beam hardening on dark-field chest radiographs of study participants. Methods: The method is based on calibration measurements and image processing. Beam hardening by bones and soft tissue is modeled by aluminum and water, respectively, which have no microstructure and thus only generate an artificial dark-field signal. Look-up tables were then created for both. By using a weighted mean of these, forming a single look-up table, and using the attenuation images, the artificial dark-field signal and thus the bone structures present are reduced for study participants. Results: It was found that applying a correction using a weighted look-up table leads to a significant reduction of bone structures in the dark-field image. The weighting of the aluminum component has a substantial impact on the degree to which bone structures remain visible in the dark-field image. Furthermore, a large negative bias in the dark-field image, dependent on the aluminum weighting, was successfully corrected. Conclusions: The beam-hardening-induced signal in the dark-field images was successfully reduced using the method described. The choice of aluminum weighting to suppress rib structures, as well as the selection of bias correction, should be evaluated based on the specific clinical question.",
+      "cats": [
+        "physics.med-ph",
+        "physics.app-ph"
+      ],
+      "al_score": 1
+    }
+  ],
+  "extrusion_defect_cnn": [
+    {
+      "id": "2408.14307v3",
+      "title": "LLM-3D Print: Large Language Models To Monitor and Control 3D Printing",
+      "published": "2024-08-26",
+      "authors": [
+        "Yayati Jadhav",
+        "Peter Pak",
+        "Amir Barati Farimani"
+      ],
+      "summary": "Industry 4.0 has revolutionized manufacturing by driving digitalization and shifting the paradigm toward additive manufacturing (AM). Fused Deposition Modeling (FDM), a key AM technology, enables the creation of highly customized, cost-effective products with minimal material waste through layer-by-layer extrusion, posing a significant challenge to traditional subtractive methods. However, the susceptibility of material extrusion techniques to errors often requires expert intervention to detect and mitigate defects that can severely compromise product quality. While automated error detection and machine learning models exist, their generalizability across diverse 3D printer setups, firmware, and sensors is limited, and deep learning methods require extensive labeled datasets, hindering scalability and adaptability. To address these challenges, we present a process monitoring and control framework that leverages pre-trained Large Language Models (LLMs) alongside 3D printers to detect and address printing defects. The LLM evaluates print quality by analyzing images captured after each layer or print segment, identifying failure modes and querying the printer for relevant parameters. It then generates and executes a corrective action plan. We validated the effectiveness of the proposed framework in identifying defects by comparing it against a control group of engineers with diverse AM expertise. Our evaluation demonstrated that LLM-based agents not only accurately identify common 3D printing errors, such as inconsistent extrusion, stringing, warping, and layer adhesion, but also effectively determine the parameters causing these failures and autonomously correct them without any need for human intervention.",
+      "cats": [
+        "cs.CL",
+        "cs.AI",
+        "cs.LG"
+      ],
+      "al_score": 1
+    }
+  ],
+  "calphad_ml": [
+    {
+      "id": "2109.13762v1",
+      "title": "Machine learning predictions of superalloy microstructure",
+      "published": "2021-09-28",
+      "authors": [
+        "Patrick L. Taylor",
+        "Gareth Conduit"
+      ],
+      "summary": "Gaussian process regression machine learning with a physically-informed kernel is used to model the phase compositions of nickel-base superalloys. The model delivers good predictions for laboratory and commercial superalloys, with $R^2>0.8$ for all but two components of each of the $\u03b3$ and $\u03b3'$ phases, and $R^2=0.924$ ($\\mathrm{RMSE}=0.063$) for the $\u03b3'$ fraction. For four benchmark SX-series alloys the methodology predicts the $\u03b3'$ phase composition with $\\mathrm{RMSE}=0.006$ and the fraction with $\\mathrm{RMSE}=0.020$, superior to the $0.007$ and $0.021$ respectively from CALPHAD. Furthermore, unlike CALPHAD Gaussian process regression quantifies the uncertainty in predictions, and can be retrained as new data becomes available.",
+      "cats": [
+        "cond-mat.mtrl-sci"
+      ],
+      "al_score": 0
+    },
+    {
+      "id": "2411.15351v1",
+      "title": "Accelerating CALPHAD-based Phase Diagram Predictions in Complex Alloys Using Universal Machine Learning Potentials: Opportunities and Challenges",
+      "published": "2024-11-22",
+      "authors": [
+        "Siya Zhu",
+        "Raymundo Arr\u00f3yave",
+        "Do\u011fuhan Sar\u0131t\u00fcrk"
+      ],
+      "summary": "Accurate phase diagram prediction is crucial for understanding alloy thermodynamics and advancing materials design. While traditional CALPHAD methods are robust, they are resource-intensive and limited by experimentally assessed data. This work explores the use of machine learning interatomic potentials (MLIPs) such as M3GNet, CHGNet, MACE, SevenNet, and ORB to significantly accelerate phase diagram calculations by using the Alloy Theoretic Automated Toolkit (ATAT) to map calculations of the energies and free energies of atomistic systems to CALPHAD-compatible thermodynamic descriptions. Using case studies including Cr-Mo, Cu-Au, and Pt-W, we demonstrate that MLIPs, particularly ORB, achieve computational speedups exceeding three orders of magnitude compared to DFT while maintaining phase stability predictions within acceptable accuracy. Extending this approach to liquid phases and ternary systems like Cr-Mo-V highlights its versatility for high-entropy alloys and complex chemical spaces. This work demonstrates that MLIPs, integrated with tools like ATAT within a CALPHAD framework, provide an efficient and accurate framework for high-throughput thermodynamic modeling, enabling rapid exploration of novel alloy systems. While many challenges remain to be addressed, the accuracy of some of these MLIPs (ORB in particular) are on the verge of paving the way toward high-throughput generation of CALPHAD thermodynamic descriptions of multi-component, multi-phase alloy systems.",
+      "cats": [
+        "cond-mat.mtrl-sci",
+        "cs.LG"
+      ],
+      "al_score": 0
+    },
+    {
+      "id": "2508.01028v1",
+      "title": "Construction and Tuning of CALPHAD Models Using Machine-Learned Interatomic Potentials and Experimental Data: A Case Study of the Pt-W System",
+      "published": "2025-08-01",
+      "authors": [
+        "Courtney Kunselman",
+        "Siya Zhu",
+        "Doguhan Sariturk",
+        "Raymundo Arroyave"
+      ],
+      "summary": "This work introduces PhaseForgePlus -- a computationally efficient, fully open-source workflow for physically-informed CALPHAD model generation and parameter fitting. Using the Pt-W system as an example, we show that the integration of Machine Learning Potentials into the Alloy Theoretic Automated Toolkit can produce physically grounded Gibbs energy descriptions requiring only slight adjustments to produce accurate phase diagrams. Employing the Jansson derivative method in the context of experimental observations, such adjustments can be efficiently and robustly determined through gradient-informed optimization procedures.",
+      "cats": [
+        "cond-mat.mtrl-sci",
+        "physics.comp-ph"
+      ],
+      "al_score": 0
+    },
+    {
+      "id": "2606.01305v1",
+      "title": "How Can Machine Learning Accelerate CALPHAD Free Energy Modeling?",
+      "published": "2026-05-31",
+      "authors": [
+        "Chen Shen",
+        "Muhammad Waqas Qureshi",
+        "Mark Asta",
+        "Izabela Szlufarska",
+        "Dane Morgan"
+      ],
+      "summary": "The CALPHAD framework provides a rigorous basis for thermodynamic modeling, yet its ability to predict new chemistries is restricted by limited data and by functional forms that rely heavily on composition alone. Here, we show that machine learning (ML) can address these challenges through a hybrid strategy that learns Redlich-Kister (RK) interaction coefficients directly from physically informed elemental descriptors. Using formation energies of 14-element FCC alloys generated by a universal machine-learning interatomic potential (MLIP), we benchmark three classes of models: (1) composition-based RK and ML models, (2) descriptor-based ML models, and (3) a combined ML-augmented RK approach (ML4RK). Leave-one-element-out tests highlight complementary strengths. RK models, class (1), remain the most data-efficient when binary information is available, while descriptor-based ML models, class (2), enable genuine zero-shot extrapolation to elements absent from the training set. By embedding elemental descriptors into the RK framework, the hybrid approach unifies these regimes and enables prediction of interaction parameters for otherwise unknown or data-scarce binaries, class (3). This work demonstrates a physically grounded and data-efficient route to extend CALPHAD models by combining the transferability of ML with the physical grounding, interpretability, data efficiency, and robustness of thermodynamic formalisms.",
+      "cats": [
+        "cond-mat.mtrl-sci"
+      ],
+      "al_score": 0
+    },
+    {
+      "id": "1902.01269v1",
+      "title": "ESPEI for efficient thermodynamic database development, modification, and uncertainty quantification: application to Cu-Mg",
+      "published": "2019-02-04",
+      "authors": [
+        "Brandon Bocklund",
+        "Richard Otis",
+        "Aleksei Egorov",
+        "Abdulmonem Obaied",
+        "Irina Roslyakova",
+        "Zi-Kui Liu"
+      ],
+      "summary": "The software package ESPEI has been developed for efficient evaluation of thermodynamic model parameters within the CALPHAD method. ESPEI uses a linear fitting strategy to parameterize Gibbs energy functions of single phases based on their thermochemical data and refine the model parameters using phase equilibrium data through Bayesian optimization within a Markov Chain Monte Carlo machine learning approach. In this paper, the methodologies employed in ESPEI are discussed in detail and demonstrated for the Cu-Mg system down to 0 K using unary descriptions based on segmented regression. The model parameter uncertainties are quantified and propagated to the Gibbs energy functions.",
+      "cats": [
+        "cond-mat.mtrl-sci",
+        "physics.comp-ph"
+      ],
+      "al_score": 0
+    },
+    {
+      "id": "2004.06703v2",
+      "title": "Stacking fault energy prediction for austenitic steels: thermodynamic modeling vs. machine learning",
+      "published": "2020-04-14",
+      "authors": [
+        "Xin Wang",
+        "Wei Xiong"
+      ],
+      "summary": "Stacking fault energy (SFE) is of the most critical microstructure attribute for controlling the deformation mechanism and optimizing mechanical properties of austenitic steels, while there are no accurate and straightforward computational tools for modeling it. In this work, we applied both thermodynamic modeling and machine learning to predict the stacking fault energy (SFE) for more than 300 austenitic steels. The comparison indicates a high need of improving low-temperature CALPHAD (CALculation of PHAse Diagrams) databases and interfacial energy prediction to enhance thermodynamic model reliability. The ensembled machine learning algorithms provide a more reliable prediction compared with thermodynamic and empirical models. Based on the statistical analysis of experimental results, only Ni and Fe have a moderate monotonic influence on SFE, while many other elements exhibit a complex effect that their influence on SFE may change with the alloy composition.",
+      "cats": [
+        "cond-mat.mtrl-sci",
+        "physics.app-ph"
+      ],
+      "al_score": 0
+    },
+    {
+      "id": "1908.00638v1",
+      "title": "Uncertainty Propagation in a Multiscale CALPHAD-Reinforced Elastochemical Phase-field Model",
+      "published": "2019-08-01",
+      "authors": [
+        "Vahid Attari",
+        "Pejman Honarmandi",
+        "Thien Duong",
+        "Daniel J Sauceda",
+        "Douglas Allaire",
+        "Raymundo Arroyave"
+      ],
+      "summary": "ICME approaches provide decision support for materials design by establishing quantitative process-structure-property relations. Confidence in the decision support, however, must be achieved by establishing uncertainty bounds in ICME model chains. The quantification and propagation of uncertainty in computational materials science, however, remains a rather unexplored aspect of computational materials science approaches. Moreover, traditional uncertainty propagation frameworks tend to be limited in cases with computationally expensive simulations. A rather common and important model chain is that of CALPHAD-based thermodynamic models of phase stability coupled to phase field models for microstructure evolution. Propagation of uncertainty in these cases is challenging not only due to the sheer computational cost of the simulations but also because of the high dimensionality of the input space. In this work, we present a framework for the quantification and propagation of uncertainty in a CALPHAD-based elasto-chemical phase field model. We motivate our work by investigating the microstructure evolution in Mg$_2$(Si$_x$Sn$_{1-x}$) thermoelectric materials. We first carry out a Markov Chain Monte Carlo-based inference of the CALPHAD model parameters for this pseudobinary system and then use advanced sampling schemes to propagate uncertainties across a high-dimensional simulation input space. Through high-throughput phase field simulations we generate 200,000 time series of synthetic microstructures and use machine learning approaches to understand the effects of propagated uncertainties on the microstructure landscape of the system under study. The microstructure dataset has been curated in the Open Phase-field Microstructure Database (OPMD), available at \\href{http://microstructures.net}{http://microstructures.net}.",
+      "cats": [
+        "cond-mat.mtrl-sci",
+        "cond-mat.mes-hall",
+        "physics.app-ph"
+      ],
+      "al_score": 0
+    },
+    {
+      "id": "1710.02605v4",
+      "title": "Combined Machine Learning and CALPHAD Approach for Discovering Processing-Structure Relationships in Soft Magnetic Alloys",
+      "published": "2017-10-06",
+      "authors": [
+        "Rajesh Jha",
+        "Nirupam Chakraborti",
+        "David Diercks",
+        "Aaron Stebner",
+        "Cristian V. Ciobanu"
+      ],
+      "summary": "We aim to investigate relationships between select processing parameters or inputs (composition, temperature, annealing time) and two structural parameters, specifically, the mean radius and volume fraction of the Fe$_3$Si nanocrystals. To this end, we have deviced a combined CALPHAD and machine learning approach that led to well-calibrated metamodels able to predict structural parameters quickly and accurately for any desired inputs. In order to generate data for the mean radius and volume fraction of Fe$_3$Si nanocrystals, we have used a precipitation model based in the software Thermocalc to perform annealing simulations at a set of temperatures (490-550~\\degree C) and for varying Fe and Si concentrations (Fe$_{72.89 +x}$Si$_{16.21-x}$B$_{6.90}$Nb$_{3}$Cu$_{1}$, $-3\\leq x \\leq 3$ atomic \\%). Thereafter, we used the data to develop metamodels for the mean radius and volume fraction via the \\emph{k}-Nearest Neighbour algorithm. The metamodels are shown to reproduce closely the trends obtained from the precipitation model over the entire annealing timescale. Our further analysis via parallel coordinate charts shows the effect of composition, temperature, and annealing time, and helps identify combinations thereof that lead to the desired mean radius and volume fraction for the nanocrystalline phase. This approach utilizes experimental (thermodynamic and kinetic) databases from the CALPHAD approach so as to capture the physics of nucleation and growth, while the machine learning algorithm provides the robustness needed to analyze the effects of processing parameters for this complex precipitation problem. This work contributes to understanding the linkages between processing parameters and desired microstructural characteristics (crystal size and volume fraction) responsible for achieving targeted properties, and illustrates ways to reduce the time from alloy discovery to deployment.",
+      "cats": [
+        "cond-mat.mtrl-sci"
+      ],
+      "al_score": 0
+    }
+  ],
+  "matsci_lm": [
+    {
+      "id": "2310.08511v1",
+      "title": "HoneyBee: Progressive Instruction Finetuning of Large Language Models for Materials Science",
+      "published": "2023-10-12",
+      "authors": [
+        "Yu Song",
+        "Santiago Miret",
+        "Huan Zhang",
+        "Bang Liu"
+      ],
+      "summary": "We propose an instruction-based process for trustworthy data curation in materials science (MatSci-Instruct), which we then apply to finetune a LLaMa-based language model targeted for materials science (HoneyBee). MatSci-Instruct helps alleviate the scarcity of relevant, high-quality materials science textual data available in the open literature, and HoneyBee is the first billion-parameter language model specialized to materials science. In MatSci-Instruct we improve the trustworthiness of generated data by prompting multiple commercially available large language models for generation with an Instructor module (e.g. Chat-GPT) and verification from an independent Verifier module (e.g. Claude). Using MatSci-Instruct, we construct a dataset of multiple tasks and measure the quality of our dataset along multiple dimensions, including accuracy against known facts, relevance to materials science, as well as completeness and reasonableness of the data. Moreover, we iteratively generate more targeted instructions and instruction-data in a finetuning-evaluation-feedback loop leading to progressively better performance for our finetuned HoneyBee models. Our evaluation on the MatSci-NLP benchmark shows HoneyBee's outperformance of existing language models on materials science tasks and iterative improvement in successive stages of instruction-data refinement. We study the quality of HoneyBee's language modeling through automatic evaluation and analyze case studies to further understand the model's capabilities and limitations. Our code and relevant datasets are publicly available at \\url{https://github.com/BangLab-UdeM-Mila/NLP4MatSci-HoneyBee}.",
+      "cats": [
+        "cs.CL",
+        "cond-mat.mtrl-sci",
+        "cs.AI"
+      ],
+      "al_score": 0
+    },
+    {
+      "id": "2402.05200v2",
+      "title": "Are LLMs Ready for Real-World Materials Discovery?",
+      "published": "2024-02-07",
+      "authors": [
+        "Santiago Miret",
+        "N M Anoop Krishnan"
+      ],
+      "summary": "Large Language Models (LLMs) create exciting possibilities for powerful language processing tools to accelerate research in materials science. While LLMs have great potential to accelerate materials understanding and discovery, they currently fall short in being practical materials science tools. In this position paper, we show relevant failure cases of LLMs in materials science that reveal current limitations of LLMs related to comprehending and reasoning over complex, interconnected materials science knowledge. Given those shortcomings, we outline a framework for developing Materials Science LLMs (MatSci-LLMs) that are grounded in materials science knowledge and hypothesis generation followed by hypothesis testing. The path to attaining performant MatSci-LLMs rests in large part on building high-quality, multi-modal datasets sourced from scientific literature where various information extraction challenges persist. As such, we describe key materials science information extraction challenges which need to be overcome in order to build large-scale, multi-modal datasets that capture valuable materials science knowledge. Finally, we outline a roadmap for applying future MatSci-LLMs for real-world materials discovery via: 1. Automated Knowledge Base Generation; 2. Automated In-Silico Material Design; and 3. MatSci-LLM Integrated Self-Driving Materials Laboratories.",
+      "cats": [
+        "cond-mat.mtrl-sci",
+        "cs.AI",
+        "cs.CL",
+        "cs.LG"
+      ],
+      "al_score": 0
+    },
+    {
+      "id": "2401.01089v1",
+      "title": "Quokka: An Open-source Large Language Model ChatBot for Material Science",
+      "published": "2024-01-02",
+      "authors": [
+        "Xianjun Yang",
+        "Stephen D. Wilson",
+        "Linda Petzold"
+      ],
+      "summary": "This paper presents the development of a specialized chatbot for materials science, leveraging the Llama-2 language model, and continuing pre-training on the expansive research articles in the materials science domain from the S2ORC dataset. The methodology involves an initial pretraining phase on over one million domain-specific papers, followed by an instruction-tuning process to refine the chatbot's capabilities. The chatbot is designed to assist researchers, educators, and students by providing instant, context-aware responses to queries in the field of materials science. We make the four trained checkpoints (7B, 13B, with or without chat ability) freely available to the research community at https://github.com/Xianjun-Yang/Quokka.",
+      "cats": [
+        "cs.CL",
+        "cs.AI",
+        "cs.CE"
+      ],
+      "al_score": 0
+    },
+    {
+      "id": "2411.08728v1",
+      "title": "Polymetis:Large Language Modeling for Multiple Material Domains",
+      "published": "2024-11-13",
+      "authors": [
+        "Chao Huang",
+        "Huichen Xiao",
+        "Chen Chen",
+        "Chunyan Chen",
+        "Yi Zhao",
+        "Shiyu Du",
+        "Yiming Zhang",
+        "He Sha",
+        "Ruixin Gu"
+      ],
+      "summary": "As the application of large language models in various fields continues to expand, materials science also ushers in opportunities for AI-driven innovation. The traditional way of relying on manual search for materials science-related information is now using artificial intelligence technology as an auxiliary tool to improve the efficiency of materials science research. To accelerate researchers' knowledge acquisition and intelligent decision-making support in materials science research, this paper proposes a large language model Polymetis model for a variety of materials fields, aiming to provide highly professional knowledge answers in the field of materials, covering energy materials, functional materials, alloy materials, physical chemistry, biology, and other material directions. The model uses a dataset of about 2 million material knowledge instructions, and in the process of building the dataset, we developed the Intelligent Extraction Large Model (IELM), which is specially used to extract and form structured knowledge from scientific texts, avoiding a large number of costs that need to be manually annotated, and improving efficiency. We inject this data into the GLM4-9B model for learning to enhance its inference capabilities in a variety of material domains. In addition, we have introduced enhanced prompt strategies to ensure that the answers to the model are more organized and comprehensive, providing efficient and comprehensive intelligent support for the diverse needs of materials science exploration, and promoting the development of material science.",
+      "cats": [
+        "cs.AI"
+      ],
+      "al_score": 0
+    },
+    {
+      "id": "2409.00135v1",
+      "title": "HoneyComb: A Flexible LLM-Based Agent System for Materials Science",
+      "published": "2024-08-29",
+      "authors": [
+        "Huan Zhang",
+        "Yu Song",
+        "Ziyu Hou",
+        "Santiago Miret",
+        "Bang Liu"
+      ],
+      "summary": "The emergence of specialized large language models (LLMs) has shown promise in addressing complex tasks for materials science. Many LLMs, however, often struggle with distinct complexities of material science tasks, such as materials science computational tasks, and often rely heavily on outdated implicit knowledge, leading to inaccuracies and hallucinations. To address these challenges, we introduce HoneyComb, the first LLM-based agent system specifically designed for materials science. HoneyComb leverages a novel, high-quality materials science knowledge base (MatSciKB) and a sophisticated tool hub (ToolHub) to enhance its reasoning and computational capabilities tailored to materials science. MatSciKB is a curated, structured knowledge collection based on reliable literature, while ToolHub employs an Inductive Tool Construction method to generate, decompose, and refine API tools for materials science. Additionally, HoneyComb leverages a retriever module that adaptively selects the appropriate knowledge source or tools for specific tasks, thereby ensuring accuracy and relevance. Our results demonstrate that HoneyComb significantly outperforms baseline models across various tasks in materials science, effectively bridging the gap between current LLM capabilities and the specialized needs of this domain. Furthermore, our adaptable framework can be easily extended to other scientific domains, highlighting its potential for broad applicability in advancing scientific research and applications.",
+      "cats": [
+        "cs.CL",
+        "cs.AI"
+      ],
+      "al_score": 0
+    },
+    {
+      "id": "2505.10852v2",
+      "title": "MatTools: Benchmarking Large Language Models for Materials Science Tools",
+      "published": "2025-05-16",
+      "authors": [
+        "Siyu Liu",
+        "Bo Hu",
+        "Beilin Ye",
+        "Jiamin Xu",
+        "David J. Srolovitz",
+        "Tongqi Wen"
+      ],
+      "summary": "Large language models (LLMs) are increasingly applied to materials science questions, including literature comprehension, property prediction, materials discovery and alloy design. At the same time, a wide range of physics-based computational approaches have been developed in which materials properties can be calculated. Here, we propose a benchmark application to evaluate the proficiency of LLMs to answer materials science questions through the generation and safe execution of codes based on such physics-based computational materials science packages. MatTools is built on two complementary components: a materials simulation tool question-answer (QA) benchmark and a real-world tool-usage benchmark. We designed an automated methodology to efficiently collect real-world materials science tool-use examples. The QA benchmark, derived from the pymatgen (Python Materials Genomics) codebase and documentation, comprises 69,225 QA pairs that assess the ability of an LLM to understand materials science tools. The real-world benchmark contains 49 tasks (138 subtasks) requiring the generation of functional Python code for materials property calculations. Our evaluation of diverse LLMs yields three key insights: (1)Generalists outshine specialists;(2)AI knows AI; and (3)Simpler is better. MatTools provides a standardized framework for assessing and improving LLM capabilities for materials science tool applications, facilitating the development of more effective AI systems for materials science and general scientific research.",
+      "cats": [
+        "cond-mat.mtrl-sci",
+        "cs.CL",
+        "cs.DB"
+      ],
+      "al_score": 0
+    },
+    {
+      "id": "2505.23982v1",
+      "title": "MSQA: Benchmarking LLMs on Graduate-Level Materials Science Reasoning and Knowledge",
+      "published": "2025-05-29",
+      "authors": [
+        "Jerry Junyang Cheung",
+        "Shiyao Shen",
+        "Yuchen Zhuang",
+        "Yinghao Li",
+        "Rampi Ramprasad",
+        "Chao Zhang"
+      ],
+      "summary": "Despite recent advances in large language models (LLMs) for materials science, there is a lack of benchmarks for evaluating their domain-specific knowledge and complex reasoning abilities. To bridge this gap, we introduce MSQA, a comprehensive evaluation benchmark of 1,757 graduate-level materials science questions in two formats: detailed explanatory responses and binary True/False assessments. MSQA distinctively challenges LLMs by requiring both precise factual knowledge and multi-step reasoning across seven materials science sub-fields, such as structure-property relationships, synthesis processes, and computational modeling. Through experiments with 10 state-of-the-art LLMs, we identify significant gaps in current LLM performance. While API-based proprietary LLMs achieve up to 84.5% accuracy, open-source (OSS) LLMs peak around 60.5%, and domain-specific LLMs often underperform significantly due to overfitting and distributional shifts. MSQA represents the first benchmark to jointly evaluate the factual and reasoning capabilities of LLMs crucial for LLMs in advanced materials science.",
+      "cats": [
+        "cs.AI"
+      ],
+      "al_score": 0
+    },
+    {
+      "id": "2605.29833v2",
+      "title": "OmniMatBench: A Human-Calibrated Multimodal Reasoning Benchmark Across 19 Materials Science Subfields",
+      "published": "2026-05-28",
+      "authors": [
+        "Wanhao Liu",
+        "Jiaqing Xie",
+        "Qian Tan",
+        "Weida Wang",
+        "Jue Wang",
+        "Ran Sun",
+        "Zhuo Yang",
+        "Wanli Ouyang",
+        "Lei Bai",
+        "Tianfan Fu",
+        "Lu Chen",
+        "Xin Chen",
+        "Yuqiang Li"
+      ],
+      "summary": "As multimodal language models play an increasingly important role in scientific research, materials science offers a critical testbed due to its interdisciplinary, multimodal, and application-driven nature. However, existing materials benchmarks mainly focus on property prediction, knowledge QA, or characterization understanding, leaving the broader reasoning process from materials knowledge to application underexplored. To fill this gap, we present OmniMatBench, a human-calibrated multimodal reasoning benchmark for materials science. OmniMatBench contains 3,171 expert-curated QA and calculation problems across 19 materials-science subfields, spanning fundamental materials knowledge, structural and engineering materials, materials processing and manufacturing, and functional and applied materials. We evaluate 13 open-source and closed-source MLLMs and find that the best model achieves only a 0.372 overall score, revealing a substantial gap in current materials-science reasoning. Further analysis shows strong variation across subfields, fixed reasoning heuristics, uneven materials knowledge, and limited high-level knowledge application under formula-, retrieval-, and code-assisted settings. OmniMatBench provides crucial insights into the capabilities and limitations of current MLLMs and establishes a foundation for reliable AI assistants in materials-science research.",
+      "cats": [
+        "cs.AI"
+      ],
+      "al_score": 0
+    }
+  ],
+  "matbert": [
+    {
+      "id": "2410.16165v2",
+      "title": "From Tokens to Materials: Leveraging Language Models for Scientific Discovery",
+      "published": "2024-10-21",
+      "authors": [
+        "Yuwei Wan",
+        "Tong Xie",
+        "Nan Wu",
+        "Wenjie Zhang",
+        "Chunyu Kit",
+        "Bram Hoex"
+      ],
+      "summary": "Exploring the predictive capabilities of language models in material science is an ongoing interest. This study investigates the application of language model embeddings to enhance material property prediction in materials science. By evaluating various contextual embedding methods and pre-trained models, including Bidirectional Encoder Representations from Transformers (BERT) and Generative Pre-trained Transformers (GPT), we demonstrate that domain-specific models, particularly MatBERT significantly outperform general-purpose models in extracting implicit knowledge from compound names and material properties. Our findings reveal that information-dense embeddings from the third layer of MatBERT, combined with a context-averaging approach, offer the most effective method for capturing material-property relationships from the scientific literature. We also identify a crucial \"tokenizer effect,\" highlighting the importance of specialized text processing techniques that preserve complete compound names while maintaining consistent token counts. These insights underscore the value of domain-specific training and tokenization in materials science applications and offer a promising pathway for accelerating the discovery and development of new materials through AI-driven approaches.",
+      "cats": [
+        "cs.CL",
+        "cs.DB"
+      ],
+      "al_score": 0
+    },
+    {
+      "id": "2405.15290v2",
+      "title": "Question Answering models for information extraction from perovskite materials science literature",
+      "published": "2024-05-24",
+      "authors": [
+        "M. Sipil\u00e4",
+        "F. Mehryary",
+        "S. Pyysalo",
+        "F. Ginter",
+        "Milica Todorovi\u0107"
+      ],
+      "summary": "Scientific text is a promising source of data in materials science, with ongoing research into utilising textual data for materials discovery. In this study, we developed and tested a novel approach to extract material-property relationships from scientific publications using the Question Answering (QA) method. QA performance was evaluated for information extraction of perovskite bandgaps based on a human query. We observed considerable variation in results with five different large language models fine-tuned for the QA task. Best extraction accuracy was achieved with the QA MatBERT and F1-scores improved on the current state-of-the-art. This work demonstrates the QA workflow and paves the way towards further applications. The simplicity, versatility and accuracy of the QA approach all point to its considerable potential for text-driven discoveries in materials research.",
+      "cats": [
+        "cond-mat.mtrl-sci"
+      ],
+      "al_score": 0
+    },
+    {
+      "id": "2411.00177v3",
+      "title": "LLM4Mat-Bench: Benchmarking Large Language Models for Materials Property Prediction",
+      "published": "2024-10-31",
+      "authors": [
+        "Andre Niyongabo Rubungo",
+        "Kangming Li",
+        "Jason Hattrick-Simpers",
+        "Adji Bousso Dieng"
+      ],
+      "summary": "Large language models (LLMs) are increasingly being used in materials science. However, little attention has been given to benchmarking and standardized evaluation for LLM-based materials property prediction, which hinders progress. We present LLM4Mat-Bench, the largest benchmark to date for evaluating the performance of LLMs in predicting the properties of crystalline materials. LLM4Mat-Bench contains about 1.9M crystal structures in total, collected from 10 publicly available materials data sources, and 45 distinct properties. LLM4Mat-Bench features different input modalities: crystal composition, CIF, and crystal text description, with 4.7M, 615.5M, and 3.1B tokens in total for each modality, respectively. We use LLM4Mat-Bench to fine-tune models with different sizes, including LLM-Prop and MatBERT, and provide zero-shot and few-shot prompts to evaluate the property prediction capabilities of LLM-chat-like models, including Llama, Gemma, and Mistral. The results highlight the challenges of general-purpose LLMs in materials science and the need for task-specific predictive models and task-specific instruction-tuned LLMs in materials property prediction.",
+      "cats": [
+        "cond-mat.mtrl-sci",
+        "cs.CL"
+      ],
+      "al_score": 0
+    },
+    {
+      "id": "2310.14029v1",
+      "title": "LLM-Prop: Predicting Physical And Electronic Properties Of Crystalline Solids From Their Text Descriptions",
+      "published": "2023-10-21",
+      "authors": [
+        "Andre Niyongabo Rubungo",
+        "Craig Arnold",
+        "Barry P. Rand",
+        "Adji Bousso Dieng"
+      ],
+      "summary": "The prediction of crystal properties plays a crucial role in the crystal design process. Current methods for predicting crystal properties focus on modeling crystal structures using graph neural networks (GNNs). Although GNNs are powerful, accurately modeling the complex interactions between atoms and molecules within a crystal remains a challenge. Surprisingly, predicting crystal properties from crystal text descriptions is understudied, despite the rich information and expressiveness that text data offer. One of the main reasons is the lack of publicly available data for this task. In this paper, we develop and make public a benchmark dataset (called TextEdge) that contains text descriptions of crystal structures with their properties. We then propose LLM-Prop, a method that leverages the general-purpose learning capabilities of large language models (LLMs) to predict the physical and electronic properties of crystals from their text descriptions. LLM-Prop outperforms the current state-of-the-art GNN-based crystal property predictor by about 4% in predicting band gap, 3% in classifying whether the band gap is direct or indirect, and 66% in predicting unit cell volume. LLM-Prop also outperforms a finetuned MatBERT, a domain-specific pre-trained BERT model, despite having 3 times fewer parameters. Our empirical results may highlight the current inability of GNNs to capture information pertaining to space group symmetry and Wyckoff sites for accurate crystal property prediction.",
+      "cats": [
+        "cs.CL",
+        "cond-mat.mtrl-sci"
+      ],
+      "al_score": 0
+    },
+    {
+      "id": "2305.08264v1",
+      "title": "MatSci-NLP: Evaluating Scientific Language Models on Materials Science Language Tasks Using Text-to-Schema Modeling",
+      "published": "2023-05-14",
+      "authors": [
+        "Yu Song",
+        "Santiago Miret",
+        "Bang Liu"
+      ],
+      "summary": "We present MatSci-NLP, a natural language benchmark for evaluating the performance of natural language processing (NLP) models on materials science text. We construct the benchmark from publicly available materials science text data to encompass seven different NLP tasks, including conventional NLP tasks like named entity recognition and relation classification, as well as NLP tasks specific to materials science, such as synthesis action retrieval which relates to creating synthesis procedures for materials. We study various BERT-based models pretrained on different scientific text corpora on MatSci-NLP to understand the impact of pretraining strategies on understanding materials science text. Given the scarcity of high-quality annotated data in the materials science domain, we perform our fine-tuning experiments with limited training data to encourage the generalize across MatSci-NLP tasks. Our experiments in this low-resource training setting show that language models pretrained on scientific text outperform BERT trained on general text. MatBERT, a model pretrained specifically on materials science journals, generally performs best for most tasks. Moreover, we propose a unified text-to-schema for multitask learning on \\benchmark and compare its performance with traditional fine-tuning methods. In our analysis of different training methods, we find that our proposed text-to-schema methods inspired by question-answering consistently outperform single and multitask NLP fine-tuning methods. The code and datasets are publicly available at \\url{https://github.com/BangLab-UdeM-Mila/NLP4MatSci-ACL23}.",
+      "cats": [
+        "cs.CL",
+        "cond-mat.mtrl-sci",
+        "cs.AI"
+      ],
+      "al_score": 0
+    },
+    {
+      "id": "2504.03979v1",
+      "title": "Structured Extraction of Process Structure Properties Relationships in Materials Science",
+      "published": "2025-04-04",
+      "authors": [
+        "Amit K Verma",
+        "Zhisong Zhang",
+        "Junwon Seo",
+        "Robin Kuo",
+        "Runbo Jiang",
+        "Emma Strubell",
+        "Anthony D Rollett"
+      ],
+      "summary": "With the advent of large language models (LLMs), the vast unstructured text within millions of academic papers is increasingly accessible for materials discovery, although significant challenges remain. While LLMs offer promising few- and zero-shot learning capabilities, particularly valuable in the materials domain where expert annotations are scarce, general-purpose LLMs often fail to address key materials-specific queries without further adaptation. To bridge this gap, fine-tuning LLMs on human-labeled data is essential for effective structured knowledge extraction. In this study, we introduce a novel annotation schema designed to extract generic process-structure-properties relationships from scientific literature. We demonstrate the utility of this approach using a dataset of 128 abstracts, with annotations drawn from two distinct domains: high-temperature materials (Domain I) and uncertainty quantification in simulating materials microstructure (Domain II). Initially, we developed a conditional random field (CRF) model based on MatBERT, a domain-specific BERT variant, and evaluated its performance on Domain I. Subsequently, we compared this model with a fine-tuned LLM (GPT-4o from OpenAI) under identical conditions. Our results indicate that fine-tuning LLMs can significantly improve entity extraction performance over the BERT-CRF baseline on Domain I. However, when additional examples from Domain II were incorporated, the performance of the BERT-CRF model became comparable to that of the GPT-4o model. These findings underscore the potential of our schema for structured knowledge extraction and highlight the complementary strengths of both modeling approaches.",
+      "cats": [
+        "cs.CL",
+        "cond-mat.mtrl-sci",
+        "cs.IR"
+      ],
+      "al_score": 0
+    }
+  ],
+  "gnn_alloy": [
+    {
+      "id": "2409.07664v1",
+      "title": "Rapid Assessment of Stable Crystal Structures in Single Phase High Entropy Alloys Via Graph Neural Network Based Surrogate Modelling",
+      "published": "2024-09-11",
+      "authors": [
+        "Nicholas Beaver",
+        "Aniruddha Dive",
+        "Marina Wong",
+        "Keita Shimanuki",
+        "Ananya Patil",
+        "Anthony Ferrell",
+        "Mohsen B. Kivy"
+      ],
+      "summary": "In an effort to develop a rapid, reliable, and cost-effective method for predicting the structure of single-phase high entropy alloys, a Graph Neural Network (ALIGNN-FF) based approach was introduced. This method was successfully tested on 132 different high entropy alloys, and the results were analyzed and compared with density functional theory and valence electron concentration calculations. Additionally, the effects of various factors, including lattice parameters and the number of supercells with unique atomic configurations, on the prediction accuracy were investigated. The ALIGNN-FF based approach was subsequently used to predict the structure of a novel cobalt-free 3d high entropy alloy, and the result was experimentally verified.",
+      "cats": [
+        "cond-mat.mtrl-sci",
+        "cond-mat.dis-nn"
+      ],
+      "al_score": 0
+    },
+    {
+      "id": "2605.08103v1",
+      "title": "Crystal Fractional Graph Neural Network for Energy Prediction of High-Entropy Alloys",
+      "published": "2026-04-26",
+      "authors": [
+        "Takanori Kotama",
+        "Yang Huang"
+      ],
+      "summary": "High-entropy alloys (HEAs) have attracted growing attention for their exceptional mechanical and thermal properties arising from complex atomic configurations. In this paper, we propose crystal fractional graph neural network for predicting the energy of high-entropy alloys by explicitly integrating both local atomic environments and global compositional information. The model consists of three components: a crystal graph neural network, which employs graph attention network layers to learn local interactions among 16 on-site atoms within the crystal lattice; fractional neural network, a fully connected network that embeds the global fraction of constituent elements; and feature fusion neural network, which fuses the outputs of the two submodels to predict the total crystal energy. We train the model on a dataset of 1,049 crystal structures and validate it on 198 quaternary structures, optimizing all hyperparameters via Optuna. Our results show that our model achieves an RMSE comparable to first-principles calculations and maintains high accuracy even for low-energy configurations. However, the model exhibits limitations in handling large crystal cells, which we aim to address in future work to extend its applicability to more complex systems.",
+      "cats": [
+        "physics.comp-ph",
+        "cond-mat.mtrl-sci",
+        "cs.AI"
+      ],
+      "al_score": 0
+    },
+    {
+      "id": "2401.16271v1",
+      "title": "AnisoGNN: graph neural networks generalizing to anisotropic properties of polycrystals",
+      "published": "2024-01-29",
+      "authors": [
+        "Guangyu Hu",
+        "Marat I. Latypov"
+      ],
+      "summary": "We present AnisoGNNs -- graph neural networks (GNNs) that generalize predictions of anisotropic properties of polycrystals in arbitrary testing directions without the need in excessive training data. To this end, we develop GNNs with a physics-inspired combination of node attributes and aggregation function. We demonstrate the excellent generalization capabilities of AnisoGNNs in predicting anisotropic elastic and inelastic properties of two alloys.",
+      "cats": [
+        "cond-mat.mtrl-sci"
+      ],
+      "al_score": 0
+    },
+    {
+      "id": "2605.30012v1",
+      "title": "Charting the thermodynamic stability of hybrid perovskite alloys with machine learning",
+      "published": "2026-05-28",
+      "authors": [
+        "Jarno Laakso",
+        "Armi Tiihonen",
+        "Patrick Rinke"
+      ],
+      "summary": "Alloy-based perovskite solar cells offer tunable properties and improved stability, but their complexity has impeded accurate modeling, hindering development. We present a machine-learning (ML) accelerated atomistic modeling approach for the phase stability of (Cs/FA)Pb(Br/I)3 and (Cs/FA)Sn(Br/I)3 perovskites, with FA being formamidinium. To make such quaternary alloys tractable, we adopt a two-level ML strategy, combining 1) graph neural network interatomic potentials trained on density functional theory data for efficient structure relaxations with 2) secondary ML models for direct energy prediction from unrelaxed structures. These models enable computations of free energy landscapes across compositions and phases, capturing alloy disorder and FA molecular orientations. Our results reveal narrower stable composition regions for the Sn-based system compared to its Pb-based counterpart, limiting options for compositional engineering. Maximum stability occurs at high I content, and no stabilization is observed near the center of the composition space. Our results guide the design of stable perovskites.",
+      "cats": [
+        "cond-mat.mtrl-sci"
+      ],
+      "al_score": 0
+    },
+    {
+      "id": "2403.14015v1",
+      "title": "Data-Driven Modeling of Dislocation Mobility from Atomistics using Physics-Informed Machine Learning",
+      "published": "2024-03-20",
+      "authors": [
+        "Yifeng Tian",
+        "Soumendu Bagchi",
+        "Liam Myhill",
+        "Giacomo Po",
+        "Enrique Martinez",
+        "Yen Ting Lin",
+        "Nithin Mathew",
+        "Danny Perez"
+      ],
+      "summary": "Dislocation mobility, which dictates the response of dislocations to an applied stress, is a fundamental property of crystalline materials that governs the evolution of plastic deformation. Traditional approaches for deriving mobility laws rely on phenomenological models of the underlying physics, whose free parameters are in turn fitted to a small number of intuition-driven atomic scale simulations under varying conditions of temperature and stress. This tedious and time-consuming approach becomes particularly cumbersome for materials with complex dependencies on stress, temperature, and local environment, such as body-centered cubic crystals (BCC) metals and alloys. In this paper, we present a novel, uncertainty quantification-driven active learning paradigm for learning dislocation mobility laws from automated high-throughput large-scale molecular dynamics simulations, using Graph Neural Networks (GNN) with a physics-informed architecture. We demonstrate that this Physics-informed Graph Neural Network (PI-GNN) framework captures the underlying physics more accurately compared to existing phenomenological mobility laws in BCC metals.",
+      "cats": [
+        "cond-mat.mtrl-sci"
+      ],
+      "al_score": 0
+    },
+    {
+      "id": "2301.02197v1",
+      "title": "Virtual Node Graph Neural Network for Full Phonon Prediction",
+      "published": "2023-01-05",
+      "authors": [
+        "Ryotaro Okabe",
+        "Abhijatmedhi Chotrattanapituk",
+        "Artittaya Boonkird",
+        "Nina Andrejevic",
+        "Xiang Fu",
+        "Tommi S. Jaakkola",
+        "Qichen Song",
+        "Thanh Nguyen",
+        "Nathan Drucker",
+        "Sai Mu",
+        "Bolin Liao",
+        "Yongqiang Cheng",
+        "Mingda Li"
+      ],
+      "summary": "The structure-property relationship plays a central role in materials science. Understanding the structure-property relationship in solid-state materials is crucial for structure design with optimized properties. The past few years witnessed remarkable progress in correlating structures with properties in crystalline materials, such as machine learning methods and particularly graph neural networks as a natural representation of crystal structures. However, significant challenges remain, including predicting properties with complex unit cells input and material-dependent, variable-length output. Here we present the virtual node graph neural network to address the challenges. By developing three types of virtual node approaches - the vector, matrix, and momentum-dependent matrix virtual nodes, we achieve direct prediction of $\u0393$-phonon spectra and full dispersion only using atomic coordinates as input. We validate the phonon bandstructures on various alloy systems, and further build a $\u0393$-phonon database containing over 146,000 materials in the Materials Project. Our work provides an avenue for rapid and high-quality prediction of phonon spectra and bandstructures in complex materials, and enables materials design with superior phonon properties for energy applications. The virtual node augmentation of graph neural networks also sheds light on designing other functional properties with a new level of flexibility.",
+      "cats": [
+        "cond-mat.dis-nn",
+        "physics.comp-ph"
+      ],
+      "al_score": 0
+    },
+    {
+      "id": "2406.08682v2",
+      "title": "FIP-GNN: Graph neural networks for scalable prediction of grain-level fatigue indicator parameters",
+      "published": "2024-06-12",
+      "authors": [
+        "Gyu-Jang Sim",
+        "Myoung-Gyu Lee",
+        "Marat I. Latypov"
+      ],
+      "summary": "High-cycle fatigue is a critical performance metric of structural alloys for many applications. The high cost, time, and labor involved in experimental fatigue testing call for efficient and accurate computer models of fatigue life. We present FIP-GNN -- a graph neural network for polycrystals that (i) predicts fatigue indicator parameters as grain-level inelastic responses to cyclic loading quantifying the local driving force for crack initiation and (ii) generalizes these predictions to large microstructure volume elements with grain populations well beyond those used in training. These advances can make significant contributions to statistically rigorous and computationally efficient modeling of high-cycle fatigue -- a long-standing challenge in the field.",
+      "cats": [
+        "cond-mat.mtrl-sci"
+      ],
+      "al_score": 1
+    },
+    {
+      "id": "2506.03031v2",
+      "title": "Decoding the Stability of Transition-Metal Alloys with Theory-infused Deep Learning",
+      "published": "2025-06-03",
+      "authors": [
+        "Yang Huang",
+        "Shih-Han Wang",
+        "Shuyi Cao",
+        "Luke E. K. Achenie",
+        "Hongliang Xin"
+      ],
+      "summary": "We introduce an interpretable deep learning framework that predicts the cohesive energy of transition-metal alloys (TMAs) by embedding cohesion theory within graph neural networks (GNNs). Beyond accurate prediction of cohesive energy, a key indicator of thermodynamic stability, the model offers mechanistic insights by disentangling energy contributions into physically meaningful components. These data-driven interpretations reveal periodic trends and stability principles governing transition metals. We apply the model to single-atom alloys (SAAs) to assess their thermodynamic resilience against two destabilizing processes: agglomeration (adatom clustering) and segregation (migration into the subsurface). Our analysis shows that these phenomena are governed by distinct physical factors-agglomeration is primarily influenced by localized d-orbital coupling, while segregation is dictated by delocalized effects such as wavefunction renormalization. This model thus serves as an explainable AI tool for understanding and guiding the design of stable TMAs, with implications for catalysis and materials discovery.",
+      "cats": [
+        "cond-mat.mtrl-sci"
+      ],
+      "al_score": 1
+    }
+  ],
+  "billet_ml": [],
+  "die_design": [],
+  "thermal_pinn": [
+    {
+      "id": "2111.12066v2",
+      "title": "Physics Informed Neural Networks for Control Oriented Thermal Modeling of Buildings",
+      "published": "2021-11-23",
+      "authors": [
+        "Gargya Gokhale",
+        "Bert Claessens",
+        "Chris Develder"
+      ],
+      "summary": "This paper presents a data-driven modeling approach for developing control-oriented thermal models of buildings. These models are developed with the objective of reducing energy consumption costs while controlling the indoor temperature of the building within required comfort limits. To combine the interpretability of white/gray box physics models and the expressive power of neural networks, we propose a physics informed neural network approach for this modeling task. Along with measured data and building parameters, we encode the neural networks with the underlying physics that governs the thermal behavior of these buildings. Thus, realizing a model that is guided by physics, aids in modeling the temporal evolution of room temperature and power consumption as well as the hidden state, i.e., the temperature of building thermal mass for subsequent time steps. The main research contributions of this work are: (1) we propose two variants of physics informed neural network architectures for the task of control-oriented thermal modeling of buildings, (2) we show that training these architectures is data-efficient, requiring less training data compared to conventional, non-physics informed neural networks, and (3) we show that these architectures achieve more accurate predictions than conventional neural networks for longer prediction horizons. We test the prediction performance of the proposed architectures using simulated and real-word data to demonstrate (2) and (3) and show that the proposed physics informed neural network architectures can be used for this control-oriented modeling problem.",
+      "cats": [
+        "eess.SP",
+        "cs.LG",
+        "eess.SY"
+      ],
+      "al_score": 0
+    },
+    {
+      "id": "2511.16093v1",
+      "title": "Parallelizable Complex Neural Dynamics Models for PMSM Temperature Estimation with Hardware Acceleration",
+      "published": "2025-11-20",
+      "authors": [
+        "Xinyuan Liao",
+        "Shaowei Chen",
+        "Shuai Zhao"
+      ],
+      "summary": "Accurate and efficient thermal dynamics models of permanent magnet synchronous motors are vital to efficient thermal management strategies. Physics-informed methods combine model-based and data-driven methods, offering greater flexibility than model-based methods and superior explainability compared to data-driven methods. Nonetheless, there are still challenges in balancing real-time performance, estimation accuracy, and explainability. This paper presents a hardware-efficient complex neural dynamics model achieved through the linear decoupling, diagonalization, and reparameterization of the state-space model, introducing a novel paradigm for the physics-informed method that offers high explainability and accuracy in electric motor temperature estimation tasks. We validate this physics-informed method on an NVIDIA A800 GPU using the JAX machine learning framework, parallel prefix sum algorithm, and Compute Unified Device Architecture (CUDA) platform. We demonstrate its superior estimation accuracy and parallelizable hardware acceleration capabilities through experimental evaluation on a real electric motor.",
+      "cats": [
+        "eess.SY"
+      ],
+      "al_score": 0
+    },
+    {
+      "id": "2411.09915v2",
+      "title": "Physics-informed Machine Learning for Battery Pack Thermal Management",
+      "published": "2024-11-15",
+      "authors": [
+        "Zheng Liu",
+        "Yuan Jiang",
+        "Yumeng Li",
+        "Pingfeng Wang"
+      ],
+      "summary": "With the popularity of electric vehicles, the demand for lithium-ion batteries is increasing. Temperature significantly influences the performance and safety of batteries. Battery thermal management systems can effectively control the temperature of batteries; therefore, the performance and safety can be ensured. However, the development process of battery thermal management systems is time-consuming and costly due to the extensive training dataset needed by data-driven models requiring enormous computational costs for finite element analysis. Therefore, a new approach to constructing surrogate models is needed in the era of AI. Physics-informed machine learning enforces the physical laws in surrogate models, making it the perfect candidate for estimating battery pack temperature distribution. In this study, we first developed a 21700 battery pack indirect liquid cooling system with cold plates on the top and bottom with thermal paste surrounding the battery cells. Then, the simplified finite element model was built based on experiment results. Due to the high coolant flow rate, the cold plates can be considered as constant temperature boundaries, while battery cells are the heat sources. The physics-informed convolutional neural network served as a surrogate model to estimate the temperature distribution of the battery pack. The loss function was constructed considering the heat conduction equation based on the finite difference method. The physics-informed loss function helped the convergence of the training process with less data. As a result, the physics-informed convolutional neural network showed more than 15 percents improvement in accuracy compared to the data-driven method with the same training data.",
+      "cats": [
+        "cs.LG"
+      ],
+      "al_score": 0
+    },
+    {
+      "id": "2209.01009v2",
+      "title": "Physics-informed MTA-UNet: Prediction of Thermal Stress and Thermal Deformation of Satellites",
+      "published": "2022-09-01",
+      "authors": [
+        "Zeyu Cao",
+        "Wen Yao",
+        "Wei Peng",
+        "Xiaoya Zhang",
+        "Kairui Bao"
+      ],
+      "summary": "The rapid analysis of thermal stress and deformation plays a pivotal role in the thermal control measures and optimization of the structural design of satellites. For achieving real-time thermal stress and thermal deformation analysis of satellite motherboards, this paper proposes a novel Multi-Task Attention UNet (MTA-UNet) neural network which combines the advantages of both Multi-Task Learning (MTL) and U-Net with attention mechanism. Besides, a physics-informed strategy is used in the training process, where partial differential equations (PDEs) are integrated into the loss functions as residual terms. Finally, an uncertainty-based loss balancing approach is applied to weight different loss functions of multiple training tasks. Experimental results show that the proposed MTA-UNet effectively improves the prediction accuracy of multiple physics tasks compared with Single-Task Learning (STL) models. In addition, the physics-informed method brings less error in the prediction of each task, especially on small data sets. The code can be downloaded at: \\url{https://github.com/KomorebiTso/MTA-UNet}.",
+      "cats": [
+        "cs.LG"
+      ],
+      "al_score": 0
+    },
+    {
+      "id": "2503.08482v1",
+      "title": "A Multimodal Physics-Informed Neural Network Approach for Mean Radiant Temperature Modeling",
+      "published": "2025-03-11",
+      "authors": [
+        "Pouya Shaeri",
+        "Saud AlKhaled",
+        "Ariane Middel"
+      ],
+      "summary": "Outdoor thermal comfort is a critical determinant of urban livability, particularly in hot desert climates where extreme heat poses challenges to public health, energy consumption, and urban planning. Mean Radiant Temperature ($T_{mrt}$) is a key parameter for evaluating outdoor thermal comfort, especially in urban environments where radiation dynamics significantly impact human thermal exposure. Traditional methods of estimating $T_{mrt}$ rely on field measurements and computational simulations, both of which are resource intensive. This study introduces a Physics-Informed Neural Network (PINN) approach that integrates shortwave and longwave radiation modeling with deep learning techniques. By leveraging a multimodal dataset that includes meteorological data, built environment characteristics, and fisheye image-derived shading information, our model enhances predictive accuracy while maintaining physical consistency. Our experimental results demonstrate that the proposed PINN framework outperforms conventional deep learning models, with the best-performing configurations achieving an RMSE of 3.50 and an $R^2$ of 0.88. This approach highlights the potential of physics-informed machine learning in bridging the gap between computational modeling and real-world applications, offering a scalable and interpretable solution for urban thermal comfort assessments.",
+      "cats": [
+        "cs.CV",
+        "cs.NE"
+      ],
+      "al_score": 0
+    },
+    {
+      "id": "2604.20881v1",
+      "title": "High-Fidelity Reconstruction of Charge Boundary Layers and Sharp Interfaces in Electro-Thermal-Convective Flows via Residual-Attention PINNs",
+      "published": "2026-04-12",
+      "authors": [
+        "Baitong Zhou",
+        "Ze Tao",
+        "Ke Xu",
+        "Fujun Liu",
+        "Xuan Fang"
+      ],
+      "summary": "Accurate reconstruction of localized extreme structures remains a critical bottleneck in the physics-informed modeling of electro-thermal-convective flows. Although conventional physics-informed neural networks effectively capture smooth global dynamics, they frequently suffer from numerical diffusion and distortion when attempting to resolve sharp charge boundary layers or abrupt multiphase interfaces. To address these limitations, we propose a Residual-Attention Physics-Informed Neural Network (RA-PINN) that embeds gated attention modulation within a residual feature framework to adaptively enhance local sensitivity to steep physical gradients. The proposed architecture is rigorously evaluated against standard and recurrent network baselines using canonical electrohydrodynamic scenarios, encompassing near-electrode exponential boundary layers and sharply concentrated charge fields. Quantitative analyses demonstrate that the RA-PINN significantly reduces localized errors and faithfully preserves critical interface topologies without compromising the global consistency dictated by the coupled governing equations. Ultimately, this methodology establishes a highly robust predictive framework for resolving complex interfacial and boundary layer phenomena in advanced fluid dynamics applications.",
+      "cats": [
+        "physics.flu-dyn"
+      ],
+      "al_score": 0
+    },
+    {
+      "id": "2601.03673v1",
+      "title": "Disentangling Aleatoric and Epistemic Uncertainty in Physics-Informed Neural Networks. Application to Insulation Material Degradation Prognostics",
+      "published": "2026-01-07",
+      "authors": [
+        "Ibai Ramirez",
+        "Jokin Alcibar",
+        "Joel Pino",
+        "Mikel Sanz",
+        "Jose I. Aizpurua"
+      ],
+      "summary": "Physics-Informed Neural Networks (PINNs) provide a framework for integrating physical laws with data. However, their application to Prognostics and Health Management (PHM) remains constrained by the limited uncertainty quantification (UQ) capabilities. Most existing PINN-based prognostics approaches are deterministic or account only for epistemic uncertainty, limiting their suitability for risk-aware decision-making. This work introduces a heteroscedastic Bayesian Physics-Informed Neural Network (B-PINN) framework that jointly models epistemic and aleatoric uncertainty, yielding full predictive posteriors for spatiotemporal insulation material ageing estimation. The approach integrates Bayesian Neural Networks (BNNs) with physics-based residual enforcement and prior distributions, enabling probabilistic inference within a physics-informed learning architecture. The framework is evaluated on transformer insulation ageing application, validated with a finite-element thermal model and field measurements from a solar power plant, and benchmarked against deterministic PINNs, dropout-based PINNs (d-PINNs), and alternative B-PINN variants. Results show that the proposed B-PINN provides improved predictive accuracy and better-calibrated uncertainty estimates than competing approaches. A systematic sensitivity study further analyzes the impact of boundary-condition, initial-condition, and residual sampling strategies on accuracy, calibration, and generalization. Overall, the findings highlight the potential of Bayesian physics-informed learning to support uncertainty-aware prognostics and informed decision-making in transformer asset management.",
+      "cats": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "al_score": 0
+    },
+    {
+      "id": "2605.01364v1",
+      "title": "Toward a foundational thermal model for residential buildings",
+      "published": "2026-05-02",
+      "authors": [
+        "Ting-Yu Dai",
+        "Kingsley Nweye",
+        "Dev Niyogi",
+        "Zoltan Nagy"
+      ],
+      "summary": "The building energy community lacks a foundational thermal model, i.e., a single pretrained model capable of generalizing across diverse buildings, climates, and control strategies without building-specific calibration. Achieving this vision requires architectural principles that capture universal thermal dynamics rather than memorizing building-specific patterns. We take a step toward this goal by presenting a physics-informed transformer architecture that embeds domain knowledge, e.g., derivative enrichment and Euler-based numerical integration, into a decoder-only framework. We incorporate static building features extracted from simulation models and employ Rotary Position Embedding attention to capture temporal dependencies. Evaluated on the CityLearn dataset spanning 247 residential buildings across three climate zones, our model achieves one-step prediction accuracy (RMSE of 0.30\u00b0C in Texas, 0.29\u00b0C in Vermont) while outperforming both traditional baselines and fine-tuned Time-Series Foundation Models. We also demonstrate zero-shot transferability: models trained on as few as two buildings generalize to unseen buildings and climate zones without fine-tuning. Despite the limitation of simulated residential buildings, our results establish physics-informed architectural principles as a promising foundation for universal building thermal models.",
+      "cats": [
+        "cs.LG",
+        "eess.SY"
+      ],
+      "al_score": 0
+    }
+  ],
+  "property_pred_al": [],
+  "extrusion_sim": [],
+  "process_ctrl_al": [],
+  "dendrite_cnn": [
+    {
+      "id": "2503.00836v1",
+      "title": "Insights into dendritic growth mechanisms in batteries: A combined machine learning and computational study",
+      "published": "2025-03-02",
+      "authors": [
+        "Zirui Zhao",
+        "Junchao Xia",
+        "Si Wu",
+        "Xiaoke Wang",
+        "Guanping Xu",
+        "Yinghao Zhu",
+        "Jing Sun",
+        "Hai-Feng Li"
+      ],
+      "summary": "In recent years, researchers have increasingly sought batteries as an efficient and cost-effective solution for energy storage and supply, owing to their high energy density, low cost, and environmental resilience. However, the issue of dendrite growth has emerged as a significant obstacle in battery development. Excessive dendrite growth during charging and discharging processes can lead to battery short-circuiting, degradation of electrochemical performance, reduced cycle life, and abnormal exothermic events. Consequently, understanding the dendrite growth process has become a key challenge for researchers. In this study, we investigated dendrite growth mechanisms in batteries using a combined machine learning approach, specifically a two-dimensional artificial convolutional neural network (CNN) model, along with computational methods. We developed two distinct computer models to predict dendrite growth in batteries. The CNN-1 model employs standard convolutional neural network techniques for dendritic growth prediction, while CNN-2 integrates additional physical parameters to enhance model robustness. Our results demonstrate that CNN-2 significantly enhances prediction accuracy, offering deeper insights into the impact of physical factors on dendritic growth. This improved model effectively captures the dynamic nature of dendrite formation, exhibiting high accuracy and sensitivity. These findings contribute to the advancement of safer and more reliable energy storage systems.",
+      "cats": [
+        "physics.comp-ph",
+        "cs.LG"
+      ],
+      "al_score": 1
+    },
+    {
+      "id": "2205.01167v1",
+      "title": "3D Convolutional Neural Networks for Dendrite Segmentation Using Fine-Tuning and Hyperparameter Optimization",
+      "published": "2022-05-02",
+      "authors": [
+        "Jim James",
+        "Nathan Pruyne",
+        "Tiberiu Stan",
+        "Marcus Schwarting",
+        "Jiwon Yeom",
+        "Seungbum Hong",
+        "Peter Voorhees",
+        "Ben Blaiszik",
+        "Ian Foster"
+      ],
+      "summary": "Dendritic microstructures are ubiquitous in nature and are the primary solidification morphologies in metallic materials. Techniques such as x-ray computed tomography (XCT) have provided new insights into dendritic phase transformation phenomena. However, manual identification of dendritic morphologies in microscopy data can be both labor intensive and potentially ambiguous. The analysis of 3D datasets is particularly challenging due to their large sizes (terabytes) and the presence of artifacts scattered within the imaged volumes. In this study, we trained 3D convolutional neural networks (CNNs) to segment 3D datasets. Three CNN architectures were investigated, including a new 3D version of FCDense. We show that using hyperparameter optimization (HPO) and fine-tuning techniques, both 2D and 3D CNN architectures can be trained to outperform the previous state of the art. The 3D U-Net architecture trained in this study produced the best segmentations according to quantitative metrics (pixel-wise accuracy of 99.84% and a boundary displacement error of 0.58 pixels), while 3D FCDense produced the smoothest boundaries and best segmentations according to visual inspection. The trained 3D CNNs are able to segment entire 852 x 852 x 250 voxel 3D volumes in only ~60 seconds, thus hastening the progress towards a deeper understanding of phase transformation phenomena such as dendritic solidification.",
+      "cats": [
+        "cs.CV",
+        "cond-mat.mtrl-sci",
+        "eess.IV"
+      ],
+      "al_score": 1
+    },
+    {
+      "id": "1802.06713v3",
+      "title": "Disentangling 3D Pose in A Dendritic CNN for Unconstrained 2D Face Alignment",
+      "published": "2018-02-19",
+      "authors": [
+        "Amit Kumar",
+        "Rama Chellappa"
+      ],
+      "summary": "Heatmap regression has been used for landmark localization for quite a while now. Most of the methods use a very deep stack of bottleneck modules for heatmap classification stage, followed by heatmap regression to extract the keypoints. In this paper, we present a single dendritic CNN, termed as Pose Conditioned Dendritic Convolution Neural Network (PCD-CNN), where a classification network is followed by a second and modular classification network, trained in an end to end fashion to obtain accurate landmark points. Following a Bayesian formulation, we disentangle the 3D pose of a face image explicitly by conditioning the landmark estimation on pose, making it different from multi-tasking approaches. Extensive experimentation shows that conditioning on pose reduces the localization error by making it agnostic to face pose. The proposed model can be extended to yield variable number of landmark points and hence broadening its applicability to other datasets. Instead of increasing depth or width of the network, we train the CNN efficiently with Mask-Softmax Loss and hard sample mining to achieve upto $15\\%$ reduction in error compared to state-of-the-art methods for extreme and medium pose face images from challenging datasets including AFLW, AFW, COFW and IBUG.",
+      "cats": [
+        "cs.CV"
+      ],
+      "al_score": 0
+    },
+    {
+      "id": "2408.03327v1",
+      "title": "Reconstruction of the shape of irregular rough particles from their interferometric images using a convolutional neural network",
+      "published": "2024-07-19",
+      "authors": [
+        "Alexis Abad",
+        "Alexandre Poux",
+        "Alexis Boulet",
+        "Marc Brunel"
+      ],
+      "summary": "We have developed a convolutional neural network (CNN) to reconstruct the shape of irregular rough particles from their interferometric images. The CNN is based on a UNET architecture with residual block modules. The database has been constructed using the experimental patterns generated by perfectly known pseudo-particles programmed on a Digital Micromirror Device (DMD) and under laser illumination. The CNN has been trained on a basis of 18000 experimental interferometric images using the AUSTRAL super computer (at CRIANN in Normandy). The CNN is tested in the case of centrosymmetric (stick, cross, dendrite) and non-centrosymmetric (like T, Y or L) particles. The size and the 3D orientation of the programmed particles are random. The different shapes are reconstructed by the CNN with good accuracy. Using three angles of view, the 3D reconstruction of particles from three reconstructed faces can be further done.",
+      "cats": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "al_score": 1
+    },
+    {
+      "id": "2411.02562v1",
+      "title": "Segment Anything for Dendrites from Electron Microscopy",
+      "published": "2024-11-04",
+      "authors": [
+        "Zewen Zhuo",
+        "Ilya Belevich",
+        "Ville Leinonen",
+        "Eija Jokitalo",
+        "Tarja Malm",
+        "Alejandra Sierra",
+        "Jussi Tohka"
+      ],
+      "summary": "Segmentation of cellular structures in electron microscopy (EM) images is fundamental to analyzing the morphology of neurons and glial cells in the healthy and diseased brain tissue. Current neuronal segmentation applications are based on convolutional neural networks (CNNs) and do not effectively capture global relationships within images. Here, we present DendriteSAM, a vision foundation model based on Segment Anything, for interactive and automatic segmentation of dendrites in EM images. The model is trained on high-resolution EM data from healthy rat hippocampus and is tested on diseased rat and human data. Our evaluation results demonstrate better mask quality compared to the original and other fine-tuned models, leveraging the features learned during training. This study introduces the first implementation of vision foundation models in dendrite segmentation, paving the path for computer-assisted diagnosis of neuronal anomalies.",
+      "cats": [
+        "cs.CV"
+      ],
+      "al_score": 1
+    },
+    {
+      "id": "2003.03229v5",
+      "title": "Non-linear Neurons with Human-like Apical Dendrite Activations",
+      "published": "2020-02-02",
+      "authors": [
+        "Mariana-Iuliana Georgescu",
+        "Radu Tudor Ionescu",
+        "Nicolae-Catalin Ristea",
+        "Nicu Sebe"
+      ],
+      "summary": "In order to classify linearly non-separable data, neurons are typically organized into multi-layer neural networks that are equipped with at least one hidden layer. Inspired by some recent discoveries in neuroscience, we propose a new model of artificial neuron along with a novel activation function enabling the learning of nonlinear decision boundaries using a single neuron. We show that a standard neuron followed by our novel apical dendrite activation (ADA) can learn the XOR logical function with 100% accuracy. Furthermore, we conduct experiments on six benchmark data sets from computer vision, signal processing and natural language processing, i.e. MOROCO, UTKFace, CREMA-D, Fashion-MNIST, Tiny ImageNet and ImageNet, showing that the ADA and the leaky ADA functions provide superior results to Rectified Linear Units (ReLU), leaky ReLU, RBF and Swish, for various neural network architectures, e.g. one-hidden-layer or two-hidden-layer multi-layer perceptrons (MLPs) and convolutional neural networks (CNNs) such as LeNet, VGG, ResNet and Character-level CNN. We obtain further performance improvements when we change the standard model of the neuron with our pyramidal neuron with apical dendrite activations (PyNADA). Our code is available at: https://github.com/raduionescu/pynada.",
+      "cats": [
+        "cs.NE",
+        "cs.CV",
+        "cs.LG",
+        "stat.ML"
+      ],
+      "al_score": 1
+    },
+    {
+      "id": "2603.00093v1",
+      "title": "Adaptive Uncertainty-Guided Surrogates for Efficient phase field Modeling of Dendritic Solidification",
+      "published": "2026-02-17",
+      "authors": [
+        "Eider Garate-Perez",
+        "Kerman L\u00f3pez de Calle-Etxabe",
+        "Oihana Garcia",
+        "Borja Calvo",
+        "Meritxell G\u00f3mez-Omella",
+        "Jon Lambarri"
+      ],
+      "summary": "The high computational cost of phase field simulations remains a major limitation for predicting dendritic solidification in metals, particularly in additive manufacturing, where microstructural control is critical. This work presents a surrogate model for dendritic solidification that employs uncertainty-driven adaptive sampling with XGBoost and CNNs, including a self-supervised strategy, to efficiently approximate the spatio-temporal evolution while reducing costly phase field simulations. The proposed adaptive strategy leverages model uncertainty, approximated via Monte Carlo dropout for CNNs and bagging for XGBoost, to identify high-uncertainty regions where new samples are generated locally within hyperspheres, progressively refining the spatio-temporal design space and achieving accurate predictions with significantly fewer phase field simulations than an Optimal Latin Hypercube Sampling optimized via discrete Particle Swarm Optimization (OLHS-PSO). The framework systematically investigates how temporal instance selection, adaptive sampling, and the choice between domain-informed and data-driven surrogates affect spatio-temporal model performance. Evaluation considers not only computational cost but also the number of expensive phase field simulations, surrogate accuracy, and associated $CO_2$ emissions, providing a comprehensive assessment of model performance as well as their related environmental impact.",
+      "cats": [
+        "physics.comp-ph",
+        "cs.AI",
+        "cs.LG"
+      ],
+      "al_score": 0
+    },
+    {
+      "id": "2501.09976v2",
+      "title": "Dendritic Localized Learning: Toward Biologically Plausible Algorithm",
+      "published": "2025-01-17",
+      "authors": [
+        "Changze Lv",
+        "Jingwen Xu",
+        "Yiyang Lu",
+        "Xiaohua Wang",
+        "Zhenghua Wang",
+        "Zhibo Xu",
+        "Di Yu",
+        "Xin Du",
+        "Xiaoqing Zheng",
+        "Xuanjing Huang"
+      ],
+      "summary": "Backpropagation is the foundational algorithm for training neural networks and a key driver of deep learning's success. However, its biological plausibility has been challenged due to three primary limitations: weight symmetry, reliance on global error signals, and the dual-phase nature of training, as highlighted by the existing literature. Although various alternative learning approaches have been proposed to address these issues, most either fail to satisfy all three criteria simultaneously or yield suboptimal results. Inspired by the dynamics and plasticity of pyramidal neurons, we propose Dendritic Localized Learning (DLL), a novel learning algorithm designed to overcome these challenges. Extensive empirical experiments demonstrate that DLL satisfies all three criteria of biological plausibility while achieving state-of-the-art performance among algorithms that meet these requirements. Furthermore, DLL exhibits strong generalization across a range of architectures, including MLPs, CNNs, and RNNs. These results, benchmarked against existing biologically plausible learning algorithms, offer valuable empirical insights for future research. We hope this study can inspire the development of new biologically plausible algorithms for training multilayer networks and advancing progress in both neuroscience and machine learning. Our code is available at https://github.com/Lvchangze/Dendritic-Localized-Learning.",
+      "cats": [
+        "cs.NE"
+      ],
+      "al_score": 0
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+[
+  {
+    "doi": "10.1016/j.mattod.2017.07.001",
+    "title": "Additive manufacturing: scientific and technological challenges, market uptake and opportunities",
+    "year": 2017,
+    "cites": 2052,
+    "authors": [
+      "Syed A. M. Tofail",
+      "Elias P. Koumoulos",
+      "Amit Bandyopadhyay",
+      "Susmita Bose",
+      "Lisa O\u2019Donoghue"
+    ],
+    "venue": "Materials Today",
+    "pdf": "https://ars.els-cdn.com/content/image/1-s2.0-S1369702117301773-fx1_lrg.jpg",
+    "al_score": 1,
+    "query": "digital twin metal forming extrusion"
+  },
+  {
+    "doi": "10.1021/acs.chemrev.0c00084",
+    "title": "Printability and Shape Fidelity of Bioinks in 3D Bioprinting",
+    "year": 2020,
+    "cites": 1228,
+    "authors": [
+      "A. Schwab",
+      "Riccardo Levato",
+      "Matteo D\u2019Este",
+      "Susanna Piluso",
+      "David Eglin"
+    ],
+    "venue": "Chemical Reviews",
+    "pdf": "https://pubs.acs.org/doi/pdf/10.1021/acs.chemrev.0c00084",
+    "al_score": 1,
+    "query": "machine learning extrusion force prediction"
+  },
+  {
+    "doi": "10.1609/aaai.v35i5.16542",
+    "title": "Spatial-Temporal Fusion Graph Neural Networks for Traffic Flow Forecasting",
+    "year": 2021,
+    "cites": 842,
+    "authors": [
+      "Mengzhang Li",
+      "Zhanxing Zhu"
+    ],
+    "venue": "Proceedings of the AAAI Conference on Artific",
+    "pdf": "https://ojs.aaai.org/index.php/AAAI/article/download/16542/16349",
+    "al_score": 1,
+    "query": "machine learning Al-Si casting"
+  },
+  {
+    "doi": "10.3390/ma11050840",
+    "title": "Additive Manufacturing of Metallic and Ceramic Components by the Material Extrusion of Highly-Filled Polymers: A Review and Future Perspectives",
+    "year": 2018,
+    "cites": 690,
+    "authors": [
+      "Joamin Gonz\u00e1lez-Guti\u00e9rrez",
+      "Santiago Cano",
+      "Stephan Schuschnigg",
+      "Christian Kukla",
+      "Janak Sapkota"
+    ],
+    "venue": "Materials",
+    "pdf": "https://www.mdpi.com/1996-1944/11/5/840/pdf?version=1526650017",
+    "al_score": 1,
+    "query": "digital twin metal forming extrusion"
+  },
+  {
+    "doi": "10.1016/j.addma.2021.102155",
+    "title": "A review of Laser Powder Bed Fusion Additive Manufacturing of aluminium alloys: Microstructure and properties",
+    "year": 2021,
+    "cites": 469,
+    "authors": [
+      "Hiren R. Kotadia",
+      "Gregory J. Gibbons",
+      "A. Das",
+      "Philip D. Howes"
+    ],
+    "venue": "Additive manufacturing",
+    "pdf": "https://www.sciencedirect.com/science/article/pii/S2214860421003195",
+    "al_score": 1,
+    "query": "machine learning aluminum extrusion"
+  },
+  {
+    "doi": "10.1109/access.2020.3010702",
+    "title": "A Comprehensive Review of the Load Forecasting Techniques Using Single and Hybrid Predictive Models",
+    "year": 2020,
+    "cites": 378,
+    "authors": [
+      "Abdullah Al Mamun",
+      "Md. Sohel",
+      "Naeem Mohammad",
+      "Md Samiul Haque Sunny",
+      "Debopriya Roy Dipta"
+    ],
+    "venue": "IEEE Access",
+    "pdf": "https://ieeexplore.ieee.org/ielx7/6287639/8948470/09144528.pdf",
+    "al_score": 1,
+    "query": "machine learning direct chill casting"
+  },
+  {
+    "doi": "10.3390/met8040249",
+    "title": "Preparation and Melting of Scrap in Aluminum Recycling: A Review",
+    "year": 2018,
+    "cites": 282,
+    "authors": [
+      "Stefano Capuzzi",
+      "Giulio Timelli"
+    ],
+    "venue": "Metals",
+    "pdf": "https://www.mdpi.com/2075-4701/8/4/249/pdf?version=1525347541",
+    "al_score": 2,
+    "query": "machine learning hot tearing aluminum alloy"
+  },
+  {
+    "doi": "10.1146/annurev-matsci-070218-010134",
+    "title": "Materials for Automotive Lightweighting",
+    "year": 2019,
+    "cites": 268,
+    "authors": [
+      "Alan Taub",
+      "Emmanuel De Moor",
+      "Alan A. Luo",
+      "David K. Matlock",
+      "John G. Speer"
+    ],
+    "venue": "Annual Review of Materials Research",
+    "pdf": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-matsci-070218-010134",
+    "al_score": 1,
+    "query": "machine learning hot tearing aluminum alloy"
+  },
+  {
+    "doi": "10.1002/adem.201700952",
+    "title": "Metal Alloys for Fusion\u2010Based Additive Manufacturing",
+    "year": 2018,
+    "cites": 229,
+    "authors": [
+      "Duyao Zhang",
+      "Shoujin Sun",
+      "Dong Qiu",
+      "Mark A. Gibson",
+      "Matthew S. Dargusch"
+    ],
+    "venue": "Advanced Engineering Materials",
+    "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adem.201700952",
+    "al_score": 2,
+    "query": "physics informed aluminum solidification"
+  },
+  {
+    "doi": "10.1016/j.ijmecsci.2015.08.029",
+    "title": "Dynamic crashing behavior of new extrudable multi-cell tubes with a functionally graded thickness",
+    "year": 2015,
+    "cites": 212,
+    "authors": [
+      "Jianguang Fang",
+      "Yunkai Gao",
+      "Guangyong Sun",
+      "Gang Zheng",
+      "Qing Li"
+    ],
+    "venue": "International Journal of Mechanical Sciences",
+    "pdf": null,
+    "al_score": 1,
+    "query": "surrogate model finite element extrusion"
+  },
+  {
+    "doi": "10.1038/s41524-023-01038-z",
+    "title": "Understanding and design of metallic alloys guided by phase-field simulations",
+    "year": 2023,
+    "cites": 206,
+    "authors": [
+      "Yuhong Zhao"
+    ],
+    "venue": "npj Computational Materials",
+    "pdf": "https://www.nature.com/articles/s41524-023-01038-z.pdf",
+    "al_score": 1,
+    "query": "physics informed aluminum solidification"
+  },
+  {
+    "doi": "10.1155/2021/7387296",
+    "title": "[Retracted] Effect of Tool Profile Influence in Dissimilar Friction Stir Welding of Aluminium Alloys (AA5083 and AA7068)",
+    "year": 2021,
+    "cites": 121,
+    "authors": [
+      "S. Jayaprakash",
+      "Sudhin Chandran",
+      "T. Sathish",
+      "Bhiksha Gugulothu",
+      "R. Ramesh"
+    ],
+    "venue": "Advances in Materials Science and Engineering",
+    "pdf": "https://downloads.hindawi.com/journals/amse/2021/7387296.pdf",
+    "al_score": 1,
+    "query": "graph neural network 6061 7075 aluminum"
+  },
+  {
+    "doi": "10.1016/j.rineng.2024.102566",
+    "title": "Recycling aluminium for sustainable development: A review of different processing technologies in green manufacturing",
+    "year": 2024,
+    "cites": 117,
+    "authors": [
+      "Sami Al-Alimi",
+      "Nur Kamilah Yusuf",
+      "Atef M. Ghaleb",
+      "Mohd Amri Lajis",
+      "Shazarel Shamsudin"
+    ],
+    "venue": "Results in Engineering",
+    "pdf": "https://doi.org/10.1016/j.rineng.2024.102566",
+    "al_score": 1,
+    "query": "machine learning aluminum billet quality"
+  },
+  {
+    "doi": "10.1007/s00170-020-06218-5",
+    "title": "Optimization of WEDM for precise machining of novel developed Al6061-7.5% SiC squeeze-casted composite",
+    "year": 2020,
+    "cites": 83,
+    "authors": [
+      "Kashif Ishfaq",
+      "Saqib Anwar",
+      "Muhammad Asad Ali",
+      "Muhammad Huzaifa Raza",
+      "Muhammad Umar Farooq"
+    ],
+    "venue": "The International Journal of Advanced Manufac",
+    "pdf": "https://link.springer.com/content/pdf/10.1007/s00170-020-06218-5.pdf",
+    "al_score": 1,
+    "query": "graph neural network 6061 7075 aluminum"
+  },
+  {
+    "doi": "10.3390/ma14112895",
+    "title": "Multi Ceramic Particles Inclusion in the Aluminium Matrix and Wear Characterization through Experimental and Response Surface-Artificial Neural Networks",
+    "year": 2021,
+    "cites": 82,
+    "authors": [
+      "Ballupete Nagaraju Sharath",
+      "C V Venkatesh",
+      "Asif Afzal",
+      "Navid Aslfattahi",
+      "Abdul Aabid"
+    ],
+    "venue": "Materials",
+    "pdf": "https://www.mdpi.com/1996-1944/14/11/2895/pdf?version=1622192776",
+    "al_score": 2,
+    "query": "graph neural network 6061 7075 aluminum"
+  },
+  {
+    "doi": "10.3390/ma16031084",
+    "title": "Ongoing Challenges of Laser-Based Powder Bed Fusion Processing of Al Alloys and Potential Solutions from the Literature\u2014A Review",
+    "year": 2023,
+    "cites": 64,
+    "authors": [
+      "Alessandra Martucci",
+      "Alberta Aversa",
+      "Mariangela Lombardi"
+    ],
+    "venue": "Materials",
+    "pdf": "https://www.mdpi.com/1996-1944/16/3/1084/pdf?version=1675236303",
+    "al_score": 2,
+    "query": "graph neural network 6061 7075 aluminum"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "doi": "10.1126/science.abj8754",
+    "title": "Accurate prediction of protein structures and interactions using a three-track neural netw",
+    "year": 2021,
+    "cites": 5640,
+    "openalex_id": "org/W3186179742"
+  },
+  {
+    "doi": "10.1126/science.1260419",
+    "title": "Tissue-based map of the human proteome",
+    "year": 2015,
+    "cites": 15822,
+    "openalex_id": "org/W2012034410"
+  },
+  {
+    "doi": "10.1016/j.actamat.2017.10.040",
+    "title": "Microstructure and mechanical properties of a precipitation-strengthened Al-Zr-Sc-Er-Si al",
+    "year": 2017,
+    "cites": 187,
+    "openalex_id": "org/W2766317353"
+  },
+  {
+    "doi": "10.1016/j.jmatprotec.2018.04.024",
+    "title": "Effects of shielding gas on GMAW of 10Ni5CrMoV HSLA steel using high Cr-Ni austenitic wire",
+    "year": 2018,
+    "cites": 18,
+    "openalex_id": "org/W2800577330"
+  },
+  {
+    "doi": "10.1016/j.msea.2018.09.038",
+    "title": "The room temperature tensile deformation behavior of thermomechanically processed \u03b2-metast",
+    "year": 2018,
+    "cites": 27,
+    "openalex_id": "org/W2891815026"
+  },
+  {
+    "doi": "10.1016/j.jmatprotec.2019.116335",
+    "title": "Microstructure and mechanical properties of Q235 steel welded joint in pulsed and un-pulse",
+    "year": 2019,
+    "cites": 47,
+    "openalex_id": "org/W2964175839"
+  },
+  {
+    "doi": "10.1016/j.jallcom.2017.12.039",
+    "title": "Self-powered, high-speed Sb2Se3/Si heterojunction photodetector with close spaced sublimat",
+    "year": 2017,
+    "cites": 97,
+    "openalex_id": "org/W2773013132"
+  },
+  {
+    "doi": "10.1109/AIKE.2019.00041",
+    "title": "Hierarchical Clustering for Discrimination Discovery: A Top-Down Approach",
+    "year": 2019,
+    "cites": 5,
+    "openalex_id": "org/W2967434482"
+  },
+  {
+    "doi": "10.1016/j.jcp.2018.10.045",
+    "title": "Physics-informed neural networks: A deep learning framework for solving forward and invers",
+    "year": 2018,
+    "cites": 16251,
+    "openalex_id": "org/W2899283552"
+  },
+  {
+    "doi": "10.1016/j.mtcomm.2023.105986",
+    "title": "Warm and hot deformation behaviors and hot workability of an aluminum-magnesium alloy usin",
+    "year": 2023,
+    "cites": 16,
+    "openalex_id": "org/W4365147991"
+  },
+  {
+    "doi": "10.3390/ma17061409",
+    "title": "Numerical Simulation and Machine Learning Prediction of the Direct Chill Casting Process o",
+    "year": 2024,
+    "cites": 5,
+    "openalex_id": "org/W4393006626"
+  }
+]
