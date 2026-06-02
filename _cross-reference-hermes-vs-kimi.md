@@ -70,37 +70,45 @@ verification work.
 
 ## Verification priorities (ranked by impact)
 
-When time allows to verify Kimi's 30-paper appendix, do these first:
+### Tier 1 (verified on 2026-06-02) ✅
 
-### Tier 1 (highly relevant, would substantially strengthen the prelim)
+1. ✅ **Hengst SE 2025** — X-ray YOLOv5 — `10.3390/app152413134` — [[paper-hengst-se-2025]]
+2. ✅ **Pichlmann 2025** — LLM + MatCalc + GA Al pipeline — `10.1016/j.mtcomm.2025.112843` — [[paper-pichlmann-2025]]
+3. ✅ **Rezvanpour 2026** — SDAS recycled Al PIML — `10.3390/machines14030311` (already in prelim)
+4. ✅ **Jiang 2025** — interpretable Al-10.5Zn-2.34Mg-1.28Cu — `10.1016/j.matdes.2025.114289` — [[paper-jiang-2025]]
+5. ✅ **Monash 2025** — GNN for Al LPBF — `10.1080/17452759.2025.2549366` — [[paper-gnn-lpbf-2025]]
+6. ⚠️ **Parlak & Emel 2024** — ASTM X-ray — INCONCLUSIVE (author search timed out)
+7. ❌ **Chen 2026 die design** — LIKELY FABRICATED (not in OpenAlex)
 
-1. **Chen et al. 2026** — die design automation in J. Intell. Manuf. (cited 5+ times in Kimi)
-2. **Hengst SE 2025** — production-validated X-ray YOLOv5
-3. **Parlak & Emel 2024** — ASTM aluminum casting standard X-ray
-4. **Pichlmann 2025** — LLM + MatCalc + GA aluminum pipeline
-5. **Rezvanpour 2026** — SDAS recycled Al PIML (R²=0.95)
-6. **Jiang 2025** — interpretable Al-10.5Zn-2.34Mg-1.28Cu
-7. **Monash 2025** — GNN for LPBF aluminum
+### BONUS find (not in Kimi report)
 
-### Tier 2 (would add valuable new methods/applications)
+8. ✅ **Yang 2026** — ICME die casting Al — `10.1038/s41524-026-02010-3` — [[paper-yang-2026-diecasting]]
 
-8. **Todorovic 2024** — MatBERT vs MatSciBERT comparison
-9. **S-DeepONet 2024** — multiphysics casting
-10. **Parvizi 2026** — Bayesian opt recycled 7xxx
-11. **Lee 2026** — HEA yield strength
-12. **Allegro GNN Al 2026** — million-atom MD
-13. **Energy-consistent NN 2026** — Fenchel-Young loss
-14. **PCG detection 2025** — 99.7% accuracy
-15. **ZIOT surface defect 2025** — AP 57→67%
+### Tier 2 (to verify next)
+
+9. **Todorovic 2024** — MatBERT vs MatSciBERT comparison
+10. **S-DeepONet 2024** — multiphysics casting
+11. **Parvizi 2026** — Bayesian opt recycled 7xxx
+12. **Lee 2026** — HEA yield strength
+13. **Allegro GNN Al 2026** — million-atom MD
+14. **Energy-consistent NN 2026** — Fenchel-Young loss
+15. **PCG detection 2025** — 99.7% accuracy
+16. **ZIOT surface defect 2025** — AP 57→67%
 
 ### Tier 3 (lower priority)
 
-16-30. Other industrial case studies, ChemDataExtractor details, etc.
+17-30. Other industrial case studies, ChemDataExtractor details, etc.
+
+**Verification rate Tier 1: 4-5/7 (57-71%)** — consistent with my own prelim-build
+experience (9/20 DOIs from memory = 45% fabrication). LLMs including Kimi K2.6
+still fabricate at meaningful rates.
+
+See [[_verification-tier1-results]] for full details.
 
 ## Verification plan
 
 ```bash
-# To verify Tier 1 (one search per paper):
+# To verify a paper (one search per paper):
 curl -s "https://api.openalex.org/works?search=<title>&per_page=1" | python3 -m json.tool
 
 # If result found: extract DOI, title, year, verify
